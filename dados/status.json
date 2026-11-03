@@ -1,0 +1,18 @@
+{
+ "lojas_shopify": {
+  "quando": "2026-11-03 17:57",
+  "petlabco.com": "erro: HTTP Error 404: Not Found",
+  "pethonesty.com": "184 produtos, 0 mudanças",
+  "plufl.com": "erro: HTTP Error 404: Not Found",
+  "pelsbarn.com": "59 produtos, 0 mudanças",
+  "pupnaps.com": "erro: HTTP Error 404: Not Found",
+  "bestfriendsbysheri.com": "62 produtos, 0 mudanças",
+  "zeedog.com.br": "erro: HTTP Error 404: Not Found",
+  "petiko.com.br": "erro: HTTP Error 404: Not Found",
+  "casapetloja.com": "1123 produtos, 0 mudanças"
+ },
+ "mercadolivre": {
+  "quando": "2026-11-03 17:57",
+  "cama canguru cachorro": "recusado HTTP 403"
+ }
+}
