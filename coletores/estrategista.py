@@ -45,20 +45,25 @@ def gemini(texto):
               "que valem pesquisar fornecedor no Brasil; 4) alertas (preço caindo, item esgotando, lançamento). "
               "Use só o que está nos dados; não invente números.\n\nDADOS:\n" + texto)
     corpo = json.dumps({"contents": [{"parts": [{"text": pedido}]}]}).encode()
-    for nome in reversed(nomes):
+    preferidos = [n for n in nomes if n.endswith("gemini-3.5-flash")] + [n for n in reversed(nomes) if not n.endswith("gemini-3.5-flash")]
+    for nome in preferidos[:4]:
         try:
             req = urllib.request.Request(f"{BASE}/{nome}:generateContent", data=corpo,
                                          headers={"Content-Type": "application/json", "x-goog-api-key": CHAVE})
-            r = json.load(urllib.request.urlopen(req, timeout=120))
+            r = json.load(urllib.request.urlopen(req, timeout=300))
             return nome, r["candidates"][0]["content"]["parts"][0]["text"]
-        except urllib.error.HTTPError as e:
-            print("Falhou", nome, e.code)
+        except Exception as e:  # noqa: BLE001
+            print("Falhou", nome, str(e)[:200])
     return None, None
 
 
 def main():
     dados = numeros()
-    modelo, analise = (gemini(dados) if CHAVE else (None, None))
+    try:
+        modelo, analise = (gemini(dados) if CHAVE else (None, None))
+    except Exception as e:  # noqa: BLE001
+        print("IA indisponível:", str(e)[:200])
+        modelo, analise = None, None
     data = datetime.date.today().isoformat()
     texto = f"# Briefing de tendências — {data}\n\nGerado em {agora()} (Brasília). Modelo: {modelo or 'sem IA (só números)'}\n\n"
     if analise:
