@@ -1,0 +1,20 @@
+id,produto,tipo,preco_min,preco_max,preco_de_max,variantes,disponivel,criado_em,tags,link
+7769629786164,Radiografia Digital,Diagnósticos Veterinários,0.0,0.0,,1,True,2025-04-09,imagem,https://vetcurare.com/products/radiografia-digital
+7769629687860,Endoscopia,Diagnósticos Veterinários,0.0,0.0,,1,True,2025-04-09,imagem,https://vetcurare.com/products/endoscopia-veterinaria
+7769629294644,Ultrassonografia,Diagnósticos Veterinários,0.0,0.0,,1,True,2025-04-09,imagem,https://vetcurare.com/products/ultrassonografia-veterinaria
+7769628835892,Ozonioterapia,Serviços Veterinários,0.0,0.0,,1,True,2025-04-09,especialidades,https://vetcurare.com/products/ozonioterapia-veterinaria
+7769628672052,Acupuntura,Serviços Veterinários,0.0,0.0,,1,True,2025-04-09,especialidades,https://vetcurare.com/products/acupuntura-veterinaria
+7769628442676,Ortopedia,Serviços Veterinários,0.0,0.0,,1,True,2025-04-09,especialidades,https://vetcurare.com/products/ortopedia-veterinaria
+7769625395252,Oncologia,Serviços Veterinários,0.0,0.0,,1,True,2025-04-09,especialidades,https://vetcurare.com/products/oncologia-veterinaria
+7769625165876,Oftalmologia,Serviços Veterinários,0.0,0.0,,1,True,2025-04-09,especialidades,https://vetcurare.com/products/oftalmologia-veterinaria
+7769625002036,Odontologia,Serviços Veterinários,0.0,0.0,,1,True,2025-04-09,especialidades,https://vetcurare.com/products/odontologia-veterinaria
+7769624608820,Nutrição Clínica,Serviços Veterinários,0.0,0.0,,1,True,2025-04-09,especialidades,https://vetcurare.com/products/nutricao-clinica
+7769623855156,Neurologia,Serviços Veterinários,0.0,0.0,,1,True,2025-04-09,especialidades,https://vetcurare.com/products/neurologia-veterinaria
+7769623363636,Internamento,Serviços Veterinários,0.0,0.0,,1,True,2025-04-09,especialidades,https://vetcurare.com/products/internamento-veterinario
+7769621856308,Fisioterapia,Serviços Veterinários,0.0,0.0,,1,True,2025-04-09,especialidades,https://vetcurare.com/products/fisioterapia-veterinaria
+7769619071028,Felinos,Serviços Veterinários,0.0,0.0,,1,True,2025-04-09,especialidades,https://vetcurare.com/products/atendimento-para-gatos
+7769617727540,Gastroenterologia,Serviços Veterinários,0.0,0.0,,1,True,2025-04-09,especialidades,https://vetcurare.com/products/gastroenterologia-endoscopia-veterinaria
+7769617367092,Dermatologia,Serviços Veterinários,0.0,0.0,,1,True,2025-04-09,especialidades,https://vetcurare.com/products/dermatologia-veterinaria
+7769616613428,Cirurgias,Serviços Veterinários,0.0,0.0,,1,True,2025-04-09,especialidades,https://vetcurare.com/products/cirurgias-veterinarias
+7769615040564,Cardiologia,Serviços Veterinários,0.0,0.0,,1,True,2025-04-09,especialidades,https://vetcurare.com/products/cardiologia-veterinaria
+7769613434932,Anestesiologia,Serviços Veterinários,0.0,0.0,,1,True,2025-04-09,especialidades,https://vetcurare.com/products/anestesia-veterinaria
