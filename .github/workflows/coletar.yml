@@ -1,0 +1,30 @@
+name: coletar
+on:
+  schedule:
+    - cron: "23 */6 * * *"   # a cada 6 horas
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["coletores/**", "config/**", ".github/workflows/coletar.yml"]
+permissions:
+  contents: write
+concurrency:
+  group: coletar
+  cancel-in-progress: false
+jobs:
+  coletar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - name: Lojas Shopify
+        run: python coletores/lojas_shopify.py || true
+      - name: Mercado Livre
+        run: python coletores/mercadolivre.py || true
+      - name: Gravar dados
+        run: |
+          git config user.name "coletor"
+          git config user.email "actions@users.noreply.github.com"
+          git add dados
+          git commit -m "dados: coleta $(date -u +%F_%H%M)" || exit 0
+          git pull --rebase -q && git push
