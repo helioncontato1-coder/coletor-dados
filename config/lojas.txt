@@ -1,10 +1,34 @@
 # Lojas Shopify públicas para acompanhar (um domínio por linha)
-petlabco.com
+# Referências gringas
 pethonesty.com
-plufl.com
 pelsbarn.com
-pupnaps.com
 bestfriendsbysheri.com
-zeedog.com.br
-petiko.com.br
+# Brasil (aba Concorrentes)
 casapetloja.com
+petsafi.com
+topetudo.com
+doggos.com.br
+vetcurare.com
+pet-via.com
+mykloandpet.com.br
+petsmarket.com.br
+petcroc.com
+casamiau.com
+velupet.com
+mundodipet.com.br
+patinhafeliz.com.br
+gouppet.com.br
+revivamaispet.com
+shopcao.com.br
+manuka4patas.com.br
+br-sparkpaws.com
+gatomaniacas.com.br
+akoldog.com.br
+viupet.com.br
+estilopata.com
+mimogato.com
+petmagia.com.br
+nandog.com.br
+spetialist.com.br
+zupetbrasil.com
+# Sem catálogo público (/products.json 404): petlabco.com plufl.com pupnaps.com zeedog.com.br petiko.com.br
