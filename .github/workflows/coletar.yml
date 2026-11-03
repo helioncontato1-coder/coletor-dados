@@ -1,7 +1,8 @@
 name: coletar
 on:
   schedule:
-    - cron: "23 */6 * * *"   # a cada 6 horas
+    - cron: "23 3,9,15 * * *"   # coleta
+    - cron: "23 21 * * *"       # coleta + briefing (18h23 Brasília)
   workflow_dispatch:
   push:
     branches: [main]
@@ -21,6 +22,11 @@ jobs:
         run: python coletores/lojas_shopify.py || true
       - name: Mercado Livre
         run: python coletores/mercadolivre.py || true
+      - name: Estrategista de tendências (briefing do dia)
+        if: github.event.schedule == '23 21 * * *' || github.event_name != 'schedule'
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python coletores/estrategista.py || true
       - name: Gravar dados
         run: |
           git config user.name "coletor"
