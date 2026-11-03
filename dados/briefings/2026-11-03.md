@@ -1,6 +1,51 @@
 # Briefing de tendências — 2026-11-03
 
-Gerado em 2026-11-03 19:02 (Brasília). Modelo: sem IA (só números)
+Gerado em 2026-11-03 19:19 (Brasília). Modelo: models/gemini-3.5-flash
+
+## Análise do estrategista
+
+**MEMORANDO / BRIEFING EXECUTIVO**
+
+**Para:** Diretor de Marketing  
+**De:** Estrategista de Tendências (Helion)  
+**Assunto:** Briefing de Tendências e Oportunidades (Análise de Concorrência)  
+
+---
+
+### 1. Tendências Identificadas (Baseadas nos dados das concorrentes)
+
+1. **Coleções Natalinas e Look Combinado (Pet + Tutor):** A loja `br-sparkpaws.com` lançou uma linha forte de Natal com pijamas combinados para humanos (`Human Pajama Pants`, `Human Pajama Top`) e cães (`Dog Christmas Pajamas`, `Christmas Knit Dog Sweater`). No Brasil, a `revivamaispet.com` lançou camisetas de Natal (`Catbeu®` e `Dogbeu®`) e a `manuka4patas.com.br` lançou o `Enfeite de Natal Personalizado com nome do cachorro`.
+2. **Hiper-personalização por Raça:** A `manuka4patas.com.br` lançou uma extensa linha de "Porta Coleiras" precificados em R$/US$ 62.0, segmentados por raças específicas (Dachshund, Border Collie, Buldogue Francês, Golden Retriever, Viralata, Corgi, Vizsla, etc.).
+3. **Decoração e Arte Pet Personalizada:** A `revivamaispet.com` apostou no nicho de quadros metálicos personalizados (`Pet Minimalist®`, `Pet Gogh®`, `PetLisa®`, `Typo Pet®`), com preço de R$/US$ 43.9.
+4. **Moda Pet Baseada em Memes e Humor:** A `revivamaispet.com` também lançou linhas de vestuário focadas em humor e memes (`DogSarcástico®`, `CatMeme®`, `DogMeme®`).
+5. **Acessibilidade, Ergonomia e Camas Multifuncionais:** Foco em soluções de conforto para pets idosos/obesos ou itens 2 em 1, como o `Puff Rampa para Cachorro e Gato Subir no Sofá` e `Degrau Caixa de Areia` (ambos da `velupet.com`), além do `Sofá Cama Pet Ninni 2 em 1` (da `casapetloja.com`).
+
+---
+
+### 2. Ângulos de Conteúdo para o Instagram
+
+* **Ângulo 1: "Natal em Família / Look Matchy-Matchy"**
+  * *Conceito:* Vídeos curtos mostrando o tutor e o pet vestidos com estampas/pijamas combinando no Natal ou pendurando o enfeite personalizado na árvore. Apelo alto para compra por emoção nesta época do ano (baseado em `br-sparkpaws.com` e `manuka4patas.com.br`).
+* **Ângulo 2: "Orgulho da Raça / Cantinho Organizado"**
+  * *Conceito:* Mostrar a rotina de passeio focando no porta-coleiras específico da raça do pet (ex: "Se você tem um Dachshund/Golden, você precisa disso no seu hall de entrada"). Gera identificação imediata (baseado em `manuka4patas.com.br`).
+* **Ângulo 3: "Seu Pet É uma Obra de Arte (ou um Meme)"**
+  * *Conceito:* Reels/Carrossel mostrando a transição da foto real do pet para um quadro estilo clássico (`PetLisa®` / `Pet Gogh®`) ou exibindo camisetas com memes divertidos do dia a dia do animal (baseado em `revivamaispet.com`).
+
+---
+
+### 3. Produtos para Pesquisar Fornecedor Nacional
+
+* **Porta-Coleiras em Madeira/MDF por Raça:** Item decorativo com custo baixo de produção local e margem para precificação (referência: `manuka4patas.com.br` vendendo a R$/US$ 62.0).
+* **Camisetas com Estampa de Memes Pet e Temática Natalina:** Confecção nacional básica print-on-demand ou lote reduzido (referência: `revivamaispet.com` a R$/US$ 94.9 e `br-sparkpaws.com`).
+* **Puffs/Rampas e Camas 2 em 1:** Estruturas estofadas/acessíveis para pets subirem em sofás/camas (referência: `velupet.com` a R$/US$ 531.9 e `casapetloja.com` a R$/US$ 289.9).
+
+---
+
+### 4. Alertas de Mercado
+
+* **Lançamentos Recentes:** Foram registrados **110 novos produtos lançados nos últimos 30 dias** entre as lojas monitoradas, com forte concentração em itens natalinos e vestuário/acessórios personalizados.
+* **Alterações de Loja:** Houve **0 mudanças registradas nas últimas 48 horas** nas lojas monitoradas.
+* **Preços e Estoques:** Não há dados informados sobre quedas bruscas de preço ou produtos esgotados no lote de dados atual (apenas preços originais de lançamento listados).
 
 ## Números da coleta
 
