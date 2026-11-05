@@ -1,75 +1,10 @@
-# Briefing de tendências — 2026-11-04
+# Briefing de tendências — 2026-11-05
 
-Gerado em 2026-11-04 19:12 (Brasília). Modelo: models/gemini-3.5-flash
-
-## Análise do estrategista
-
-**MEMORANDO INTERNO**
-
-**Para:** Diretor de Marketing  
-**De:** Estrategista de Tendências (Helion)  
-**Assunto:** Briefing Executivo de Tendências e Movimentações de Concorrência  
-
----
-
-### 1) Tendências Detectadas (Com base nos dados recentes)
-
-1. **Forte Aposta em Coleções e Presentes Temáticos de Natal:**  
-   Várias lojas iniciaram lançamentos massivos focados no Natal. A *casapetloja.com* lançou o "Macacão Pet Holiday" (R$ 179,90), "Roupinha Pet Magia de Natal" (R$ 189,90) e "Manta Pet Presentinho de Natal" (R$ 149,90). A *br-sparkpaws.com* lançou uma linha extensa de "Christmas Knit Dog Sweater" (US$ 19.99) e pijamas combinados ("Christmas Human Pajama"). A *manuka4patas.com.br* lançou "Enfeite de Natal Personalizado com nome do cachorro" (R$ 49,00) e a *revivamaispet.com* lançou camisetas temáticas ("Catbeu®" e "Dogbeu®").
-2. **Produtos Funcionais de Mobilidade e Cuidados para Pets Sênior/Especiais:**  
-   Há um movimento em itens ortopédicos e de acessibilidade. A *velupet.com* lançou o "Suporte de Jarrete com Mola" (R$ 322,90), o "Puff Rampa para Cachorro e Gato Subir no Sofá" (R$ 531,90) e o "Degrau Caixa de Areia: acesso fácil para gato idoso e/ou obeso" (R$ 244,90). No exterior, a *pethonesty.com* lançou suplemento "Hip + Joint Health for Dogs".
-3. **Hiperpersonalização por Raça e Quadros Decorativos (Apelo Emocional):**  
-   Foco em itens que exaltam o orgulho do tutor por raças específicas e arte decorativa. A *manuka4patas.com.br* lançou uma coleção inteira de "Porta Coleiras" segmentada por raças (Dachshund, Border Collie, Pug, Golden Retriever, Corgi, etc., a R$ 62,00). Na mesma linha emocional/casa, a *revivamaispet.com* lançou quadros metálicos personalizados ("Pet Minimalist®", "Pet Gogh®", "PetLisa®", a R$ 43,90).
-4. **Camas de Alto Conforto e Roupas de Proximidade ("Aconchego"):**  
-   Itens focados em conforto extremo e vínculo. A *casapetloja.com* lançou o "Moletom Canguru Pet Com Zíper Grudinho" (R$ 389,90) e a "Sofá Cama Pet Ninni 2 em 1" (R$ 289,90). A *pelsbarn.com* colocou no ar a "Original Calming Bed" (US$ 84.00) e a "Cloud Velvet Bed" (US$ 189.00).
-
----
-
-### 2) 3 Ângulos de Conteúdo para o Instagram
-
-* **Ângulo 1 (Emoção / Matching Looks de Natal):**  
-  *Conceito:* "Look combinando entre tutor e pet para a noite de Natal".  
-  *Ganho:* Aproveitar a alta de buscas e lançamentos por produtos natalinos (inspirado nas linhas de tricot da *br-sparkpaws.com* e roupinhas da *casapetloja.com*).
-* **Ângulo 2 (Orgulho de Raça / Decoração para Casa):**  
-  *Conceito:* "O acessório que faltava na entrada da sua casa com a cara da raça do seu filho de 4 patas".  
-  *Ganho:* Apelo visual forte para Reels/Carrossel focado em nichos de raças específicas (baseado no sucesso da estrutura de Porta-Coleiras por raça da *manuka4patas.com.br* e quadros da *revivamaispet.com*).
-* **Ângulo 3 (Resolução de Dor / Mobilidade e Cuidado Sênior):**  
-  *Conceito:* "Seu pet está com dificuldade para subir no sofá ou usando a caixa de areia com sofrimento?"  
-  *Ganho:* Vídeos demonstrativos de solução imediata para dor do pet (inspirado no Puff Rampa e Degrau de Areia da *velupet.com*).
-
----
-
-### 3) Produtos para Pesquisar Fornecedor no Brasil
-
-1. **Puff Rampa e Degraus de Acessibilidade Pet:**  
-   Item de alto valor agregado com grande apelo visual em vídeos de transformação/ajuda ao pet (referência: *velupet.com* - Puff Rampa por R$ 531,90 e Degrau por R$ 244,90).
-2. **Porta-Coleiras de Parede Personalizados por Raça:**  
-   Excelente produto para dropshipping/produção nacional rápida focada em compra por emoção (referência: *manuka4patas.com.br* a R$ 62,00).
-3. **Moletom Canguru Pet (com bolso/zíper para carregar o pet):**  
-   Produto de alto ticket focado em conexão e conforto (referência: *casapetloja.com* - Moletom Canguru Grudinho por R$ 389,90).
-4. **Kits e Roupas Temáticas de Natal (Tricots e Macacões):**  
-   Alta demanda sazonal imediata (referência: *casapetloja.com* e *br-sparkpaws.com*).
-
----
-
-### 4) Alertas de Concorrência (Últimas 48h)
-
-* **Quedas de Preço (Oportunidade/Promoção dos concorrentes):**
-  * *estilopata.com:* "Cama & Bolsa Portátil para Casa e Viagem" baixou de R$ 359,00 para R$ 289,90.
-  * *doggos.com.br:* "Brinquedo Bola de Caça Eletrônica para Cães" baixou de R$ 97,00 para R$ 87,00.
-* **Aumentos de Preço:**
-  * *doggos.com.br:* "Brinquedo Bola Gigante Colorida para Cães" subiu de R$ 427,00 para R$ 477,00.
-  * *shopcao.com.br:* "Deo Colônia Centagro Pet Smack" subiu de R$ 52,90 para R$ 58,90; "Fraldas Descartáveis Super Secão M" subiu de R$ 49,90 para R$ 56,90.
-* **Estoque Esgotado / Itens Removidos:**
-  * *br-sparkpaws.com:* Esgotou a "Capa de chuva para cães Breatheshield™" e removeu o "Christmas Dog Hoodie - Red Santa" (US$ 18.99).
-  * *pelsbarn.com:* Removeu capas de reposição ("Replacement cover for Luxurious Pelsbarn Bed" e "Car Bed").
-  * *shopcao.com.br:* Removeu itens como "Shampoo Douxo S3 Calm 200ml" (era R$ 128,90) e "Suplemento Avert Hemolipet".
-* **Lançamento Crítico Recente:**
-  * *velupet.com:* Lançou o "Suporte de Jarrete com Mola: Apoio para Cães" por R$ 322,90 (nicho de saúde/ortopedia em expansão).
+Gerado em 2026-11-05 19:14 (Brasília). Modelo: sem IA (só números)
 
 ## Números da coleta
 
-Mudanças nas lojas (últimas 48h): 18
+Mudanças nas lojas (últimas 48h): 121
 - br-sparkpaws.com: produto removido — Christmas Dog Hoodie - Red Santa (18.99 → )
 - estilopata.com: preço mudou — Cama & Bolsa Portátil para Casa e Viagem (359.0 → 289.9)
 - doggos.com.br: preço mudou — Brinquedo Bola Gigante Colorida para Cães (427.0 → 477.0)
@@ -88,8 +23,30 @@ Mudanças nas lojas (últimas 48h): 18
 - shopcao.com.br: preço mudou — Fraldas Descartáveis Super Secão para Cães Fêmeas com 12 Unidades - Tamanho M (49.9 → 56.9)
 - shopcao.com.br: produto removido — Patê Lata Bomguy Premium Filhote Sabor Carne e Fígado - 280g (7.9 → )
 - shopcao.com.br: produto removido — Shampoo Douxo S3 Calm para Cães e Gatos 200ml (128.9 → )
+- br-sparkpaws.com: produto novo — Christmas Dog Hoodie - Red Santa ( → 20.99)
+- br-sparkpaws.com: produto novo — Capa de chuva para cachorro Breatheshield™ - Teal White Purple ( → 27.99)
+- br-sparkpaws.com: produto novo — Calming Fluffy Couch Cover Dog Bed - Brown ( → 54.99)
+- br-sparkpaws.com: preço mudou — Christmas Knit Dog Sweater (19.99 → 17.99)
+- br-sparkpaws.com: preço mudou — Christmas Knit Dog Sweater - Retro Christmas (19.99 → 17.99)
+- br-sparkpaws.com: preço mudou — Christmas Knit Dog Sweater - Letters to Santa (19.99 → 17.99)
+- br-sparkpaws.com: preço mudou — Christmas Knit Dog Sweater - Howdy Holidays (19.99 → 17.99)
+- br-sparkpaws.com: preço mudou — Christmas Knit Dog Sweater - Ribbon Bow (19.99 → 17.99)
+- br-sparkpaws.com: preço mudou — Christmas Knit Dog Sweater - Holly Bow (19.99 → 17.99)
+- br-sparkpaws.com: preço mudou — Christmas Knit Dog Sweater - Nutcracker Ballet (19.99 → 17.99)
+- br-sparkpaws.com: preço mudou — Christmas Knit Dog Sweater - Snow Day Village (19.99 → 17.99)
+- br-sparkpaws.com: preço mudou — Dog Christmas Pajamas (18.99 → 16.99)
+- br-sparkpaws.com: preço mudou — Christmas Human Pajama Pants (31.99 → 29.99)
+- br-sparkpaws.com: preço mudou — Christmas Human Pajama Top (31.99 → 29.99)
+- br-sparkpaws.com: preço mudou — Human Pajama Pants - Teddy Christmas (31.99 → 29.99)
+- br-sparkpaws.com: preço mudou — Human Pajama Top - Teddy Christmas (31.99 → 29.99)
+- br-sparkpaws.com: preço mudou — Human Pajama Top - Red Bows (31.99 → 29.99)
+- br-sparkpaws.com: preço mudou — Human Pajama Pants - Red Bows (31.99 → 29.99)
+- br-sparkpaws.com: preço mudou — Human Pajama Pants - Merry Penguins (31.99 → 29.99)
+- br-sparkpaws.com: preço mudou — Human Pajama Top - Merry Penguins (31.99 → 29.99)
+- br-sparkpaws.com: preço mudou — Human Pajama Pants - Ribbons (31.99 → 29.99)
+- br-sparkpaws.com: preço mudou — Human Pajama Top - Ribbons (31.99 → 29.99)
 
-Produtos lançados nos últimos 30 dias: 113
+Produtos lançados nos últimos 30 dias: 115
 - pethonesty.com | Hip + Joint Health for Dogs (Peanut Butter Flavor) | R$/US$ 32.99 | https://pethonesty.com/products/hip-joint-health-for-dogs-peanut-butter-flavor
 - pelsbarn.com | Original Calming Bed | R$/US$ 84.0 | https://pelsbarn.com/products/original-calming-bed-free-gift
 - pelsbarn.com | Luxurious Sofa Bed | R$/US$ 99.0 | https://pelsbarn.com/products/luxurious-sofa-bed-bogo-black-friday
@@ -139,16 +96,16 @@ Produtos lançados nos últimos 30 dias: 113
 - manuka4patas.com.br | Porta Coleiras Border Collie | R$/US$ 62.0 | https://manuka4patas.com.br/products/porta-coleiras-border-collie
 - manuka4patas.com.br | Porta Coleiras Buldogue Francês | R$/US$ 62.0 | https://manuka4patas.com.br/products/porta-coleiras-buldogue-frances
 - manuka4patas.com.br | Porta Coleiras Golden Retriever | R$/US$ 62.0 | https://manuka4patas.com.br/products/porta-coleiras-golden-retriever
-- br-sparkpaws.com | Christmas Knit Dog Sweater | R$/US$ 19.99 | https://br-sparkpaws.com/products/christmas-knit-dog-sweater
-- br-sparkpaws.com | Christmas Knit Dog Sweater - Retro Christmas | R$/US$ 19.99 | https://br-sparkpaws.com/products/knit-dog-sweater-retro-christmas
-- br-sparkpaws.com | Christmas Knit Dog Sweater - Letters to Santa | R$/US$ 19.99 | https://br-sparkpaws.com/products/knit-dog-sweater-letters-to-santa
-- br-sparkpaws.com | Christmas Knit Dog Sweater - Howdy Holidays | R$/US$ 19.99 | https://br-sparkpaws.com/products/knit-dog-sweater-howdy-holidays
-- br-sparkpaws.com | Christmas Knit Dog Sweater - Ribbon Bow | R$/US$ 19.99 | https://br-sparkpaws.com/products/knit-dog-sweater-ribbon-bow
-- br-sparkpaws.com | Christmas Knit Dog Sweater - Holly Bow | R$/US$ 19.99 | https://br-sparkpaws.com/products/knit-dog-sweater-holly-bow
-- br-sparkpaws.com | Christmas Knit Dog Sweater - Nutcracker Ballet | R$/US$ 19.99 | https://br-sparkpaws.com/products/knit-dog-sweater-nutcracker-ballet
-- br-sparkpaws.com | Christmas Knit Dog Sweater - Snow Day Village | R$/US$ 19.99 | https://br-sparkpaws.com/products/knit-dog-sweater-snow-day-village
-- br-sparkpaws.com | Dog Christmas Pajamas | R$/US$ 18.99 | https://br-sparkpaws.com/products/dog-christmas-pajama-multi
-- br-sparkpaws.com | Christmas Human Pajama Pants | R$/US$ 31.99 | https://br-sparkpaws.com/products/christmas-human-pajama-pants-multi
-- br-sparkpaws.com | Christmas Human Pajama Top | R$/US$ 31.99 | https://br-sparkpaws.com/products/christmas-human-pajama-top-multi
+- br-sparkpaws.com | Christmas Dog Hoodie - Red Santa | R$/US$ 20.99 | https://br-sparkpaws.com/products/dog-christmas-hoodie-red-santa
+- br-sparkpaws.com | Calming Fluffy Couch Cover Dog Bed - Brown | R$/US$ 54.99 | https://br-sparkpaws.com/products/calming-fluffy-couch-cover-dog-bed-brown
+- br-sparkpaws.com | Christmas Knit Dog Sweater | R$/US$ 17.99 | https://br-sparkpaws.com/products/christmas-knit-dog-sweater
+- br-sparkpaws.com | Christmas Knit Dog Sweater - Retro Christmas | R$/US$ 17.99 | https://br-sparkpaws.com/products/knit-dog-sweater-retro-christmas
+- br-sparkpaws.com | Christmas Knit Dog Sweater - Letters to Santa | R$/US$ 17.99 | https://br-sparkpaws.com/products/knit-dog-sweater-letters-to-santa
+- br-sparkpaws.com | Christmas Knit Dog Sweater - Howdy Holidays | R$/US$ 17.99 | https://br-sparkpaws.com/products/knit-dog-sweater-howdy-holidays
+- br-sparkpaws.com | Christmas Knit Dog Sweater - Ribbon Bow | R$/US$ 17.99 | https://br-sparkpaws.com/products/knit-dog-sweater-ribbon-bow
+- br-sparkpaws.com | Christmas Knit Dog Sweater - Holly Bow | R$/US$ 17.99 | https://br-sparkpaws.com/products/knit-dog-sweater-holly-bow
+- br-sparkpaws.com | Christmas Knit Dog Sweater - Nutcracker Ballet | R$/US$ 17.99 | https://br-sparkpaws.com/products/knit-dog-sweater-nutcracker-ballet
+- br-sparkpaws.com | Christmas Knit Dog Sweater - Snow Day Village | R$/US$ 17.99 | https://br-sparkpaws.com/products/knit-dog-sweater-snow-day-village
+- br-sparkpaws.com | Dog Christmas Pajamas | R$/US$ 16.99 | https://br-sparkpaws.com/products/dog-christmas-pajama-multi
 
 Tipos de produto mais comuns nas lojas: sem tipo (1971), ração seca (373), vitaminas e suplementos (276), moletom e casaco (186), 0 (146), acessórios para animais de estimação (142), ração úmida (141), brinquedo (127), animais e produtos para animais de estimação (121), roupa (113), petiscos para cães (112), cama (109), antipulgas e carrapatos (104), medicamentos (88), single (83)
