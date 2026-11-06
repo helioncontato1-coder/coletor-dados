@@ -1,10 +1,10 @@
 {
  "lojas_shopify": {
-  "quando": "2026-11-06 01:22",
+  "quando": "2026-11-06 07:27",
   "pethonesty.com": "184 produtos, 0 mudanças",
   "pelsbarn.com": "57 produtos, 0 mudanças",
   "bestfriendsbysheri.com": "62 produtos, 0 mudanças",
-  "casapetloja.com": "1126 produtos, 1 mudanças",
+  "casapetloja.com": "1126 produtos, 0 mudanças",
   "petsafi.com": "30 produtos, 0 mudanças",
   "topetudo.com": "40 produtos, 0 mudanças",
   "doggos.com.br": "143 produtos, 0 mudanças",
@@ -33,7 +33,7 @@
   "zupetbrasil.com": "erro: <urlopen error [Errno -2] Name or service not known>"
  },
  "mercadolivre": {
-  "quando": "2026-11-06 01:22",
+  "quando": "2026-11-06 07:28",
   "cama canguru cachorro": "recusado HTTP 403"
  }
 }
