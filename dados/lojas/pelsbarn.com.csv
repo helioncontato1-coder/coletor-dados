@@ -1,5 +1,4 @@
 id,produto,tipo,preco_min,preco_max,preco_de_max,variantes,disponivel,criado_em,tags,link
-16061061267839,Window Cushion,,114.0,114.0,190.0,1,True,2026-11-04,,https://pelsbarn.com/products/window-cushion-bogo
 16025475645823,Original Calming Bed,,84.0,149.0,213.0,16,False,2026-10-18,,https://pelsbarn.com/products/original-calming-bed-free-gift
 16012035555711,Luxurious Sofa Bed,Halloween,99.0,149.0,248.0,12,True,2026-10-13,"bogo, holiday, LSB",https://pelsbarn.com/products/luxurious-sofa-bed-bogo-black-friday
 16011997380991,Luxurious Full Backseat Protector,Halloween,169.0,169.0,256.0,3,True,2026-10-13,"collection-car-beds, collection-luxe, holiday, LCB",https://pelsbarn.com/products/luxurious-full-backseat-protector-black-friday
@@ -23,7 +22,7 @@ id,produto,tipo,preco_min,preco_max,preco_de_max,variantes,disponivel,criado_em,
 15419286454655,Licking Mat,Beds,29.0,29.0,41.0,2,True,2025-11-25,shop-collection,https://pelsbarn.com/products/licking-mat
 15407672492415,Gift Card,,50.0,250.0,,3,True,2025-11-18,shop-collection,https://pelsbarn.com/products/a-special-gift-for-you
 15388214657407,Protecting Car Bed 2.0,Beds,70.0,125.0,208.0,6,True,2025-11-07,"dup_8235420320011, ig_exp_20e4e81e, ig_tg_c5bae7e0, OCB, price_test",https://pelsbarn.com/products/pelsbarn-protecting-car-bed-2-1
-15239487160703,Ready for Dream Bed,Orthopedic Beds,119.0,149.0,213.0,2,True,2025-08-15,"badge-bundle, collection-orthopedic-beds, shop-collection",https://pelsbarn.com/products/ready-for-dream-bed
+15239487160703,Ready for Dream Bed,Orthopedic Beds,119.0,189.0,213.0,3,True,2025-08-15,"badge-bundle, collection-orthopedic-beds, shop-collection",https://pelsbarn.com/products/ready-for-dream-bed
 15237517345151,Luxurious Orthopedic Bed,Orthopedic Beds,84.0,149.0,248.0,12,True,2025-08-14,"collection-luxe, collection-orthopedic-beds, shop-collection",https://pelsbarn.com/products/luxurious-orthopedic-bed-2
 15321634963839,Memory Foam Blend filling for Extra Comfort,Accessoires,14.0,14.0,28.0,1,True,2025-10-04,,https://pelsbarn.com/products/bolster-memory-foam-filling-dog-bed
 8897657995531,Orthopedic Calming Bed,Orthopedic Beds,83.0,161.0,230.0,8,True,2024-11-13,"collection-orthopedic-beds, Fluffy Beds, holiday, OrthoBed, shop-collection",https://pelsbarn.com/products/orthopedic-calming-bed
