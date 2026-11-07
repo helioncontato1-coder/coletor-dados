@@ -1,85 +1,63 @@
-# Briefing de tendências — 2026-11-06
+# Briefing de tendências — 2026-11-07
 
-Gerado em 2026-11-06 19:04 (Brasília). Modelo: models/gemini-3.5-flash
+Gerado em 2026-11-07 19:00 (Brasília). Modelo: models/gemini-3.5-flash
 
 ## Análise do estrategista
 
-**BRIEFING DE TENDÊNCIAS E INTELIGÊNCIA DE MERCADO PET**  
+**BRIEFING DE TENDÊNCIAS E OPORTUNIDADES — HELION**  
 **Para:** Diretor de Marketing  
-**De:** Estrategista de Tendências (Helion)
+**De:** Estrategista de Tendências  
 
 ---
 
-### 1. Tendências Observadas (Dados de Concorrentes)
+### 1. Tendências Identificadas (Baseadas nos dados das concorrentes)
 
-1. **Massificação do Natal (Vestuário Pet + Tutor):** Forte aposta em moda natalina e kits "Tal Pai/Mãe, Tal Pet". 
-   - *Lojas/Produtos:* `br-sparkpaws.com` (lote de *Christmas Knit Dog Sweaters* e pijamas humanos/pets combinando); `casapetloja.com` (*Macacão Pet Stelly*, *Macacão Pet Holiday*, *Manta Presentinho de Natal*); `manuka4patas.com.br` (*Enfeite de Natal personalizado*).
-2. **Hiperpersonalização por Raça:** Produtos focados na identificação exata da raça do pet para decoração de casa.
-   - *Lojas/Produtos:* `manuka4patas.com.br` lançou uma linha expressiva de *Porta Coleiras* categorizados por raças especificas (Dachshund, Border Collie, Shih Tzu, Corgi, Pug, etc.).
-3. **Ergonomia, Saúde e Cuidados Sênior:** Expansão de itens voltados para acessibilidade, reabilitação e alívio ortopédico.
-   - *Lojas/Produtos:* `velupet.com` (*Suporte de Jarrete com Mola*, *Puff Rampa para Cachorro*, *Degrau Caixa de Areia para Gato Idoso/Obeso*).
-4. **Proteção e Conforto para Móveis da Casa:** Camas calmantes acopláveis a sofás.
-   - *Lojas/Produtos:* `br-sparkpaws.com` (*Calming Fluffy Couch Cover Dog Bed*); `pelsbarn.com` (*Luxurious Sofa Bed*, *Cloud Velvet Bed*).
+*   **Vestuário de Natal & Kit Família (Tutor + Pet):** Alta movimentação de peças natalinas com apelo visual imediato. A **br-sparkpaws.com** reforçou a linha com *Christmas Dog Pajamas* e *Christmas Human Pajama* (pijamas combinados para tutor e pet), além da **casapetloja.com** com a *Roupinha Pet Magia de Natal* e *Macacão Pet Holiday*.
+*   **Conforto Extremo & Anti-Ansiedade (Camas de Alto Ticket):** Foco em itens que protegem o mobiliário da casa enquanto acalmam o pet. A **br-sparkpaws.com** lançou a *Calming Fluffy Couch Cover Dog Bed*, a **pelsbarn.com** trouxe a *Original Calming Bed* e *Cloud Velvet Bed*, e a **casapetloja.com** lançou opções premium como a *Cama Tendinha Pet Princess* (R$ 499,9) e *Sofá Cama Pet Ninni 2 em 1* (R$ 289,9).
+*   **Personalização Emocional e Específica por Raça:** Produtos de decoração e moda focados na raça ou em memes. A **manuka4patas.com.br** lançou uma linha extensa de *Porta Coleiras* categorizados por raça (*Golden Retriever, Corgi, Pug, Buldogue Francês, etc.*) e a **revivamaispet.com** apostou fortemente em *Quadros Metálicos Personalizados com Foto do Pet* (*Pet Gogh, PetLisa*) e camisetas de memes (*DogSarcástico, CatMeme*).
+*   **Acessibilidade e Saúde Pet (Alto Ticket):** Soluções funcionais para mobilidade e bem-estar. A **velupet.com** lançou o *Puff Rampa para Cachorro e Gato Subir no Sofá* (R$ 531,9) e o *Colete Refrescante para Cachorro com Peitoral Ajustável* (R$ 233,9).
 
 ---
 
-### 2. Ângulos de Conteúdo para Instagram (Foco em Conversão/Emoção)
+### 2. Ângulos de Conteúdo para o Instagram (Tráfego Pago / Reels)
 
-1. **"Look de Natal em Família" (Apelo Emocional / Fofura):**  
-   *Conceito:* Reels mostrando o tutor e o pet vestidos combinando para a noite de Natal (usando o apelo de pijamas ou suéteres combinados).  
-   *Gatilho:* Desejo de inclusão do pet nas celebrações familiares de fim de ano.
-
-2. **"Seu pet tem dificuldade para subir no sofá ou usar a caixinha?" (Apelo de Dor / Solução):**  
-   *Conceito:* Vídeo focado em cães/gatos idosos ou de porte pequeno sentindo dor nas articulações, apresentando a rampa/puff ou degrau adaptado como ato de carinho e cuidado.  
-   *Gatilho:* Nutrição e resolução de dores reais da vida do pet.
-
-3. **"O Cantinho da Sua Raça" (Apelo de Identidade):**  
-   *Conceito:* Mostre a organização da entrada de casa usando porta-coleiras personalizados com a silhueta da raça do cliente (ex: Dachshund, Golden Retriever, Border Collie).  
-   *Gatilho:* Orgulho de raça e organização da casa (casa + pet).
+*   **Ângulo 1: "Matching Look" de Natal (Emoção / Identificação)**
+    *   *Conceito:* Vídeo estilo Reels exibindo o tutor e o pet usando o mesmo pijama/roupa temática de Natal para a noite de ceia. 
+    *   *Gancho:* "Se você não vai passar o Natal combinando look com o seu pet, você tá passando o Natal errado." (Aproveita a tendência da *br-sparkpaws.com* e *casapetloja.com*).
+*   **Ângulo 2: "Orgulho de Raça / Cantinho do Pet" (Personalizado / Decoração Casa)**
+    *   *Conceito:* Mostrar a organização da casa com itens decorativos específicos da raça do cachorro/gato (porta-coleiras e quadros na parede).
+    *   *Gancho:* "O item de decoração que faltava na casa de todo pai de [Nome da Raça]." (Aproveita a tendência da *manuka4patas.com.br* e *revivamaispet.com*).
+*   **Ângulo 3: Solução Protetora + Conforto Anti-Ansiedade (Dor do Cliente / Casa)**
+    *   *Conceito:* Demonstração de uma capa calmante para sofá, mostrando o pet relaxando profundamente enquanto o estofado fica protegido de pelos e sujeira.
+    *   *Gancho:* "Como proteger seu sofá e ao mesmo tempo acabar com a ansiedade do seu pet." (Aproveita a tendência da *br-sparkpaws.com* e *pelsbarn.com*).
 
 ---
 
-### 3. Produtos para Pesquisar Fornecedor Nacional (Sourcing Brasil)
+### 3. Produtos para Pesquisar Fornecedor Nacional (Nível Brasil / Dropshipping Nacional)
 
-- **Porta-Coleiras Recortados por Raça:** Produção nacional simples (corte a laser em MDF ou acrílico), inspirada nos lançamentos da `manuka4patas.com.br` (vendidos a R$ 62,0).
-- **Rampas e Degraus Ergonômicos (Puff/Caixa de Areia):** Artigos em espuma/madeira voltados para acessibilidade sênior (`velupet.com` comercializando entre R$ 244,9 e R$ 531,9).
-- **Capa/Protetor Calmante de Sofá:** Camas de plush ajustáveis a móveis (`br-sparkpaws.com` / `pelsbarn.com`), aproveitando o nicho de produtos para a casa.
+1.  **Porta-Coleiras em Madeira/MDF por Raça:** Inspirado na *manuka4patas.com.br* (vendido a R$ 62,00). Produto leve, de baixo custo de produção local (corte a laser) e alto apelo de personalização.
+2.  **Capa Protetora Calmante para Sofá (*Couch Cover Bed*):** Inspirado na *br-sparkpaws.com* e *pelsbarn.com*. Excelente aceitação no nicho pet + casa.
+3.  **Puff Rampa para Pet Subir no Sofá/Cama:** Inspirado na *velupet.com* (vendido a R$ 531,9). Produto de alto valor agregado e forte apelo de saúde articular.
+4.  **Quadros Metálicos/Decorativos Pet Personalizados:** Inspirado na *revivamaispet.com* (vendidos a R$ 43,90). Fácil logística de impressão e envio nacional.
 
 ---
 
-### 4. Alertas de Mercado
+### 4. Alertas (Movimentações Concorrentes nas últimas 48h)
 
-* **Queda de Preço / Ajustes:**
-  - `br-sparkpaws.com` reduziu preços em toda a linha de suéteres natalinos (de $19.99 para $17.99), pijamas caninos (de $18.99 para $16.99) e pijamas adultos (de $31.99 para $29.99).
-  - `estilopata.com` reduziu a *Cama & Bolsa Portátil para Casa e Viagem* de R$ 359,0 para R$ 289,9.
-  - `doggos.com.br` baixou a *Brinquedo Bola de Caça Eletrônica* de R$ 97,0 para R$ 87,0 (porém subiu a *Bola Gigante Colorida* de R$ 427,0 para R$ 477,0).
-* **Item Esgotado / Alta Demanda:**
-  - `br-sparkpaws.com`: *Capa de chuva para cães Breatheshield™* ficou sem estoque (`available: False`).
-* **Lançamentos Expressivos a Monitorar:**
-  - `casapetloja.com` lançou linha pesada de vestuário e camas (*Sofá Cama Pet Ninni 2 em 1* por R$ 289,9 e *Cama Tendinha Pet Princess* por R$ 499,9).
-  - `velupet.com` lançou *Colete Refrescante* (R$ 233,9) antecipando a demanda de verão.
+*   **Quedas de Preço (Promoções agressivas de Natal na br-sparkpaws.com):**
+    *   *Christmas Knit Dog Sweater* (Vários modelos): De $19.99 para **$17.99**.
+    *   *Dog Christmas Pajamas* (Vários modelos): De $18.99 para **$16.99**.
+    *   *Christmas Human Pajama (Pants e Top)*: De $31.99 para **$29.99**.
+*   **Aumento de Preço (Aposta de margem na br-sparkpaws.com):**
+    *   *Christmas Human Hoodie* (Red Santa, Snow Day Village, etc.): De $36.99 para **$38.99**.
+    *   *Christmas Dog Hoodie*: De $18.99 para **$20.99**.
+*   **Novos Lançamentos Importantes:**
+    *   **br-sparkpaws.com:** Lançou o *Christmas Dog Hoodie - Red Santa* ($20.99), a *Capa de chuva Breatheshield™* ($27.99) e a *Calming Fluffy Couch Cover Dog Bed* ($54.99).
+    *   **casapetloja.com:** Lançou a linha de camas premium (*Cama Tendinha Pet Princess* por R$ 499,9) e *Manta Pet Presentinho de Natal* (R$ 149,9).
 
 ## Números da coleta
 
-Mudanças nas lojas (últimas 48h): 134
-- br-sparkpaws.com: produto removido — Christmas Dog Hoodie - Red Santa (18.99 → )
-- estilopata.com: preço mudou — Cama & Bolsa Portátil para Casa e Viagem (359.0 → 289.9)
-- doggos.com.br: preço mudou — Brinquedo Bola Gigante Colorida para Cães (427.0 → 477.0)
-- doggos.com.br: preço mudou — Brinquedo Bola de Caça Eletrônica para Cães (97.0 → 87.0)
-- velupet.com: produto novo — Suporte de Jarrete com Mola: Apoio para Cães — Velú Pet ( → 322.9)
-- shopcao.com.br: preço mudou — Deo Colônia Centagro Pet Smack para Cães e Gatos Filhotes (52.9 → 58.9)
-- shopcao.com.br: produto removido — Suplemento Avert Hemolipet - 110mL (77.5 → )
-- br-sparkpaws.com: esgotou — Capa de chuva para cães Breatheshield™ - (True → False)
-- br-sparkpaws.com: esgotou — Capa de chuva para cães Breatheshield™ - (True → False)
-- pelsbarn.com: produto removido — Replacement cover for Luxurious Pelsbarn Bed (COVER ONLY) (45.0 → )
-- pelsbarn.com: produto removido — Replacement Cover for Pelsbarn Car Bed (37.0 → )
-- casapetloja.com: produto novo — Macacão Pet Stelly ( → 199.9)
-- casapetloja.com: produto novo — Macacão Pet Holiday ( → 179.9)
-- casapetloja.com: produto novo — Roupinha Pet Magia de Natal ( → 189.9)
-- casapetloja.com: produto novo — Manta Pet Presentinho de Natal ( → 149.9)
-- shopcao.com.br: preço mudou — Fraldas Descartáveis Super Secão para Cães Fêmeas com 12 Unidades - Tamanho M (49.9 → 56.9)
-- shopcao.com.br: produto removido — Patê Lata Bomguy Premium Filhote Sabor Carne e Fígado - 280g (7.9 → )
-- shopcao.com.br: produto removido — Shampoo Douxo S3 Calm para Cães e Gatos 200ml (128.9 → )
+Mudanças nas lojas (últimas 48h): 131
 - br-sparkpaws.com: produto novo — Christmas Dog Hoodie - Red Santa ( → 20.99)
 - br-sparkpaws.com: produto novo — Capa de chuva para cachorro Breatheshield™ - Teal White Purple ( → 27.99)
 - br-sparkpaws.com: produto novo — Calming Fluffy Couch Cover Dog Bed - Brown ( → 54.99)
@@ -102,8 +80,26 @@ Mudanças nas lojas (últimas 48h): 134
 - br-sparkpaws.com: preço mudou — Human Pajama Top - Merry Penguins (31.99 → 29.99)
 - br-sparkpaws.com: preço mudou — Human Pajama Pants - Ribbons (31.99 → 29.99)
 - br-sparkpaws.com: preço mudou — Human Pajama Top - Ribbons (31.99 → 29.99)
+- br-sparkpaws.com: preço mudou — Human Pajama Pants - Retro Santa (31.99 → 29.99)
+- br-sparkpaws.com: preço mudou — Human Pajama Top - Retro Santa (31.99 → 29.99)
+- br-sparkpaws.com: preço mudou — Human Pajama Pants - Mistletoe Night (31.99 → 29.99)
+- br-sparkpaws.com: preço mudou — Human Pajama Top - Mistletoe Night (31.99 → 29.99)
+- br-sparkpaws.com: preço mudou — Dog Christmas Pajama - Teddy Christmas (18.99 → 16.99)
+- br-sparkpaws.com: preço mudou — Dog Christmas Pajama - Red Bows (18.99 → 16.99)
+- br-sparkpaws.com: preço mudou — Dog Christmas Pajama - Merry Penguins (18.99 → 16.99)
+- br-sparkpaws.com: preço mudou — Dog Christmas Pajama - Retro Santa (18.99 → 16.99)
+- br-sparkpaws.com: preço mudou — Dog Christmas Pajama - Mistletoe Night (18.99 → 16.99)
+- br-sparkpaws.com: preço mudou — Dog Christmas Pajama - Ribbons (18.99 → 16.99)
+- br-sparkpaws.com: preço mudou — Christmas Human Hoodie - Red Santa (36.99 → 38.99)
+- br-sparkpaws.com: preço mudou — Christmas Human Hoodie - Snow Day Village (36.99 → 38.99)
+- br-sparkpaws.com: preço mudou — Christmas Human Hoodie - Black Howdy Holidays (36.99 → 38.99)
+- br-sparkpaws.com: preço mudou — Christmas Human Hoodie - Ribbon Bow (36.99 → 38.99)
+- br-sparkpaws.com: preço mudou — Christmas Human Hoodie - Green Nutcracker Ballet (36.99 → 38.99)
+- br-sparkpaws.com: preço mudou — Christmas Dog Hoodie - Green Nutcracker Ballet (18.99 → 20.99)
+- br-sparkpaws.com: preço mudou — Christmas Dog Hoodie - Black Howdy Holidays (18.99 → 20.99)
+- br-sparkpaws.com: preço mudou — Christmas Dog Hoodie - Snow Day Village (18.99 → 20.99)
 
-Produtos lançados nos últimos 30 dias: 111
+Produtos lançados nos últimos 30 dias: 103
 - pelsbarn.com | Original Calming Bed | R$/US$ 84.0 | https://pelsbarn.com/products/original-calming-bed-free-gift
 - pelsbarn.com | Luxurious Sofa Bed | R$/US$ 99.0 | https://pelsbarn.com/products/luxurious-sofa-bed-bogo-black-friday
 - pelsbarn.com | Luxurious Full Backseat Protector | R$/US$ 169.0 | https://pelsbarn.com/products/luxurious-full-backseat-protector-black-friday
@@ -116,12 +112,12 @@ Produtos lançados nos últimos 30 dias: 111
 - casapetloja.com | Sofá Cama Pet Ninni 2 em 1 | R$/US$ 289.9 | https://casapetloja.com/products/sofa-cama-pet-ninni-2-em-1
 - casapetloja.com | Cama Tendinha Pet Princess | R$/US$ 499.9 | https://casapetloja.com/products/cama-tendinha-pet-princess
 - casapetloja.com | Cama Colchão Nuvy Impermeável com Cabeceira | R$/US$ 349.9 | https://casapetloja.com/products/cama-colchao-nuvy-impermeavel-com-cabeceira
+- doggos.com.br | Chaveiro Patinha Guarda-Pelos de Cães | R$/US$ 67.0 | https://doggos.com.br/products/chaveiro-de-couro-sintetico-para-pelos-de-caes
 - doggos.com.br | Peitoral Asa de Anjo com Guia para Cães | R$/US$ 227.0 | https://doggos.com.br/products/peitoral-asa-de-anjo-com-guia-para-caes
 - doggos.com.br | Bola Interativa com Corda para Cães | R$/US$ 137.0 | https://doggos.com.br/products/bola-interativa-com-corda-para-caes
 - velupet.com | Suporte de Jarrete com Mola: Apoio para Cães — Velú Pet | R$/US$ 322.9 | https://velupet.com/products/suporte-jarrete-cachorro
 - velupet.com | Puff Rampa para Cachorro e Gato Subir no Sofá — Velú Pet | R$/US$ 531.9 | https://velupet.com/products/puff-rampa-pet
 - velupet.com | Colete Refrescante para Cachorro com Peitoral Ajustável | R$/US$ 233.9 | https://velupet.com/products/colete-refrescante-passeio-mais-fresco-para-caes
-- velupet.com | Degrau Caixa de Areia: acesso fácil para gato idoso e/ou obeso — Velú Pet | R$/US$ 244.9 | https://velupet.com/products/degrau-caixa-de-areia-gato
 - revivamaispet.com | DogSarcástico® – Camiseta Unisexx Salsicha Engraçado | R$/US$ 94.9 | https://revivamaispet.com/products/dogsarcastico-®-camiseta-unisexx-salsicha-engracado
 - revivamaispet.com | Catbeu® – Camiseta Unisexx Especial de Natal Gato Laranja | R$/US$ 94.9 | https://revivamaispet.com/products/catbeu®-camiseta-unisexx-especial-de-natal-gato-laranja
 - revivamaispet.com | Dogbeu® – Camiseta Unisexx Especial de Natal Fiapo de Manga | R$/US$ 94.9 | https://revivamaispet.com/products/dingobeu®-camiseta-unisexx-memes-de-gatos-estilo-figurinha-copia
@@ -165,4 +161,4 @@ Produtos lançados nos últimos 30 dias: 111
 - br-sparkpaws.com | Human Pajama Pants - Teddy Christmas | R$/US$ 29.99 | https://br-sparkpaws.com/products/christmas-pajama-pants-teddy-christmas
 - br-sparkpaws.com | Human Pajama Top - Teddy Christmas | R$/US$ 29.99 | https://br-sparkpaws.com/products/christmas-pajama-top-teddy-christmas
 
-Tipos de produto mais comuns nas lojas: sem tipo (1970), ração seca (373), vitaminas e suplementos (276), moletom e casaco (186), 0 (146), acessórios para animais de estimação (142), ração úmida (141), brinquedo (127), animais e produtos para animais de estimação (121), roupa (113), petiscos para cães (112), cama (109), antipulgas e carrapatos (104), medicamentos (88), single (83)
+Tipos de produto mais comuns nas lojas: sem tipo (1970), ração seca (373), vitaminas e suplementos (276), moletom e casaco (186), 0 (146), acessórios para animais de estimação (143), ração úmida (141), brinquedo (127), animais e produtos para animais de estimação (121), roupa (113), petiscos para cães (112), cama (109), antipulgas e carrapatos (104), medicamentos (88), single (83)
