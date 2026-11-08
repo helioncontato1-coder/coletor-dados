@@ -365,7 +365,7 @@ id,produto,tipo,preco_min,preco_max,preco_de_max,variantes,disponivel,criado_em,
 10390460956853,Frostcore™ Cooling Mat - Ash Blue (2),Cooling Dog Mat,19.99,25.99,46.0,5,True,2026-03-19,"2026, 2026Q1, exclude_google",https://br-sparkpaws.com/products/frostcore-cooling-mat-ash-blue-2
 10374489243829,Frostcore™ Cooling Couch Cover Dog Bed - Ash Blue,Cooling Dog Couch Cover Bed,42.99,62.99,115.0,5,True,2026-03-04,"2026, 2026Q1, exclude_google",https://br-sparkpaws.com/products/frostcore_cooling_bed_ash_blue
 10374524207285,Frostcore™ Cooling Mat - Ash Blue,Cooling Dog Mat,19.99,25.99,46.0,5,True,2026-03-04,"2026, 2026Q1, exclude_google",https://br-sparkpaws.com/products/frostcore_cooling_mat_ash_blue
-10346276487349,Around the World Human Hoodies,Human Hoodie,36.99,38.99,70.0,50,True,2026-01-29,"2026, 2026Q1, __label:new",https://br-sparkpaws.com/products/dogs_around_the_world_human_hoodies
+10346276487349,Around the World Human Hoodies,Human Hoodie,36.99,38.99,70.0,50,True,2026-01-29,"2026, 2026Q1, __label:new, exclude_google",https://br-sparkpaws.com/products/dogs_around_the_world_human_hoodies
 10346255024309,Around the World Dog Hoodies,Dog Hoodie,17.99,25.99,50.0,80,True,2026-01-29,"2026, 2026Q1, __label:new, multi-listing",https://br-sparkpaws.com/products/dog_hoodies_countries
 10346217799861,The Australia Human Hoodie - Teal,Human Hoodie,38.99,38.99,70.0,5,True,2026-01-29,"2026, 2026Q1, exclude_google",https://br-sparkpaws.com/products/the_australia_human_hoodie_teal
 10346217701557,The Australia Human Hoodie - Yellow,Human Hoodie,38.99,38.99,70.0,5,True,2026-01-29,"2026, 2026Q1, exclude_google",https://br-sparkpaws.com/products/the_australia_human_hoodie_yellow
@@ -374,8 +374,8 @@ id,produto,tipo,preco_min,preco_max,preco_de_max,variantes,disponivel,criado_em,
 10346216718517,The UK Human Hoodie,Human Hoodie,38.99,38.99,70.0,5,True,2026-01-29,"2026, 2026Q1, exclude_google",https://br-sparkpaws.com/products/the_uk_human_hoodie
 10346216685749,The France Human Hoodie - Beige,Human Hoodie,38.99,38.99,70.0,5,True,2026-01-29,"2026, 2026Q1, exclude_google",https://br-sparkpaws.com/products/the_france_human_hoodie_beige
 10346216587445,The France Human Hoodie - Blue,Human Hoodie,38.99,38.99,70.0,5,True,2026-01-29,"2026, 2026Q1, exclude_google",https://br-sparkpaws.com/products/the_france_human_hoodie_blue
-10346216554677,The Germany Human Hoodie - Dark Green,Human Hoodie,38.99,38.99,70.0,5,True,2026-01-29,"2026, 2026Q1",https://br-sparkpaws.com/products/the_germany_human_hoodie_dark_green
-10346216489141,The Germany Human Hoodie - Dark Brown,Human Hoodie,38.99,38.99,70.0,5,True,2026-01-29,"2026, 2026Q1",https://br-sparkpaws.com/products/the_germany_human_hoodie_dark_brown
+10346216554677,The Germany Human Hoodie - Dark Green,Human Hoodie,38.99,38.99,70.0,5,True,2026-01-29,"2026, 2026Q1, exclude_google",https://br-sparkpaws.com/products/the_germany_human_hoodie_dark_green
+10346216489141,The Germany Human Hoodie - Dark Brown,Human Hoodie,38.99,38.99,70.0,5,True,2026-01-29,"2026, 2026Q1, exclude_google",https://br-sparkpaws.com/products/the_germany_human_hoodie_dark_brown
 10346216456373,Coquette Human Hoodie,Human Hoodie,38.99,38.99,70.0,5,True,2026-01-29,"2026, 2026Q1, exclude_google",https://br-sparkpaws.com/products/coquette_human_hoodie
 10346215833781,Everglade Skydye Human Hoodie,Human Hoodie,38.99,38.99,70.0,5,True,2026-01-29,"2026, 2026Q1, exclude_google",https://br-sparkpaws.com/products/everglade_skydye_human_hoodie
 10346215473333,The Australia Dog Hoodie - Teal,Dog Hoodie,18.99,25.99,50.0,8,True,2026-01-29,"2026, 2026Q1",https://br-sparkpaws.com/products/the_australia_dog_hoodie_teal
@@ -617,7 +617,7 @@ id,produto,tipo,preco_min,preco_max,preco_de_max,variantes,disponivel,criado_em,
 8131813966005,Human Pajama Pants - Breakfast Blue,Human Pajama Pant,39.99,39.99,67.0,5,False,2025-01-08,"2025, 2025Q1Test, Draylon, exclude_google",https://br-sparkpaws.com/products/human_pajama_pants_breakfast_blue
 8131812917429,Human Pajama Top - When Pigs Fly - Purple,Human Pajama Top,39.99,39.99,67.0,5,False,2025-01-08,"2025, 2025Q1Test, Draylon, exclude_google",https://br-sparkpaws.com/products/human_pajama_top_when_pigs_fly_purple
 8131811999925,Human Pajama Top - Breakfast Blue,Human Pajama Top,39.99,39.99,67.0,5,False,2025-01-08,"2025, 2025Q1Test, Draylon, exclude_google",https://br-sparkpaws.com/products/human_pajama_top_breakfast_blue
-8131726868661,The Canada Human Hoodie,Human Hoodie,38.99,38.99,70.0,5,True,2025-01-08,"2025, 2025Q1Test, VelourSoft",https://br-sparkpaws.com/products/canada_human_hoodie
+8131726868661,The Canada Human Hoodie,Human Hoodie,38.99,38.99,70.0,5,True,2025-01-08,"2025, 2025Q1Test, exclude_google, VelourSoft",https://br-sparkpaws.com/products/canada_human_hoodie
 8131714318517,Grey Camo Human Hoodie,Human Hoodie,38.99,38.99,70.0,5,True,2025-01-08,"2025, 2025Q1Test, exclude_google, VelourSoft",https://br-sparkpaws.com/products/grey_camo_human_hoodie
 8131672768693,Desert Camo Human Hoodie,Human Hoodie,38.99,38.99,70.0,5,True,2025-01-08,"2025, 2025Q1Test, exclude_google, VelourSoft",https://br-sparkpaws.com/products/desert_camo_human_hoodie
 8131666182325,The Canada Dog Hoodie,Dog Hoodie,18.99,25.99,50.0,8,True,2025-01-08,"2025, 2025Q1Test, VelourSoft",https://br-sparkpaws.com/products/canada_dog_hoodie
