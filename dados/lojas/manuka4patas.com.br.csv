@@ -19,8 +19,8 @@ id,produto,tipo,preco_min,preco_max,preco_de_max,variantes,disponivel,criado_em,
 15411824034018,Porta Coleiras Golden Retriever,,62.0,62.0,,1,True,2026-10-12,golden retriever,https://manuka4patas.com.br/products/porta-coleiras-golden-retriever
 9354958635234,Mini Prendedor Clips de Cachorro,,24.9,24.9,,1,True,2026-09-10,tudo,https://manuka4patas.com.br/products/mini-prendedor-clips-de-cachorro
 9384605810914,Comedouro Orbe | Personalize o nome do seu Pet,,180.0,470.0,,27,True,2026-09-22,"comedouro, comer",https://manuka4patas.com.br/products/comedouro-orbe-personalize-o-nome-do-seu-pet
-9366952575202,KIT DIA DE CHUVA | ESSENCIAL | FIGO,,395.0,395.0,439.0,1,False,2026-09-16,,https://manuka4patas.com.br/products/kit-dia-de-chuva-essencial-figo
-9366396895458,KIT DIA DE CHUVA | COMPLETO | FIGO,,999.0,999.0,1106.0,1,False,2026-09-15,,https://manuka4patas.com.br/products/kit-chuva
+9366952575202,KIT DIA DE CHUVA | ESSENCIAL | FIGO,,395.0,395.0,439.0,1,True,2026-09-16,,https://manuka4patas.com.br/products/kit-dia-de-chuva-essencial-figo
+9366396895458,KIT DIA DE CHUVA | COMPLETO | FIGO,,999.0,999.0,1106.0,1,True,2026-09-15,,https://manuka4patas.com.br/products/kit-chuva
 7987794182370,Guia Minimalista Azul Marinho,Animais e produtos para animais de estimação,180.0,180.0,,1,True,2023-01-02,guia,https://manuka4patas.com.br/products/guia-minimalista-azul-marinho
 7987794575586,Guia Minimalista Coral,Animais e produtos para animais de estimação,180.0,180.0,,1,True,2023-01-02,guia,https://manuka4patas.com.br/products/guia-minimalista-coral
 7987790971106,Guia Minimalista Areia,Animais e produtos para animais de estimação,180.0,180.0,,1,True,2023-01-02,guia,https://manuka4patas.com.br/products/guia-minimalista-areia
@@ -68,7 +68,7 @@ id,produto,tipo,preco_min,preco_max,preco_de_max,variantes,disponivel,criado_em,
 8888212259042,SHAMPOO HIDRATANTE,,167.0,167.0,,1,True,2025-05-12,"porai, Shampoo",https://manuka4patas.com.br/products/shampoo-hidratante
 8894174527714,"KIT NEUTRALIZADOR DE ODORES | Lavanda, Figo e Limão Siciliano",,543.0,543.0,682.0,1,True,2025-05-20,"kit, neutralizador, neutralizador casa",https://manuka4patas.com.br/products/kit-neutralizador-de-odores-lavanda-figo-e-limao-siciliano
 8894169219298,KIT NEUTRALIZADOR DE ODORES | Lavanda,Animais e produtos para animais de estimação,615.4,615.4,724.0,1,True,2025-05-20,"kit, neutralizador, neutralizador casa",https://manuka4patas.com.br/products/kit-neutralizador-de-odores-lavanda
-8894166827234,KIT FIGO | Banho a Seco e Hidratação,Animais e produtos para animais de estimação,194.6,194.6,216.0,1,False,2025-05-20,"Figo, kit, porai",https://manuka4patas.com.br/products/kit-figo-banho-a-seco-e-hidratacao
+8894166827234,KIT FIGO | Banho a Seco e Hidratação,Animais e produtos para animais de estimação,194.6,194.6,216.0,1,True,2025-05-20,"Figo, kit, porai",https://manuka4patas.com.br/products/kit-figo-banho-a-seco-e-hidratacao
 8892007416034,KIT BAUNILHA| Banho a Seco e Hidratação Argan,,194.6,194.6,216.0,1,True,2025-05-16,"argan, baunilha, kit",https://manuka4patas.com.br/products/kit-baunilha-banho-a-seco-e-hidratacao-argan
 8881870569698,KIT AMÊNDOA FRESCA COMPLETO | Pele Seca,Animais e produtos para animais de estimação,355.0,355.0,452.0,1,False,2025-05-01,"amendoa, kit",https://manuka4patas.com.br/products/kit-amendoa-fresca-completo-pele-seca
 8880368484578,KIT LAVANDA | Banho a Seco e Hidratação,Animais e produtos para animais de estimação,194.6,194.6,216.0,1,True,2025-04-27,"kit, Lavanda, Lavanda e Manteiga de Karité, porai",https://manuka4patas.com.br/products/kit-lavanda-banho-a-seco-e-hidratacao
@@ -181,7 +181,7 @@ id,produto,tipo,preco_min,preco_max,preco_de_max,variantes,disponivel,criado_em,
 7829892890850,COLÔNIA BAUNILHA,Animais e produtos para animais de estimação,127.0,127.0,127.0,1,False,2022-08-09,"argan, colonia",https://manuka4patas.com.br/products/colonia-baunilha
 7829858386146,COLÔNIA LAVANDA,Animais e produtos para animais de estimação,127.0,127.0,,1,True,2022-08-09,"colonia, lavanda, Lavanda e Manteiga de Karité",https://manuka4patas.com.br/products/colonia-lavanda
 7826390253794,HIDRATAÇÃO LAVANDA E MANTEIGA DE KARITÉ |Pele Normal a Seca,Animais e produtos para animais de estimação,107.0,107.0,,1,True,2022-08-06,"hidratacao, Lavanda, Lavanda e Manteiga de Karité",https://manuka4patas.com.br/products/hidratacao-lavanda-e-manteiga-de-karite-pele-normal-a-seca
-7825434902754,BANHO A SECO FIGO | Neutralizador de Odores,Animais e produtos para animais de estimação,109.0,109.0,,1,False,2022-08-05,"Banho a Seco, Figo, porai",https://manuka4patas.com.br/products/banho-a-seco-figo-neutralizador-de-odores
+7825434902754,BANHO A SECO FIGO | Neutralizador de Odores,Animais e produtos para animais de estimação,109.0,109.0,,1,True,2022-08-05,"Banho a Seco, Figo, porai",https://manuka4patas.com.br/products/banho-a-seco-figo-neutralizador-de-odores
 7825421107426,BANHO A SECO BAUNILHA | Pelos Longos,Animais e produtos para animais de estimação,109.0,109.0,,1,True,2022-08-04,"argan, Banho a Seco",https://manuka4patas.com.br/products/banho-a-seco-baunilha
 7825403347170,BANHO A SECO AMÊNDOA FRESCA | Pele Seca,Animais e produtos para animais de estimação,109.0,109.0,,1,False,2022-08-04,"amêndoa, Amêndoa Fresca, Banho a Seco",https://manuka4patas.com.br/products/banho-a-seco-amendoa
 7825394729186,BANHO A SECO AVEIA ORGÂNICA | Pele Sensível,Animais e produtos para animais de estimação,124.0,124.0,,1,True,2022-08-04,"Aveia, Aveia Organica, Banho a Seco, best seller",https://manuka4patas.com.br/products/banho-a-seco-aveia-organica
