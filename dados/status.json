@@ -1,8 +1,8 @@
 {
  "lojas_shopify": {
-  "quando": "2026-11-10 01:19",
+  "quando": "2026-11-10 07:19",
   "pethonesty.com": "184 produtos, 0 mudanças",
-  "pelsbarn.com": "56 produtos, 2 mudanças",
+  "pelsbarn.com": "56 produtos, 0 mudanças",
   "bestfriendsbysheri.com": "62 produtos, 0 mudanças",
   "casapetloja.com": "1127 produtos, 0 mudanças",
   "petsafi.com": "30 produtos, 0 mudanças",
@@ -19,9 +19,9 @@
   "patinhafeliz.com.br": "322 produtos, 0 mudanças",
   "gouppet.com.br": "337 produtos, 0 mudanças",
   "revivamaispet.com": "114 produtos, 0 mudanças",
-  "shopcao.com.br": "2717 produtos, 1 mudanças",
+  "shopcao.com.br": "2717 produtos, 0 mudanças",
   "manuka4patas.com.br": "194 produtos, 0 mudanças",
-  "br-sparkpaws.com": "903 produtos, 12 mudanças",
+  "br-sparkpaws.com": "905 produtos, 4 mudanças",
   "gatomaniacas.com.br": "72 produtos, 0 mudanças",
   "akoldog.com.br": "29 produtos, 0 mudanças",
   "viupet.com.br": "357 produtos, 0 mudanças",
@@ -33,7 +33,7 @@
   "zupetbrasil.com": "erro: <urlopen error [Errno -2] Name or service not known>"
  },
  "mercadolivre": {
-  "quando": "2026-11-10 01:19",
+  "quando": "2026-11-10 07:19",
   "cama canguru cachorro": "recusado HTTP 403"
  }
 }

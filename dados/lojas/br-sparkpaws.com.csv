@@ -1,4 +1,6 @@
 id,produto,tipo,preco_min,preco_max,preco_de_max,variantes,disponivel,criado_em,tags,link
+10645207187637,Knit Dog Sweater - Well Loved,Dog Sweater,18.99,24.99,50.0,7,True,2026-10-22,"2026, __label:new, Core Yarn, exclude_google",https://br-sparkpaws.com/products/knit-dog-sweater-well-loved
+10645207154869,Knit Dog Sweater - Hangry Hippo,Dog Sweater,18.99,24.99,50.0,7,True,2026-10-22,"2026, __label:new, Core Yarn, exclude_google",https://br-sparkpaws.com/products/knit-dog-sweater-hangry-hippo
 10656078561461,Knit Dog Sweater - Red Stripes,Dog Sweater,18.99,24.99,50.0,7,True,2026-10-30,"2026, __label:new, Core Yarn, exclude_google",https://br-sparkpaws.com/products/knit-dog-sweater-red-stripes
 10656078495925,Knit Dog Sweater - Orange Stripes,Dog Sweater,18.99,24.99,50.0,7,True,2026-10-30,"2026, __label:new, Core Yarn, exclude_google",https://br-sparkpaws.com/products/knit-dog-sweater-orange-stripes
 10656078397621,Knit Dog Sweater - Good Dog Club,Dog Sweater,18.99,24.99,50.0,7,True,2026-10-30,"2026, __label:new, Core Yarn, exclude_google",https://br-sparkpaws.com/products/knit-dog-sweater-good-dog-club
@@ -139,8 +141,8 @@ id,produto,tipo,preco_min,preco_max,preco_de_max,variantes,disponivel,criado_em,
 10613664252085,Quilted Classic Winter Coat - Brown,Quilted Winter Jacket,37.99,43.99,69.0,7,True,2026-09-25,"2026, __label:new, exclude_google",https://br-sparkpaws.com/products/quilted-classic-winter-coat-brown
 10613664219317,Quilted Classic Winter Coat - Blue,Quilted Winter Jacket,37.99,43.99,69.0,7,True,2026-09-25,"2026, __label:new, exclude_google",https://br-sparkpaws.com/products/quilted-classic-winter-coat-blue
 10613664186549,Quilted Classic Winter Coat - Pink,Quilted Winter Jacket,37.99,43.99,69.0,7,True,2026-09-25,"2026, __label:new, exclude_google",https://br-sparkpaws.com/products/quilted-classic-winter-coat-pink
-10613664055477,Quilted Classic Winter Coat - Red,Quilted Winter Jacket,37.99,43.99,69.0,7,False,2026-09-25,"2026, __label:new, exclude_google",https://br-sparkpaws.com/products/quilted-classic-winter-coat-red
-10613664022709,Quilted Classic Winter Coat - Magenta,Quilted Winter Jacket,37.99,43.99,69.0,7,False,2026-09-25,"2026, __label:new, exclude_google",https://br-sparkpaws.com/products/quilted-classic-winter-coat-magenta
+10613664055477,Quilted Classic Winter Coat - Red,Quilted Winter Jacket,37.99,43.99,69.0,7,True,2026-09-25,"2026, __label:new, exclude_google",https://br-sparkpaws.com/products/quilted-classic-winter-coat-red
+10613664022709,Quilted Classic Winter Coat - Magenta,Quilted Winter Jacket,37.99,43.99,69.0,7,True,2026-09-25,"2026, __label:new, exclude_google",https://br-sparkpaws.com/products/quilted-classic-winter-coat-magenta
 10613663989941,Quilted Classic Winter Coat - Black,Quilted Winter Jacket,37.99,43.99,69.0,7,True,2026-09-25,"2026, __label:new, exclude_google",https://br-sparkpaws.com/products/quilted-classic-winter-coat-black
 10613665792181,ThermoSonic Winter Jackets,ThermoSonic Winter Jacket,37.99,43.99,69.0,77,True,2026-09-25,"2026, __label:new, multi-listing, shoptok",https://br-sparkpaws.com/products/thermosonic-winter-jackets
 10613665759413,ThermoSonic Winter Jacket - Red,ThermoSonic Winter Jacket,37.99,43.99,69.0,7,True,2026-09-25,"2026, __label:new, exclude_google",https://br-sparkpaws.com/products/thermosonic-winter-jacket-red
