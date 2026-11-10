@@ -9,7 +9,7 @@ id,produto,tipo,preco_min,preco_max,preco_de_max,variantes,disponivel,criado_em,
 15653009195391,Wash Bag (1+1),Wash Bag,24.0,24.0,60.0,1,True,2026-04-24,shop-collection,https://pelsbarn.com/products/wash-bag-bogo
 15257773080959,Luxurious Lounge Bed,Cooling mat,169.0,299.0,340.0,6,True,2025-08-28,"cooling, Cooling Collection, Cooling Mat, sofabed",https://pelsbarn.com/products/luxurious-lounge-bed
 15420366258559,Luxurious Pillow,Pillow,39.0,39.0,65.0,4,False,2025-11-26,,https://pelsbarn.com/products/luxurious-pillow
-8404230439179,Pelsbarn Premium Shipping Protection,Accessoires,4.99,4.99,,1,True,2023-12-17,"insurance, shipping-insurance",https://pelsbarn.com/products/shipping-insurance
+8404230439179,Pelsbarn Premium Shipping Protection,Accessoires,4.0,4.0,,1,True,2023-12-17,"insurance, shipping-insurance",https://pelsbarn.com/products/shipping-insurance
 15587605381503,Luxurious Full Backseat Protector + Free Calming Blanket,Luxurious Full Backseat,319.0,319.0,447.0,3,True,2026-03-06,LCB,https://pelsbarn.com/products/luxurious-full-backseat-protector-free-calming-blanket-ip
 15553188102527,Luxurious Cozy Car Bed,Luxurious Collection,114.0,179.0,298.0,9,True,2026-02-14,"bogo, collection-car-beds, collection-luxe, holiday, LCB, shop-collection",https://pelsbarn.com/products/luxurious-cozy-car-bed-bogo
 15552361791871,Luxurious Sofa Bed for Cats,,169.0,169.0,241.0,4,True,2026-02-13,LSB,https://pelsbarn.com/products/luxurious-sofa-bed-bogo-cats
@@ -47,7 +47,6 @@ id,produto,tipo,preco_min,preco_max,preco_de_max,variantes,disponivel,criado_em,
 8367956230411,Calming Relief Blanket,Dog blanket,25.0,25.0,35.0,4,True,2023-11-14,shop-collection,https://pelsbarn.com/products/calming-relieve-blanket
 8095219876107,Protecting Car Bed 2.0,Beds,89.0,189.0,198.0,6,True,2023-01-20,"Fluffy Beds, Fluffy Car Bed, OCB",https://pelsbarn.com/products/pelsbarn-car-dog-bed
 8326595870987,Anti Tick & Flea Collar,Accessoires,19.0,19.0,29.0,1,True,2023-09-18,,https://pelsbarn.com/products/anti-tick-flea-collar
-8324789666059,Priority Processing,,3.95,3.95,,1,True,2023-09-14,Priority Processing (Skip the Lane),https://pelsbarn.com/products/priority-processing
 8296087159051,Original Bed + FREE calming blanket,Beds,79.0,139.0,232.0,16,True,2023-07-28,"Fluffy Bed, Fluffy Beds, original, OSB, sofabed",https://pelsbarn.com/products/original-pelsbarn-bed
 8259300851979,Soothing Lick Mat (vet recommended),Accessoires,19.0,19.0,24.0,2,False,2023-05-31,,https://pelsbarn.com/products/soothing-lick-mat
 8272544497931,Dog Hair Remover,Accessoires,24.0,24.0,34.0,1,True,2023-06-20,,https://pelsbarn.com/products/pelsbarn-dog-hair-remover
