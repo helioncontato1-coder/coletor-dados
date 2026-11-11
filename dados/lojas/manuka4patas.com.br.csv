@@ -1,22 +1,22 @@
 id,produto,tipo,preco_min,preco_max,preco_de_max,variantes,disponivel,criado_em,tags,link
 15472881696994,Enfeite de Natal | Personalizado com nome do cachorro,,49.0,150.0,245.0,3,True,2026-11-02,,https://manuka4patas.com.br/products/enfeite-de-natal-personalizado-com-nome-do-cachorro
 15472214737122,Cartão Presente Manuka,,50.0,500.0,,5,True,2026-11-02,,https://manuka4patas.com.br/products/cartao-presente-manuka
-15417099649250,Porta Coleiras Vizsla,,62.0,62.0,,1,True,2026-10-14,pug,https://manuka4patas.com.br/products/porta-coleiras-vizsla
-15417098502370,Porta Coleiras Corgi,,62.0,62.0,,1,True,2026-10-14,corgi,https://manuka4patas.com.br/products/porta-coleiras-corgi
-15417097617634,Porta Coleiras Gato,,62.0,62.0,,1,True,2026-10-14,"galgo italiano, whippet",https://manuka4patas.com.br/products/porta-coleiras-gato
-15417096995042,Porta Coleiras Labrador,,62.0,62.0,,1,True,2026-10-14,"galgo italiano, whippet",https://manuka4patas.com.br/products/porta-coleiras-labrador
-15417090015458,Porta Coleiras Whippet | Galgo Italiano,,62.0,62.0,,1,True,2026-10-14,"galgo italiano, whippet",https://manuka4patas.com.br/products/porta-coleiras-whippet-galgo-italiano
-15416921817314,Porta Coleiras Viralata,,62.0,62.0,,1,True,2026-10-14,pug,https://manuka4patas.com.br/products/porta-coleiras-viralata
-15416921555170,Porta Coleiras Pug,,62.0,62.0,,1,True,2026-10-14,pug,https://manuka4patas.com.br/products/porta-coleiras-pug
-15416921194722,Porta Coleiras Shih Tzu | Lhasa Apso,,62.0,62.0,,1,True,2026-10-14,"lhasa apso, Shih Tzu",https://manuka4patas.com.br/products/porta-coleiras-shih-tzu-lhasa-apso
-15416920932578,Porta Coleiras Maltês,,62.0,62.0,,1,True,2026-10-14,maltes,https://manuka4patas.com.br/products/porta-coleiras-maltes
-15416920604898,Porta Coleiras Buldogue Inglês,,62.0,62.0,,1,True,2026-10-14,buldogue ingles,https://manuka4patas.com.br/products/porta-coleiras-buldogue-ingles
-15416920113378,Porta Coleiras Yorkshire,,62.0,62.0,,1,True,2026-10-14,yorkshire,https://manuka4patas.com.br/products/porta-coleiras-yorkshire
-15411910967522,Porta Coleiras Lulu | Spitz Alemão,,62.0,62.0,,1,True,2026-10-12,"lulu da pomerania, spitz alemao",https://manuka4patas.com.br/products/porta-coleiras-lulu-spitz-alemao
-15411909198050,Porta Coleiras Dachshund,,62.0,62.0,,1,True,2026-10-12,dachshund,https://manuka4patas.com.br/products/porta-coleiras-border-collie-copia
-15411875512546,Porta Coleiras Border Collie,,62.0,62.0,,1,True,2026-10-12,border collie,https://manuka4patas.com.br/products/porta-coleiras-border-collie
-15411872661730,Porta Coleiras Buldogue Francês,,62.0,62.0,,1,True,2026-10-12,buldogue frances,https://manuka4patas.com.br/products/porta-coleiras-buldogue-frances
-15411824034018,Porta Coleiras Golden Retriever,,62.0,62.0,,1,True,2026-10-12,golden retriever,https://manuka4patas.com.br/products/porta-coleiras-golden-retriever
+15417099649250,Porta Coleiras Vizsla,,46.5,46.5,62.0,1,True,2026-10-14,"oferta, promo",https://manuka4patas.com.br/products/porta-coleiras-vizsla
+15417098502370,Porta Coleiras Corgi,,46.5,46.5,62.0,1,True,2026-10-14,"corgi, promo",https://manuka4patas.com.br/products/porta-coleiras-corgi
+15417097617634,Porta Coleiras Gato,,46.5,46.5,62.0,1,True,2026-10-14,"promo, whippet",https://manuka4patas.com.br/products/porta-coleiras-gato
+15417096995042,Porta Coleiras Labrador,,46.5,46.5,62.0,1,True,2026-10-14,promo,https://manuka4patas.com.br/products/porta-coleiras-labrador
+15417090015458,Porta Coleiras Whippet | Galgo Italiano,,46.5,46.5,62.0,1,True,2026-10-14,"galgo italiano, promo, whippet",https://manuka4patas.com.br/products/porta-coleiras-whippet-galgo-italiano
+15416921817314,Porta Coleiras Viralata,,46.5,46.5,62.0,1,True,2026-10-14,promo,https://manuka4patas.com.br/products/porta-coleiras-viralata
+15416921555170,Porta Coleiras Pug,,46.5,46.5,62.0,1,True,2026-10-14,"promo, pug",https://manuka4patas.com.br/products/porta-coleiras-pug
+15416921194722,Porta Coleiras Shih Tzu | Lhasa Apso,,46.5,46.5,62.0,1,True,2026-10-14,"lhasa apso, promo, Shih Tzu",https://manuka4patas.com.br/products/porta-coleiras-shih-tzu-lhasa-apso
+15416920932578,Porta Coleiras Maltês,,46.5,46.5,62.0,1,True,2026-10-14,"maltes, promo",https://manuka4patas.com.br/products/porta-coleiras-maltes
+15416920604898,Porta Coleiras Buldogue Inglês,,46.5,46.5,62.0,1,True,2026-10-14,"buldogue ingles, promo",https://manuka4patas.com.br/products/porta-coleiras-buldogue-ingles
+15416920113378,Porta Coleiras Yorkshire,,46.5,46.5,62.0,1,True,2026-10-14,"promo, yorkshire",https://manuka4patas.com.br/products/porta-coleiras-yorkshire
+15411910967522,Porta Coleiras Lulu | Spitz Alemão,,46.5,46.5,62.0,1,True,2026-10-12,"lulu da pomerania, promo, spitz alemao",https://manuka4patas.com.br/products/porta-coleiras-lulu-spitz-alemao
+15411909198050,Porta Coleiras Dachshund,,46.5,46.5,62.0,1,True,2026-10-12,"dachshund, promo",https://manuka4patas.com.br/products/porta-coleiras-border-collie-copia
+15411875512546,Porta Coleiras Border Collie,,46.5,46.5,62.0,1,True,2026-10-12,"border collie, promo",https://manuka4patas.com.br/products/porta-coleiras-border-collie
+15411872661730,Porta Coleiras Buldogue Francês,,46.5,46.5,62.0,1,True,2026-10-12,"buldogue frances, promo",https://manuka4patas.com.br/products/porta-coleiras-buldogue-frances
+15411824034018,Porta Coleiras Golden Retriever,,46.5,46.5,62.0,1,True,2026-10-12,"golden retriever, promo",https://manuka4patas.com.br/products/porta-coleiras-golden-retriever
 9354958635234,Mini Prendedor Clips de Cachorro,,24.9,24.9,,1,True,2026-09-10,tudo,https://manuka4patas.com.br/products/mini-prendedor-clips-de-cachorro
 9384605810914,Comedouro Orbe | Personalize o nome do seu Pet,,180.0,470.0,,27,True,2026-09-22,"comedouro, comer",https://manuka4patas.com.br/products/comedouro-orbe-personalize-o-nome-do-seu-pet
 9366952575202,KIT DIA DE CHUVA | ESSENCIAL | FIGO,,395.0,395.0,439.0,1,True,2026-09-16,,https://manuka4patas.com.br/products/kit-dia-de-chuva-essencial-figo
@@ -29,10 +29,10 @@ id,produto,tipo,preco_min,preco_max,preco_de_max,variantes,disponivel,criado_em,
 9315036102882,Porta Saquinho Focinho,,89.0,89.0,,1,True,2026-08-25,"por ai, porai",https://manuka4patas.com.br/products/porta-saquinho-focinho
 9303948591330,Tampa Chuveiro,,24.9,24.9,,2,True,2026-08-16,tudo,https://manuka4patas.com.br/products/tampa-chuveiro
 9303948493026,Marcador de página de livro | Cachorro,,24.9,24.9,,1,True,2026-08-16,tudo,https://manuka4patas.com.br/products/marcador-de-paginas-de-livros-cachorro
-9272469324002,CONDICIONADOR ÓLEO DE ARGAN | Pele Longos ou Opacos,Animais e produtos para animais de estimação,117.0,117.0,,1,True,2026-07-17,"baunilha, hidratacao",https://manuka4patas.com.br/products/condicionador-oleo-de-argan-pele-longos-ou-opacos
+9272469324002,CONDICIONADOR ÓLEO DE ARGAN | Pele Longos ou Opacos,Animais e produtos para animais de estimação,99.45,99.45,117.0,1,True,2026-07-17,"baunilha, hidratacao",https://manuka4patas.com.br/products/condicionador-oleo-de-argan-pele-longos-ou-opacos
 9297614045410,Brinquedo Interativo Pião,,139.0,139.0,,4,True,2026-08-09,"comedouro, comer",https://manuka4patas.com.br/products/brinquedo-interativo-ovo
 9289736913122,Comedouro Nórdico | Personalize o nome do seu Pet,,160.0,430.0,,30,True,2026-08-04,"comedouro, comer",https://manuka4patas.com.br/products/comedouro-nordico-personalize-o-nome-do-seu-pet
-9241655836898,CONDICIONADOR MANTEIGA DE KARITÉ | Pele Normal a Seca,Animais e produtos para animais de estimação,117.0,117.0,,1,True,2026-07-01,"hidratacao, Lavanda e Manteiga de Karité",https://manuka4patas.com.br/products/condicionador-lavanda-pele-normal
+9241655836898,CONDICIONADOR MANTEIGA DE KARITÉ | Pele Normal a Seca,Animais e produtos para animais de estimação,99.45,99.45,117.0,1,True,2026-07-01,"hidratacao, Lavanda e Manteiga de Karité",https://manuka4patas.com.br/products/condicionador-lavanda-pele-normal
 9287883784418,KIT LAVANDA Casa e Peludo,,394.0,394.0,511.0,1,True,2026-08-03,"kit, Lavanda, Lavanda e Manteiga de Karité",https://manuka4patas.com.br/products/kit-lavanda-casa-e-peludo
 9253531517154,Coleira Personalizada,,180.0,180.0,,12,True,2026-07-07,"coleira, coleira personalizada",https://manuka4patas.com.br/products/coleira-personalizada
 8979308609762,NEUTRALIZADOR DE ODORES | Alecrim | em 2 tamanhos,Animais e produtos para animais de estimação,131.0,191.0,,2,True,2025-09-23,"best seller, casalimpa, neutralizador casa",https://manuka4patas.com.br/products/neutralizador-de-odores-alecrim-em-2-tamanhos
@@ -167,20 +167,20 @@ id,produto,tipo,preco_min,preco_max,preco_de_max,variantes,disponivel,criado_em,
 7856157589730,Coleira Minimalista Verde Flúor,Animais e produtos para animais de estimação,150.0,150.0,,4,True,2022-08-29,coleira,https://manuka4patas.com.br/products/coleira-e-guia-verde-fluor
 7853640646882,Peitoral com Guia,Animais e produtos para animais de estimação,129.0,129.0,,13,True,2022-08-26,"best seller, peitoral, porai",https://manuka4patas.com.br/products/peitoral-com-guia
 7843492954338,Manta Silhueta,Animais e produtos para animais de estimação,560.0,950.0,0.0,8,True,2022-08-22,"cama médio, manta",https://manuka4patas.com.br/products/manta-silhueta
-7840682934498,"POMADA 100% NATURAL | para calos, focinho e patas",Animais e produtos para animais de estimação,79.0,199.0,207.0,3,True,2022-08-19,"best seller, hidratacao, kit, pomada",https://manuka4patas.com.br/products/pomada-100-natural-para-calos-focinho-e-patas
+7840682934498,"POMADA 100% NATURAL | para calos, focinho e patas",Animais e produtos para animais de estimação,75.65,199.0,207.0,3,True,2022-08-19,"best seller, hidratacao, kit, pomada",https://manuka4patas.com.br/products/pomada-100-natural-para-calos-focinho-e-patas
 7840678478050,COLÔNIA AMÊNDOA FRESCA,Animais e produtos para animais de estimação,127.0,127.0,,1,False,2022-08-19,"amendoa, colonia",https://manuka4patas.com.br/products/colonia-amendoa-fresca
-7840676544738,CONDICIONADOR AMÊNDOA FRESCA | Pele Seca,Animais e produtos para animais de estimação,117.0,117.0,,1,True,2022-08-19,"amendoa, hidratacao",https://manuka4patas.com.br/products/condicionador-de-amendoa-pele-seca
-7840664387810,FLUIDO ACALMA PELE | Aveia Orgânica,Animais e produtos para animais de estimação,124.0,124.0,,1,True,2022-08-19,"Aveia, Aveia Organica",https://manuka4patas.com.br/products/fluido-acalma-pele-aveia-organica
+7840676544738,CONDICIONADOR AMÊNDOA FRESCA | Pele Seca,Animais e produtos para animais de estimação,99.45,99.45,117.0,1,True,2022-08-19,"amendoa, hidratacao",https://manuka4patas.com.br/products/condicionador-de-amendoa-pele-seca
+7840664387810,FLUIDO ACALMA PELE | Aveia Orgânica,Animais e produtos para animais de estimação,99.2,99.2,124.0,1,True,2022-08-19,"Aveia, Aveia Organica",https://manuka4patas.com.br/products/fluido-acalma-pele-aveia-organica
 7839695372514,HIDRATAÇÃO FIGO | Neutralizador de Odores,Animais e produtos para animais de estimação,107.0,107.0,,1,True,2022-08-18,"Figo, hidratacao",https://manuka4patas.com.br/products/hidratacao-figo-neutralizador-de-odores
 7839686000866,HIDRATAÇÃO DE AVEIA ORGÂNICA | Pele Sensível,Animais e produtos para animais de estimação,107.0,157.0,,2,True,2022-08-18,"Aveia, Aveia Organica, hidratacao",https://manuka4patas.com.br/products/hidratacao-de-aveia-organica-pele-sensivel
 7839451349218,HIDRATAÇÃO BAUNILHA E ÓLEO DE ARGAN | Pelos Longos,Animais e produtos para animais de estimação,107.0,107.0,,1,True,2022-08-18,"argan, hidratacao",https://manuka4patas.com.br/products/hidratacao-baunilha-e-oleo-de-argan-pelos-longos
 7839390630114,SHAMPOO AMÊNDOA FRESCA | Pele Seca,Animais e produtos para animais de estimação,147.0,147.0,,1,True,2022-08-18,"amêndoa, Amêndoa Fresca, Shampoo",https://manuka4patas.com.br/products/shampoo-amendoa
-7839377457378,SHAMPOO BAUNILHA | Pelos Longos,Animais e produtos para animais de estimação,94.0,147.0,,2,True,2022-08-18,"argan, Shampoo",https://manuka4patas.com.br/products/shampoo-baunilha-pelos-longos
+7839377457378,SHAMPOO BAUNILHA | Pelos Longos,Animais e produtos para animais de estimação,79.9,147.0,94.0,2,True,2022-08-18,"argan, Shampoo",https://manuka4patas.com.br/products/shampoo-baunilha-pelos-longos
 7839310643426,SHAMPOO FIGO | Neutralizador de Odores,Animais e produtos para animais de estimação,147.0,147.0,,1,True,2022-08-18,"Figo, Shampoo",https://manuka4patas.com.br/products/shampoo-figo-neutralizador-de-odores
 7831827087586,COLÔNIA FIGO,Animais e produtos para animais de estimação,127.0,127.0,,1,True,2022-08-11,"cilente, colonia, Figo",https://manuka4patas.com.br/products/colonia-figo
 7829892890850,COLÔNIA BAUNILHA,Animais e produtos para animais de estimação,127.0,127.0,127.0,1,False,2022-08-09,"argan, colonia",https://manuka4patas.com.br/products/colonia-baunilha
 7829858386146,COLÔNIA LAVANDA,Animais e produtos para animais de estimação,127.0,127.0,,1,True,2022-08-09,"colonia, lavanda, Lavanda e Manteiga de Karité",https://manuka4patas.com.br/products/colonia-lavanda
-7826390253794,HIDRATAÇÃO LAVANDA E MANTEIGA DE KARITÉ |Pele Normal a Seca,Animais e produtos para animais de estimação,107.0,107.0,,1,True,2022-08-06,"hidratacao, Lavanda, Lavanda e Manteiga de Karité",https://manuka4patas.com.br/products/hidratacao-lavanda-e-manteiga-de-karite-pele-normal-a-seca
+7826390253794,HIDRATAÇÃO LAVANDA E MANTEIGA DE KARITÉ |Pele Normal a Seca,Animais e produtos para animais de estimação,90.95,90.95,107.0,1,True,2022-08-06,"hidratacao, Lavanda, Lavanda e Manteiga de Karité",https://manuka4patas.com.br/products/hidratacao-lavanda-e-manteiga-de-karite-pele-normal-a-seca
 7825434902754,BANHO A SECO FIGO | Neutralizador de Odores,Animais e produtos para animais de estimação,109.0,109.0,,1,True,2022-08-05,"Banho a Seco, Figo, porai",https://manuka4patas.com.br/products/banho-a-seco-figo-neutralizador-de-odores
 7825421107426,BANHO A SECO BAUNILHA | Pelos Longos,Animais e produtos para animais de estimação,109.0,109.0,,1,True,2022-08-04,"argan, Banho a Seco",https://manuka4patas.com.br/products/banho-a-seco-baunilha
 7825403347170,BANHO A SECO AMÊNDOA FRESCA | Pele Seca,Animais e produtos para animais de estimação,109.0,109.0,,1,False,2022-08-04,"amêndoa, Amêndoa Fresca, Banho a Seco",https://manuka4patas.com.br/products/banho-a-seco-amendoa
@@ -189,7 +189,7 @@ id,produto,tipo,preco_min,preco_max,preco_de_max,variantes,disponivel,criado_em,
 7825077141730,FLORAL DE BACH ANSIEDADE | para Cães e Gatos,Floral de Bach,49.0,49.0,,1,False,2022-08-04,"ansiedade, best seller, Floral de bach",https://manuka4patas.com.br/products/floral-de-bach-ansiedade-para-caes-e-gatos
 7825069015266,FLORAL DE BACH LAMBEDURA |  para Cães e Gatos,Floral de Bach,49.0,49.0,,1,False,2022-08-04,"Floral de bach, lambedura",https://manuka4patas.com.br/products/floral-de-bach-lambedura-para-caes-e-gatos
 7825047060706,FLORAL DE BACH MEDO | para Cães e Gatos,Floral de Bach,49.0,49.0,,1,False,2022-08-04,"Floral de bach, medo",https://manuka4patas.com.br/products/floral-de-bach-medo-para-caes-e-gatos
-7812698013922,SHAMPOO LAVANDA | Pele Normal a Seca,Shampoo,94.0,237.0,,3,True,2022-07-25,"Lavanda, Lavanda e Manteiga de Karité, Shampoo",https://manuka4patas.com.br/products/shampoo-lavanda-pele-normal-a-seca
+7812698013922,SHAMPOO LAVANDA | Pele Normal a Seca,Shampoo,79.9,237.0,94.0,3,True,2022-07-25,"Lavanda, Lavanda e Manteiga de Karité, Shampoo",https://manuka4patas.com.br/products/shampoo-lavanda-pele-normal-a-seca
 7811660710114,FLORAL DE BACH SOS | para Cães e Gatos,Floral de Bach,49.0,49.0,,1,False,2022-07-24,"best seller, Floral de bach, sos",https://manuka4patas.com.br/products/floral-de-bach-sos-para-caes-e-gatos
 7808081133794,BANHO A SECO LAVANDA | Pele Normal e Seca,Animais e produtos para animais de estimação,109.0,109.0,,1,True,2022-07-21,"Banho a Seco, Lavanda, Lavanda e Manteiga de Karité, porai",https://manuka4patas.com.br/products/banho-a-seco-lavanda
 7808055148770,SHAMPOO AVEIA ORGÂNICA | Pele Sensível,,97.0,247.0,,3,True,2022-07-21,"Aveia, Aveia Organica, Shampoo",https://manuka4patas.com.br/products/shampoo-aveia-organica-pele-sensivel

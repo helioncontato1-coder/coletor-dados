@@ -2,7 +2,7 @@ id,produto,tipo,preco_min,preco_max,preco_de_max,variantes,disponivel,criado_em,
 16025475645823,Original Calming Bed,Bundle,84.0,149.0,213.0,16,False,2026-10-18,,https://pelsbarn.com/products/original-calming-bed-free-gift
 16012035555711,Luxurious Sofa Bed,BOGO,99.0,169.0,282.0,12,True,2026-10-13,"bogo, holiday, LSB",https://pelsbarn.com/products/luxurious-sofa-bed-bogo-black-friday
 16011997380991,Luxurious Full Backseat Protector,Bundle,169.0,169.0,256.0,3,True,2026-10-13,"collection-car-beds, collection-luxe, holiday, LCB",https://pelsbarn.com/products/luxurious-full-backseat-protector-black-friday
-16026950140287,Cloud Velvet Bed,Bundle,189.0,279.0,399.0,9,True,2026-10-19,"badge-free-calming-blanket, badge-free-cloud-pillows, collection-orthopedic-beds, shop-collection",https://pelsbarn.com/products/cloud-velvet-bed-free-calming-blanket
+16026950140287,Cloud Velvet Bed,Bundle,189.0,299.0,399.0,12,True,2026-10-19,"badge-free-calming-blanket, badge-free-cloud-pillows, collection-orthopedic-beds, shop-collection",https://pelsbarn.com/products/cloud-velvet-bed-free-calming-blanket
 15877653397887,Luxurious Sofa Bed,Single,104.0,169.0,422.0,12,True,2026-09-04,"badge-bundle, collection-luxe, collection-sofa-beds, LSB, shop-collection",https://pelsbarn.com/products/luxurious-sofa-bed
 15519038046591,Teddy Car Bed,Single,79.0,149.0,213.0,9,True,2026-01-26,"badge-bundle, shop-collection",https://pelsbarn.com/products/teddy-car-bed
 15695864955263,Luxurious Sofa Bed,Bundle,134.0,199.0,498.0,12,True,2026-05-28,bundle,https://pelsbarn.com/products/luxurious-sofa-bed-bundle
@@ -44,7 +44,7 @@ id,produto,tipo,preco_min,preco_max,preco_de_max,variantes,disponivel,criado_em,
 8488146305291,Comfy Protecting Car Bed 2.0,Single,99.0,139.0,,6,True,2024-03-01,"autobed, OCB, original",https://pelsbarn.com/products/comfy-protecting-car-bed
 8395623170315,Holiday Gift Packaging for dogs,Add-on,4.92,4.92,,1,True,2023-12-10,,https://pelsbarn.com/products/gift-packaging
 8310314664203,Comfy Cuddle Car Bed Aussie,Single,79.0,139.0,198.0,9,True,2023-08-23,"autobed, original",https://pelsbarn.com/products/comfy-cuddle-car-bed-aussie-1
-8367956230411,Calming Relief Blanket,Single,25.0,25.0,35.0,4,True,2023-11-14,shop-collection,https://pelsbarn.com/products/calming-relieve-blanket
+8367956230411,Calming Relief Blanket,Single,25.0,25.0,35.0,4,True,2023-11-14,shop-collection,https://pelsbarn.com/products/calming-relief-blanket
 8095219876107,Protecting Car Bed 2.0,Single,89.0,189.0,198.0,6,True,2023-01-20,"Fluffy Beds, Fluffy Car Bed, OCB",https://pelsbarn.com/products/pelsbarn-car-dog-bed
 8326595870987,Anti Tick & Flea Collar,Single,19.0,19.0,29.0,1,True,2023-09-18,,https://pelsbarn.com/products/anti-tick-flea-collar
 8296087159051,Original Bed + FREE calming blanket,Bundle,79.0,139.0,232.0,16,True,2023-07-28,"Fluffy Bed, Fluffy Beds, original, OSB, sofabed",https://pelsbarn.com/products/original-pelsbarn-bed
