@@ -9,11 +9,10 @@ id,produto,tipo,preco_min,preco_max,preco_de_max,variantes,disponivel,criado_em,
 15653009195391,Wash Bag (1+1),Single,24.0,24.0,60.0,1,True,2026-04-24,shop-collection,https://pelsbarn.com/products/wash-bag-bogo
 15257773080959,Luxurious Lounge Bed,Single,169.0,299.0,340.0,6,True,2025-08-28,"cooling, Cooling Collection, Cooling Mat, sofabed",https://pelsbarn.com/products/luxurious-lounge-bed
 15420366258559,Luxurious Pillow,Single,39.0,39.0,65.0,4,False,2025-11-26,,https://pelsbarn.com/products/luxurious-pillow
-8404230439179,Pelsbarn Premium Shipping Protection,Add-on,4.0,4.0,,1,True,2023-12-17,"insurance, shipping-insurance",https://pelsbarn.com/products/shipping-insurance
 15587605381503,Luxurious Full Backseat Protector + Free Calming Blanket,Bundle,319.0,319.0,447.0,3,True,2026-03-06,LCB,https://pelsbarn.com/products/luxurious-full-backseat-protector-free-calming-blanket-ip
 15553188102527,Luxurious Cozy Car Bed,BOGO,114.0,179.0,298.0,9,True,2026-02-14,"bogo, collection-car-beds, collection-luxe, holiday, LCB, shop-collection",https://pelsbarn.com/products/luxurious-cozy-car-bed-bogo
-15552361791871,Luxurious Sofa Bed for Cats,BOGO,169.0,169.0,241.0,4,True,2026-02-13,LSB,https://pelsbarn.com/products/luxurious-sofa-bed-bogo-cats
-15552360087935,Luxurious Sofa Bed - Golden Age,BOGO,169.0,189.0,270.0,12,True,2026-02-13,LSB,https://pelsbarn.com/products/luxurious-sofa-bed-bogo-golden-age
+15552361791871,Luxurious Sofa Bed for Cats,BOGO,119.0,119.0,170.0,4,True,2026-02-13,LSB,https://pelsbarn.com/products/luxurious-sofa-bed-bogo-cats
+15552360087935,Luxurious Sofa Bed - Golden Age,BOGO,119.0,199.0,299.0,12,True,2026-02-13,LSB,https://pelsbarn.com/products/luxurious-sofa-bed-bogo-golden-age
 15531044667775,Harness 1.0,Single,49.0,84.0,120.0,20,False,2026-02-01,shop-collection,https://pelsbarn.com/products/harness
 8378410467595,Dog paw protection balm (100% natural and vegan),Single,18.0,18.0,36.0,1,True,2023-11-23,,https://pelsbarn.com/products/dog-paw-balm-natural-and-vegan
 15182087487871,Dog Car Seat Extender,Single,109.0,109.0,182.0,1,False,2025-07-10,,https://pelsbarn.com/products/dog-car-seat-extender
@@ -37,12 +36,10 @@ id,produto,tipo,preco_min,preco_max,preco_de_max,variantes,disponivel,criado_em,
 14865043194239,Dogs Live Longer - Digital Bundle,Bundle,40.0,40.0,,1,True,2024-11-27,,https://pelsbarn.com/products/dogs-live-longer-digital-bundle
 14858799251839,"Luxurious Calming Blanket for a calm, safe, and relaxed feeling",Single,45.0,45.0,76.0,3,True,2024-11-23,"Lux Blanket, Lux Collection",https://pelsbarn.com/products/luxury-calming-blanket-to-stay-warm-and-cozy
 8895593480459,Foldable water and food bowl in 1 (brown),Single,7.0,7.0,12.0,1,True,2024-11-11,,https://pelsbarn.com/products/foldable-water-and-food-bowl-in-1-brown
-8883585286411,Lifetime warranty,Add-on,19.99,19.99,,1,True,2024-11-01,,https://pelsbarn.com/products/lifetime-warranty
 8745033072907,Travel Beach Bag,Single,34.0,34.0,48.0,1,True,2024-07-25,,https://pelsbarn.com/products/a-doggy-bag-for-humans-pelsbarn
 8235420320011,Protecting Car Bed 3.0,Single,89.0,189.0,270.0,6,True,2023-05-03,"collection-car-beds, holiday, OCB, shop-collection",https://pelsbarn.com/products/protecting-car-bed
 8220173304075,Headrest Restraint Seatbelt for Extra Safety,Single,15.0,15.0,34.0,1,True,2023-04-16,,https://pelsbarn.com/products/headrest-restraint-seatbelt
 8488146305291,Comfy Protecting Car Bed 2.0,Single,99.0,139.0,,6,True,2024-03-01,"autobed, OCB, original",https://pelsbarn.com/products/comfy-protecting-car-bed
-8395623170315,Holiday Gift Packaging for dogs,Add-on,4.92,4.92,,1,True,2023-12-10,,https://pelsbarn.com/products/gift-packaging
 8310314664203,Comfy Cuddle Car Bed Aussie,Single,79.0,139.0,198.0,9,True,2023-08-23,"autobed, original",https://pelsbarn.com/products/comfy-cuddle-car-bed-aussie-1
 8367956230411,Calming Relief Blanket,Single,25.0,25.0,35.0,4,True,2023-11-14,shop-collection,https://pelsbarn.com/products/calming-relief-blanket
 8326595870987,Anti Tick & Flea Collar,Single,19.0,19.0,29.0,1,True,2023-09-18,,https://pelsbarn.com/products/anti-tick-flea-collar
