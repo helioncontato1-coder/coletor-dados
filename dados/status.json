@@ -1,8 +1,8 @@
 {
  "lojas_shopify": {
-  "quando": "2026-11-13 13:17",
+  "quando": "2026-11-13 19:10",
   "pethonesty.com": "184 produtos, 0 mudanças",
-  "pelsbarn.com": "51 produtos, 1 mudanças",
+  "pelsbarn.com": "51 produtos, 0 mudanças",
   "bestfriendsbysheri.com": "62 produtos, 0 mudanças",
   "casapetloja.com": "1129 produtos, 0 mudanças",
   "petsafi.com": "30 produtos, 0 mudanças",
@@ -14,26 +14,26 @@
   "petsmarket.com.br": "90 produtos, 0 mudanças",
   "petcroc.com": "1003 produtos, 0 mudanças",
   "casamiau.com": "219 produtos, 0 mudanças",
-  "velupet.com": "208 produtos, 0 mudanças",
+  "velupet.com": "209 produtos, 1 mudanças",
   "mundodipet.com.br": "118 produtos, 0 mudanças",
   "patinhafeliz.com.br": "322 produtos, 0 mudanças",
   "gouppet.com.br": "337 produtos, 0 mudanças",
   "revivamaispet.com": "114 produtos, 0 mudanças",
-  "shopcao.com.br": "2714 produtos, 2 mudanças",
+  "shopcao.com.br": "2714 produtos, 1 mudanças",
   "manuka4patas.com.br": "194 produtos, 0 mudanças",
-  "br-sparkpaws.com": "905 produtos, 0 mudanças",
+  "br-sparkpaws.com": "905 produtos, 2 mudanças",
   "gatomaniacas.com.br": "72 produtos, 0 mudanças",
   "akoldog.com.br": "29 produtos, 0 mudanças",
-  "viupet.com.br": "357 produtos, 1 mudanças",
+  "viupet.com.br": "357 produtos, 0 mudanças",
   "estilopata.com": "82 produtos, 0 mudanças",
   "mimogato.com": "85 produtos, 0 mudanças",
   "petmagia.com.br": "115 produtos, 0 mudanças",
-  "nandog.com.br": "52 produtos, 0 mudanças",
+  "nandog.com.br": "53 produtos, 1 mudanças",
   "spetialist.com.br": "24 produtos, 0 mudanças",
   "zupetbrasil.com": "erro: <urlopen error [Errno -2] Name or service not known>"
  },
  "mercadolivre": {
-  "quando": "2026-11-13 13:17",
+  "quando": "2026-11-13 19:10",
   "cama canguru cachorro": "recusado HTTP 403"
  }
 }
