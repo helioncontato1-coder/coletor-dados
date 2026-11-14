@@ -1,105 +1,106 @@
-# Briefing de tendências — 2026-11-13
+# Briefing de tendências — 2026-11-14
 
-Gerado em 2026-11-13 19:12 (Brasília). Modelo: models/gemini-3.5-flash
+Gerado em 2026-11-14 19:02 (Brasília). Modelo: models/gemini-3.5-flash
 
 ## Análise do estrategista
 
-**BRIEFING DE TENDÊNCIAS E COMPETIÇÃO – HELION**  
+**MEMORANDO: BRIEFING DE TENDÊNCIAS E OPORTUNIDADES (HELION)**  
 **Para:** Diretor de Marketing  
 **De:** Estrategista de Tendências  
-**Assunto:** Oportunidades e Movimentações do Mercado Pet (Dados das últimas 48h / 30 dias)
 
 ---
 
-### 1. Tendências Identificadas nos Dados
+### 1) Tendências Identificadas nos Dados
 
-1. **Antecipação da Temporada Natalina (Vestuário e Presentes):** Fortíssima movimentação de itens temáticos. A `casapetloja.com` lançou o *Vestido Pet Merry Christmas* (R$ 199.9) e a *Manta Pet Presentinho de Natal* (R$ 149.9). A `br-sparkpaws.com` trouxe sweaters como o *Christmas Knit Dog Sweater* (US$ 17.99), e a `manuka4patas.com.br` apostou no *Enfeite de Natal Personalizado com nome do cachorro* (R$ 49.0).
-2. **Linha Ortopédica e Mobilidade Sênior:** A `velupet.com` dominou os lançamentos recentes focando na dor de tutores com pets idosos ou com mobilidade reduzida, lançando o *Arnês de Apoio e Elevação* (R$ 357.9), o *Puff Rampa para Cachorro e Gato* (R$ 531.9) e combos como o *Kit Mobilidade Total* (R$ 848.9).
-3. **Hiperpersonalização por Raça e Humor (Memes):** A `manuka4patas.com.br` focou no portfólio segmentado por raças (Porta Coleiras para Vizsla, Corgi, Dachshund, etc.), enquanto a `revivamaispet.com` lançou vestuário e decoração baseados em memes/estilo autoral, como as camisetas *DogSarcástico® Salsicha* (R$ 94.9), *CatMeme®* (R$ 94.9) e quadros metalizados personalizados (*Pet Gogh®* a R$ 43.9).
-4. **Camas Conceito "Calming" e Protetores de Sofá:** Foco continuado em conforto emocional. Destaque para os lançamentos da `pelsbarn.com` (*Original Calming Bed* a US$ 84.0) e `br-sparkpaws.com` (*Calming Fluffy Couch Cover Dog Bed* a US$ 54.99).
-
----
-
-### 2. Ângulos de Conteúdo para o Instagram (Foco em Compra por Emoção)
-
-* **Ângulo 1 (Apelo de Natal / Identidade):**  
-  * *Formato:* Reel / Carrossel "O look do seu filho de 4 patas para a ceia de Natal".  
-  * *Gancho:* Mostrar a transformação do pet usando roupinha/acessório natalino ou colocando o enfeite personalizado na árvore da família. (Aproveita a alta dos lançamentos de Natal).
-* **Ângulo 2 (Humor de Raça / "Meme Identificável"):**  
-  * *Formato:* Vídeo curto estilo meme / Figurinha.  
-  * *Gancho:* "Todo dono de [Inserir Raça] sabe que ele é exatamente assim". Mostrar o produto personalizado da raça ou camiseta de meme pet. (Aproveita a tendência da *Reviva Mais Pet* e *Manuka4patas*).
-* **Ângulo 3 (Solução de Dor / Empatia Pet Sênior):**  
-  * *Formato:* Demonstração Funcional (Antes e Depois).  
-  * *Gancho:* "Seu pet chora para subir no sofá ou tem dificuldade de andar?". Mostrar a facilidade do Puff Rampa / Arnês de elevação para dar autonomia ao cão idoso. (Aproveita a linha da *Velú Pet*).
+1. **Forte Aposta na Coleção Temática de Natal (Pets e Matching Sets):**  
+   Lojas estão lançando linhas festivas completas. A **casapetloja.com** lançou o *Vestido Pet Merry Christmas* (R$ 199.9), *Roupinha Pet Magia de Natal* (R$ 189.9) e *Manta Pet Presentinho de Natal* (R$ 149.9). A **br-sparkpaws.com** lançou uma linha expressiva com suéteres festivos (*Christmas Knit Dog Sweater*) e conjuntos combinando de pijamas para pets e humanos (*Dog Christmas Pajamas* e *Christmas Human Pajama Pants/Top*). A **manuka4patas.com.br** lançou o *Enfeite de Natal Personalizado com nome do cachorro* (R$ 49.0).
+2. **Soluções de Mobilidade e Cuidados Ortopédicos/Sênior:**  
+   A **velupet.com** focou em lançamentos funcionais de alto valor, como o *Arnês de Apoio e Elevação para Cães* (R$ 357.9), *Suporte de Jarrete com Mola* (R$ 322.9) e kits como *Kit Mobilidade Total* (R$ 848.9) e *Puff Rampa para Cachorro e Gato* (R$ 531.9).
+3. **Camas e Mantas Calmantes / Conforto Premium:**  
+   O segmento de conforto relaxante continua ativo. A **pelsbarn.com** repôs estoque do *Luxurious Calming Blanket* e lançou a *Original Calming Bed* (R$ 84.0) e *Cloud Velvet Bed* (R$ 189.0). A **casapetloja.com** lançou o *Sofá Cama Pet Ninni 2 em 1* (R$ 289.9) e a *Cama Colchão Nuvy Impermeável com Cabeceira* (R$ 349.9).
+4. **Moda Pet Divertida e Camisetas de Memes para Tutores:**  
+   A **revivamaispet.com** lançou camisetas unissex focadas no humor do nicho pet, como *DogSarcástico®*, *CatMeme®* e *DogMeme®* (todas a R$ 94.9).
 
 ---
 
-### 3. Produtos para Pesquisar Fornecedor Nacional (Nicho Helion)
+### 2) Ângulos de Conteúdo para o Instagram (Tráfego Pago / Vídeos Emocionais)
 
-* **Puff Rampa 2 em 1 para Sofá:** Item com alto valor percebido e apelo visual direto para Instagram (visto na `velupet.com`).
-* **Porta-Coleiras e Organizadores de Parede Segmentados por Raça:** Fácil de produzir localmente via corte a laser/marcenaria (visto na `manuka4patas.com.br`).
-* **Quadros Metálicos Personalizáveis com Foto do Pet:** Item de baixo custo de frete e forte apelo de presente (visto na `revivamaispet.com`).
+1. **"Pijama Combinado Mãe/Pai & Pet pro Natal":**  
+   *Abordagem:* Mostrar tutores usando pijamas ou roupas combinando com seus cães no clima natalino. Aproveita o gatilho da emoção e a forte tendência observada na *br-sparkpaws.com* e *casapetloja.com*.
+2. **"Ajude Seu Pet Idoso a Voltar a Subir no Sofá Sem Dor":**  
+   *Abordagem:* Vídeo focado em dor/solução mostrando a dificuldade de cães mais velhos e a transição usando rampas/puffs ortopédicos e suportes de elevação (com base nos produtos da *velupet.com*).
+3. **"O Cantinho Antiestresse que Seu Pet Merece":**  
+   *Abordagem:* Demonstração visual do pet relaxando instantaneamente em caminhas/mantas aveludadas calmantes (com base nas caminhas da *pelsbarn.com* e *casapetloja.com*).
 
 ---
 
-### 4. Alertas de Mercado (Últimas 48h)
+### 3) Produtos para Pesquisar Fornecedor no Brasil
 
-* **Preços Caindo (Promoção/Desova de Estoque no Concorrente):**
-  * A `manuka4patas.com.br` aplicou corte geral de preços em toda a linha de *Porta Coleiras por Raça* (de R$ 62.0 para R$ 46.5) e em sua linha de cosméticos/shampoos (ex: Fluido Acalma Pele de R$ 124.0 para R$ 99.2).
-* **Itens Esgotando (Alta Demanda):**
-  * `br-sparkpaws.com`: Esgotou o *SPARK Suéter de Fleece Macio com Zíper* e o *Quilted Classic Winter Coat - Red*.
-  * `spetialist.com.br`: Esgotou o *KIT ESSENCIAL* e o *KIT BANHO*.
-* **Aumento de Preço dos Concorrentes:**
-  * `nandog.com.br`: Dobrou o preço do *The Poop Bag Pocket Dog Waste bags* (R$ 49.0 → R$ 99.0).
-  * `akoldog.com.br`: Aumentou preços nos kits de *Tapete Higiênico 60x80* (Kit 8 foi de R$ 880.0 para R$ 899.0).
-* **Remoção de Produtos:**
-  * `pelsbarn.com` removeu da loja a *Protecting Car Bed 2.0* e a *Original Bed + FREE calming blanket*.
+* **Puff Rampa e Suportes de Mobilidade:** Itens como o *Puff Rampa* e *Arnês de Elevação* (vistos na *velupet.com*) possuem alto ticket médio e apelo funcional.
+* **Caminhas Impermeáveis e Calmantes Aveludadas:** *Cloud Velvet Bed* (*pelsbarn.com*) e *Cama Colchão Nuvy Impermeável* (*casapetloja.com*).
+* **Roupas e Pijamas Festivos de Natal (Cão + Tutor):** Linha inspirada nos lançamentos da *br-sparkpaws.com* e *casapetloja.com*.
+* **Brinquedos Interativos e Funcionais:** *Bola Interativa com Corda* e *Brinquedo João Bobo Expressivo* (vistos na *doggos.com.br*).
+
+---
+
+### 4) Alertas das Últimas 48h (Preços, Estoque e Lançamentos)
+
+* **Esgotando / Esgotado:**  
+  * **br-sparkpaws.com:** O *SPARK Suéter para Cães de Fleece Macio com Zíper* teve reajuste de preço (22.99 → 24.99) e esgotou. O casaco *Quilted Classic Winter Coat - Magenta* também esgotou.
+* **Preços Caindo (Descontos/Queima de Estoque):**  
+  * **doggos.com.br:** Reduziu preços de vários itens: *Peitoral Asa de Anjo com Guia* (227.0 → 197.0), *Bola Interativa com Corda* (137.0 → 97.0), *Escova com Vapor* (167.0 → 157.0) e *Brinquedo Tapete Inflável de Água* (117.0 → 97.0).  
+  * **pelsbarn.com:** *Luxurious Sofa Bed for Cats* e *Luxurious Sofa Bed - Golden Age* baixaram de 169.0 para 119.0.  
+  * **casapetloja.com:** *Moletom Pet Rena* baixou de 199.9 para 189.9.
+* **Aumento de Preço / Reajuste:**  
+  * **br-sparkpaws.com:** Diversos modelos da linha *Knit Dog Sweater* subiram de 20.99 para 22.99.  
+  * **shopcao.com.br:** Ração Farmina N&D (10,1kg) subiu de 427.9 para 469.9.
+* **Lançamentos:** 88 produtos novos nos últimos 30 dias, fortemente concentrados em coleções de Natal e acessórios funcionais/ortopédicos.
 
 ## Números da coleta
 
-Mudanças nas lojas (últimas 48h): 113
-- manuka4patas.com.br: preço mudou — Porta Coleiras Vizsla (62.0 → 46.5)
-- manuka4patas.com.br: preço mudou — Porta Coleiras Corgi (62.0 → 46.5)
-- manuka4patas.com.br: preço mudou — Porta Coleiras Gato (62.0 → 46.5)
-- manuka4patas.com.br: preço mudou — Porta Coleiras Labrador (62.0 → 46.5)
-- manuka4patas.com.br: preço mudou — Porta Coleiras Whippet | Galgo Italiano (62.0 → 46.5)
-- manuka4patas.com.br: preço mudou — Porta Coleiras Viralata (62.0 → 46.5)
-- manuka4patas.com.br: preço mudou — Porta Coleiras Pug (62.0 → 46.5)
-- manuka4patas.com.br: preço mudou — Porta Coleiras Shih Tzu | Lhasa Apso (62.0 → 46.5)
-- manuka4patas.com.br: preço mudou — Porta Coleiras Maltês (62.0 → 46.5)
-- manuka4patas.com.br: preço mudou — Porta Coleiras Buldogue Inglês (62.0 → 46.5)
-- manuka4patas.com.br: preço mudou — Porta Coleiras Yorkshire (62.0 → 46.5)
-- manuka4patas.com.br: preço mudou — Porta Coleiras Lulu | Spitz Alemão (62.0 → 46.5)
-- manuka4patas.com.br: preço mudou — Porta Coleiras Dachshund (62.0 → 46.5)
-- manuka4patas.com.br: preço mudou — Porta Coleiras Border Collie (62.0 → 46.5)
-- manuka4patas.com.br: preço mudou — Porta Coleiras Buldogue Francês (62.0 → 46.5)
-- manuka4patas.com.br: preço mudou — Porta Coleiras Golden Retriever (62.0 → 46.5)
-- manuka4patas.com.br: preço mudou — CONDICIONADOR ÓLEO DE ARGAN | Pele Longos ou Opacos (117.0 → 99.45)
-- manuka4patas.com.br: preço mudou — CONDICIONADOR MANTEIGA DE KARITÉ | Pele Normal a Seca (117.0 → 99.45)
-- manuka4patas.com.br: preço mudou — POMADA 100% NATURAL | para calos, focinho e patas (79.0 → 75.65)
-- manuka4patas.com.br: preço mudou — CONDICIONADOR AMÊNDOA FRESCA | Pele Seca (117.0 → 99.45)
-- manuka4patas.com.br: preço mudou — FLUIDO ACALMA PELE | Aveia Orgânica (124.0 → 99.2)
-- manuka4patas.com.br: preço mudou — SHAMPOO BAUNILHA | Pelos Longos (94.0 → 79.9)
-- manuka4patas.com.br: preço mudou — HIDRATAÇÃO LAVANDA E MANTEIGA DE KARITÉ |Pele Normal a Seca (107.0 → 90.95)
-- manuka4patas.com.br: preço mudou — SHAMPOO LAVANDA | Pele Normal a Seca (94.0 → 79.9)
-- akoldog.com.br: preço mudou — Kit 8 Tapete Higiênico 60×80 Branco Ultra Absorvente (880.0 → 899.0)
-- akoldog.com.br: preço mudou — Kit 4 Tapete Higiênico 60×80 Branco Ultra Absorvente (509.9 → 529.0)
-- akoldog.com.br: preço mudou — Kit 8 Tapete Higiênico 60×80 Cinza Ultra Absorvente (880.0 → 899.0)
-- akoldog.com.br: preço mudou — Kit 4 Tapete Higiênico 60×80 Cinza Ultra Absorvente (519.9 → 529.9)
-- nandog.com.br: preço mudou — The Poop Bag Pocket Dog Waste bags (49.0 → 99.0)
+Mudanças nas lojas (últimas 48h): 172
+- casapetloja.com: produto novo — Vestido Pet Merry Christmas ( → 199.9)
+- pelsbarn.com: voltou ao estoque — Luxurious Calming Blanket for a calm, safe, and relaxed feeling (False → True)
+- br-sparkpaws.com: preço mudou — SPARK Suéter para Cães de Fleece Macio com Zíper - (22.99 → 24.99)
+- br-sparkpaws.com: preço mudou — SPARK Suéter para Cães de Fleece Macio com Zíper - (22.99 → 24.99)
+- br-sparkpaws.com: preço mudou — SPARK Suéter para Cães de Fleece Macio com Zíper - (22.99 → 24.99)
+- br-sparkpaws.com: preço mudou — SPARK Suéter para Cães de Fleece Macio com Zíper - (22.99 → 24.99)
 - br-sparkpaws.com: esgotou — SPARK Suéter para Cães de Fleece Macio com Zíper - (True → False)
+- br-sparkpaws.com: preço mudou — SPARK Suéter para Cães de Fleece Macio com Zíper - (22.99 → 24.99)
+- br-sparkpaws.com: preço mudou — SPARK Suéter para Cães de Fleece Macio com Zíper - (22.99 → 24.99)
 - br-sparkpaws.com: esgotou — SPARK Suéter para Cães de Fleece Macio com Zíper - (True → False)
-- br-sparkpaws.com: esgotou — SPARK Suéter para Cães de Fleece Macio com Zíper - (True → False)
-- br-sparkpaws.com: esgotou — Quilted Classic Winter Coat - Red (True → False)
-- pelsbarn.com: produto removido — Protecting Car Bed 2.0 (89.0 → )
-- pelsbarn.com: produto removido — Original Bed + FREE calming blanket (79.0 → )
-- shopcao.com.br: preço mudou — Ração Úmida Pet Delícia Natural Risotinho de Frango Fácil Digestão - 320g (20.9 → 24.9)
-- shopcao.com.br: produto removido — Antibiótico PiuSana - 10 mL (25.9 → )
-- viupet.com.br: voltou ao estoque — 6 Pedra Cálcio Siba Para Afiar Bico - Pássaros Pequenos (False → True)
-- spetialist.com.br: esgotou — KIT ESSENCIAL (True → False)
-- spetialist.com.br: esgotou — KIT BANHO (True → False)
+- br-sparkpaws.com: preço mudou — SPARK Suéter para Cães de Fleece Macio com Zíper - (22.99 → 24.99)
+- br-sparkpaws.com: preço mudou — SPARK Suéter para Cães de Fleece Macio com Zíper - (22.99 → 24.99)
+- br-sparkpaws.com: preço mudou — SPARK Suéter para Cães de Fleece Macio com Zíper - (22.99 → 24.99)
+- br-sparkpaws.com: preço mudou — SPARK Suéter para Cães de Fleece Macio com Zíper - (22.99 → 24.99)
+- br-sparkpaws.com: preço mudou — SPARK Suéter para Cães de Fleece Macio com Zíper - (22.99 → 24.99)
+- doggos.com.br: preço mudou — Peitoral Asa de Anjo com Guia para Cães (227.0 → 197.0)
+- doggos.com.br: preço mudou — Bola Interativa com Corda para Cães (137.0 → 97.0)
+- doggos.com.br: preço mudou — Escova com Vapor para Limpeza de Pelos (167.0 → 157.0)
+- doggos.com.br: preço mudou — Brinquedo Tapete Inflável de Água para Cães (117.0 → 97.0)
+- shopcao.com.br: preço mudou — Antibiótico Giardicid Suspensão - 50 mL (95.9 → 89.9)
+- shopcao.com.br: preço mudou — Ração Farmina N&D Ancestral Grain Cordeiro Cães Adultos Raças Grandes Maxi - 10,1kg (427.9 → 469.9)
+- pelsbarn.com: preço mudou — Luxurious Sofa Bed for Cats (169.0 → 119.0)
+- pelsbarn.com: preço mudou — Luxurious Sofa Bed - Golden Age (169.0 → 119.0)
+- pelsbarn.com: produto removido — Pelsbarn Premium Shipping Protection (4.0 → )
+- pelsbarn.com: produto removido — Lifetime warranty (19.99 → )
+- pelsbarn.com: produto removido — Holiday Gift Packaging for dogs (4.92 → )
+- casapetloja.com: preço mudou — Moletom Pet Rena (199.9 → 189.9)
+- velupet.com: produto removido — Mochila e Carrinho de Transporte para Pets Pequenos – Conforto e Segurança para Viagens Curta e Longas (798.9 → )
+- br-sparkpaws.com: esgotou — Quilted Classic Winter Coat - Magenta (True → False)
+- br-sparkpaws.com: preço mudou — Knit Dog Sweater - Well Loved (20.99 → 22.99)
+- br-sparkpaws.com: preço mudou — Knit Dog Sweater - Hangry Hippo (20.99 → 22.99)
+- br-sparkpaws.com: preço mudou — Knit Dog Sweater - Red Stripes (20.99 → 22.99)
+- br-sparkpaws.com: preço mudou — Knit Dog Sweater - Orange Stripes (20.99 → 22.99)
+- br-sparkpaws.com: preço mudou — Knit Dog Sweater - Good Dog Club (20.99 → 22.99)
+- br-sparkpaws.com: preço mudou — Knit Dog Sweater - Mini Ditsy (20.99 → 22.99)
+- br-sparkpaws.com: preço mudou — Knit Dog Sweater - Blue Stripes (20.99 → 22.99)
+- br-sparkpaws.com: preço mudou — Knit Dog Sweater - Delicious (20.99 → 22.99)
+- br-sparkpaws.com: preço mudou — Knit Dog Sweater Prints (20.99 → 22.99)
+- br-sparkpaws.com: preço mudou — Knit Dog Sweater - Camp Pink (20.99 → 22.99)
+- br-sparkpaws.com: preço mudou — Knit Dog Sweater - Snoring Machine (20.99 → 22.99)
 
-Produtos lançados nos últimos 30 dias: 100
+Produtos lançados nos últimos 30 dias: 88
 - pelsbarn.com | Original Calming Bed | R$/US$ 84.0 | https://pelsbarn.com/products/original-calming-bed-free-gift
 - pelsbarn.com | Cloud Velvet Bed | R$/US$ 189.0 | https://pelsbarn.com/products/cloud-velvet-bed-free-calming-blanket
 - casapetloja.com | Vestido Pet Merry Christmas | R$/US$ 199.9 | https://casapetloja.com/products/vestido-pet-merry-christmas
@@ -112,6 +113,8 @@ Produtos lançados nos últimos 30 dias: 100
 - casapetloja.com | Sofá Cama Pet Ninni 2 em 1 | R$/US$ 289.9 | https://casapetloja.com/products/sofa-cama-pet-ninni-2-em-1
 - casapetloja.com | Cama Tendinha Pet Princess | R$/US$ 499.9 | https://casapetloja.com/products/cama-tendinha-pet-princess
 - casapetloja.com | Cama Colchão Nuvy Impermeável com Cabeceira | R$/US$ 349.9 | https://casapetloja.com/products/cama-colchao-nuvy-impermeavel-com-cabeceira
+- doggos.com.br | Brinquedo João Bobo Expressivo para Cães | R$/US$ 87.0 | https://doggos.com.br/products/brinquedo-joao-bobo-com-penas-para-caes
+- doggos.com.br | Brinquedo Cachorrinho de Pelúcia com Som para Cães | R$/US$ 87.0 | https://doggos.com.br/products/brinquedo-cachorrinho-de-pelucia-com-som-para-caes
 - doggos.com.br | Chaveiro Patinha Guarda-Pelos de Cães | R$/US$ 67.0 | https://doggos.com.br/products/chaveiro-de-couro-sintetico-para-pelos-de-caes
 - doggos.com.br | Peitoral Asa de Anjo com Guia para Cães | R$/US$ 197.0 | https://doggos.com.br/products/peitoral-asa-de-anjo-com-guia-para-caes
 - doggos.com.br | Bola Interativa com Corda para Cães | R$/US$ 97.0 | https://doggos.com.br/products/bola-interativa-com-corda-para-caes
@@ -126,22 +129,8 @@ Produtos lançados nos últimos 30 dias: 100
 - revivamaispet.com | Dogbeu® – Camiseta Unisexx Especial de Natal Fiapo de Manga | R$/US$ 94.9 | https://revivamaispet.com/products/dingobeu®-camiseta-unisexx-memes-de-gatos-estilo-figurinha-copia
 - revivamaispet.com | CatMeme® – Camiseta Unisexx Memes de Gatos Estilo  Figurinha | R$/US$ 94.9 | https://revivamaispet.com/products/catmeme®-camiseta-unisexx-memes-de-gatos-estilo-figurinha
 - revivamaispet.com | DogMeme® – Camiseta Unisexx Memes de Cachorro Estilo  Figurinha | R$/US$ 94.9 | https://revivamaispet.com/products/meme-cachorro-colecao-autoral
-- revivamaispet.com | Pet Minimalist® – Quadro Metálico Personalizado com Foto do Pet | R$/US$ 43.9 | https://revivamaispet.com/products/pet-minimalist®-quadro-metalico-personalizado-com-foto-do-pet
-- revivamaispet.com | Pet Gogh® – Quadro Metálico Personalizado com Foto do Pet | R$/US$ 43.9 | https://revivamaispet.com/products/pet-gogh®-quadro-metalico-personalizado-com-foto-do-pet
-- revivamaispet.com | Typo Pet® – Quadro Metálico Personalizado com Foto do Pet | R$/US$ 43.9 | https://revivamaispet.com/products/typo-pet®-quadro-metalico-personalizado-com-foto-do-pet-1
 - manuka4patas.com.br | Enfeite de Natal | Personalizado com nome do cachorro | R$/US$ 49.0 | https://manuka4patas.com.br/products/enfeite-de-natal-personalizado-com-nome-do-cachorro
 - manuka4patas.com.br | Cartão Presente Manuka | R$/US$ 50.0 | https://manuka4patas.com.br/products/cartao-presente-manuka
-- manuka4patas.com.br | Porta Coleiras Vizsla | R$/US$ 46.5 | https://manuka4patas.com.br/products/porta-coleiras-vizsla
-- manuka4patas.com.br | Porta Coleiras Corgi | R$/US$ 46.5 | https://manuka4patas.com.br/products/porta-coleiras-corgi
-- manuka4patas.com.br | Porta Coleiras Gato | R$/US$ 46.5 | https://manuka4patas.com.br/products/porta-coleiras-gato
-- manuka4patas.com.br | Porta Coleiras Labrador | R$/US$ 46.5 | https://manuka4patas.com.br/products/porta-coleiras-labrador
-- manuka4patas.com.br | Porta Coleiras Whippet | Galgo Italiano | R$/US$ 46.5 | https://manuka4patas.com.br/products/porta-coleiras-whippet-galgo-italiano
-- manuka4patas.com.br | Porta Coleiras Viralata | R$/US$ 46.5 | https://manuka4patas.com.br/products/porta-coleiras-viralata
-- manuka4patas.com.br | Porta Coleiras Pug | R$/US$ 46.5 | https://manuka4patas.com.br/products/porta-coleiras-pug
-- manuka4patas.com.br | Porta Coleiras Shih Tzu | Lhasa Apso | R$/US$ 46.5 | https://manuka4patas.com.br/products/porta-coleiras-shih-tzu-lhasa-apso
-- manuka4patas.com.br | Porta Coleiras Maltês | R$/US$ 46.5 | https://manuka4patas.com.br/products/porta-coleiras-maltes
-- manuka4patas.com.br | Porta Coleiras Buldogue Inglês | R$/US$ 46.5 | https://manuka4patas.com.br/products/porta-coleiras-buldogue-ingles
-- manuka4patas.com.br | Porta Coleiras Yorkshire | R$/US$ 46.5 | https://manuka4patas.com.br/products/porta-coleiras-yorkshire
 - br-sparkpaws.com | Knit Dog Sweater - Well Loved | R$/US$ 22.99 | https://br-sparkpaws.com/products/knit-dog-sweater-well-loved
 - br-sparkpaws.com | Knit Dog Sweater - Hangry Hippo | R$/US$ 22.99 | https://br-sparkpaws.com/products/knit-dog-sweater-hangry-hippo
 - br-sparkpaws.com | Knit Dog Sweater - Red Stripes | R$/US$ 22.99 | https://br-sparkpaws.com/products/knit-dog-sweater-red-stripes
@@ -160,5 +149,17 @@ Produtos lançados nos últimos 30 dias: 100
 - br-sparkpaws.com | Christmas Knit Dog Sweater | R$/US$ 17.99 | https://br-sparkpaws.com/products/christmas-knit-dog-sweater
 - br-sparkpaws.com | Christmas Knit Dog Sweater - Retro Christmas | R$/US$ 18.99 | https://br-sparkpaws.com/products/knit-dog-sweater-retro-christmas
 - br-sparkpaws.com | Christmas Knit Dog Sweater - Letters to Santa | R$/US$ 17.99 | https://br-sparkpaws.com/products/knit-dog-sweater-letters-to-santa
+- br-sparkpaws.com | Christmas Knit Dog Sweater - Howdy Holidays | R$/US$ 18.99 | https://br-sparkpaws.com/products/knit-dog-sweater-howdy-holidays
+- br-sparkpaws.com | Christmas Knit Dog Sweater - Ribbon Bow | R$/US$ 18.99 | https://br-sparkpaws.com/products/knit-dog-sweater-ribbon-bow
+- br-sparkpaws.com | Christmas Knit Dog Sweater - Holly Bow | R$/US$ 18.99 | https://br-sparkpaws.com/products/knit-dog-sweater-holly-bow
+- br-sparkpaws.com | Christmas Knit Dog Sweater - Nutcracker Ballet | R$/US$ 18.99 | https://br-sparkpaws.com/products/knit-dog-sweater-nutcracker-ballet
+- br-sparkpaws.com | Christmas Knit Dog Sweater - Snow Day Village | R$/US$ 18.99 | https://br-sparkpaws.com/products/knit-dog-sweater-snow-day-village
+- br-sparkpaws.com | Dog Christmas Pajamas | R$/US$ 16.99 | https://br-sparkpaws.com/products/dog-christmas-pajama-multi
+- br-sparkpaws.com | Christmas Human Pajama Pants | R$/US$ 29.99 | https://br-sparkpaws.com/products/christmas-human-pajama-pants-multi
+- br-sparkpaws.com | Christmas Human Pajama Top | R$/US$ 29.99 | https://br-sparkpaws.com/products/christmas-human-pajama-top-multi
+- br-sparkpaws.com | Human Pajama Pants - Teddy Christmas | R$/US$ 29.99 | https://br-sparkpaws.com/products/christmas-pajama-pants-teddy-christmas
+- br-sparkpaws.com | Human Pajama Top - Teddy Christmas | R$/US$ 29.99 | https://br-sparkpaws.com/products/christmas-pajama-top-teddy-christmas
+- br-sparkpaws.com | Human Pajama Top - Red Bows | R$/US$ 29.99 | https://br-sparkpaws.com/products/christmas-pajama-top-red-bows
+- br-sparkpaws.com | Human Pajama Pants - Red Bows | R$/US$ 29.99 | https://br-sparkpaws.com/products/christmas-pajama-pants-red-bows
 
-Tipos de produto mais comuns nas lojas: sem tipo (1966), ração seca (373), vitaminas e suplementos (276), moletom e casaco (186), 0 (146), acessórios para animais de estimação (143), ração úmida (141), brinquedo (127), animais e produtos para animais de estimação (118), single (116), roupa (113), petiscos para cães (112), cama (109), antipulgas e carrapatos (104), medicamentos (88)
+Tipos de produto mais comuns nas lojas: sem tipo (1966), ração seca (373), vitaminas e suplementos (276), moletom e casaco (186), 0 (146), acessórios para animais de estimação (145), ração úmida (141), brinquedo (127), animais e produtos para animais de estimação (118), single (116), roupa (113), petiscos para cães (112), cama (109), antipulgas e carrapatos (104), medicamentos (88)

@@ -13,7 +13,7 @@ id,produto,tipo,preco_min,preco_max,preco_de_max,variantes,disponivel,criado_em,
 15553188102527,Luxurious Cozy Car Bed,BOGO,114.0,179.0,298.0,9,True,2026-02-14,"badge-black-friday-deal, bogo, collection-car-beds, collection-luxe, holiday, LCB, shop-collection",https://pelsbarn.com/products/luxurious-cozy-car-bed-bogo
 15552361791871,Luxurious Sofa Bed for Cats,BOGO,119.0,119.0,170.0,4,True,2026-02-13,LSB,https://pelsbarn.com/products/luxurious-sofa-bed-bogo-cats
 15552360087935,Luxurious Sofa Bed - Golden Age,BOGO,119.0,199.0,299.0,12,True,2026-02-13,LSB,https://pelsbarn.com/products/luxurious-sofa-bed-bogo-golden-age
-15531044667775,Harness 1.0,Single,49.0,84.0,120.0,20,False,2026-02-01,shop-collection,https://pelsbarn.com/products/harness
+15531044667775,Harness 1.0,Single,49.0,84.0,120.0,20,True,2026-02-01,shop-collection,https://pelsbarn.com/products/harness
 8378410467595,Dog paw protection balm (100% natural and vegan),Single,18.0,18.0,36.0,1,True,2023-11-23,,https://pelsbarn.com/products/dog-paw-balm-natural-and-vegan
 15182087487871,Dog Car Seat Extender,Single,109.0,109.0,182.0,1,False,2025-07-10,,https://pelsbarn.com/products/dog-car-seat-extender
 15464818082175,Dog Hair Removal Glove,Upsell,19.0,19.0,27.0,1,True,2025-12-25,shop-collection,https://pelsbarn.com/products/hair-dog-removal
