@@ -155,7 +155,7 @@ id,produto,tipo,preco_min,preco_max,preco_de_max,variantes,disponivel,criado_em,
 10613665530037,ThermoSonic Winter Jacket - Pink,ThermoSonic Winter Jacket,39.99,45.99,69.0,7,True,2026-09-25,"2026, __label:new, exclude_google",https://br-sparkpaws.com/products/thermosonic-winter-jacket-pink
 10613665497269,ThermoSonic Winter Jacket - Beige,ThermoSonic Winter Jacket,39.99,45.99,69.0,7,True,2026-09-25,"2026, __label:new, exclude_google",https://br-sparkpaws.com/products/thermosonic-winter-jacket-beige
 10613665366197,ThermoSonic Winter Jacket - Neon,ThermoSonic Winter Jacket,39.99,45.99,69.0,7,True,2026-09-25,"2026, __label:new, exclude_google",https://br-sparkpaws.com/products/thermosonic-winter-jacket-neon
-10613665300661,ThermoSonic Winter Jacket - Orange,ThermoSonic Winter Jacket,39.99,45.99,69.0,7,True,2026-09-25,"2026, __label:new, exclude_google",https://br-sparkpaws.com/products/thermosonic-winter-jacket-orange
+10613665300661,ThermoSonic Winter Jacket - Orange,ThermoSonic Winter Jacket,39.99,45.99,69.0,7,False,2026-09-25,"2026, __label:new, exclude_google",https://br-sparkpaws.com/products/thermosonic-winter-jacket-orange
 10613664481461,Quilted Classic Winter Coats,Quilted Winter Jacket,39.99,45.99,69.0,63,True,2026-09-25,"2026, __label:new, multi-listing, shoptok",https://br-sparkpaws.com/products/quilted-classic-winter-coats
 7518704271541,Human Pompom Hat - Santa,Human Hat,14.99,14.99,22.0,1,True,2023-10-19,"exclude_google, faire, spo-default, spo-disabled, spo-notify-me-disabled, Sweater",https://br-sparkpaws.com/products/human-pompom-hat-santa
 7518698242229,Knit Pom Pom Dog Beanie Hat - Santa,Dog Hat,13.99,13.99,18.0,3,True,2023-10-19,"exclude_google, faire, Product Type_Clothes, spo-default, spo-disabled, spo-notify-me-disabled, Sweater",https://br-sparkpaws.com/products/knit-pom-pom-dog-beanie-hat-santa
@@ -552,7 +552,7 @@ id,produto,tipo,preco_min,preco_max,preco_de_max,variantes,disponivel,criado_em,
 10249244115125,Concrete Wood Human Hoodie - Moss,Human Hoodie,38.99,38.99,70.0,5,True,2025-10-03,"2025, 2025Q4TEST, exclude_google, VelourSoft",https://br-sparkpaws.com/products/concrete_wood_human_hoodie_moss
 10249243885749,Concrete Wood Human Hoodie - Timber,Human Hoodie,38.99,38.99,70.0,5,True,2025-10-03,"2025, 2025Q4TEST, exclude_google, VelourSoft",https://br-sparkpaws.com/products/concrete_wood_human_hoodie_timber
 10249240576181,Concrete Wood Human Hoodie - Asphalt,Human Hoodie,38.99,38.99,70.0,5,True,2025-10-03,"2025, 2025Q4TEST, exclude_google, VelourSoft",https://br-sparkpaws.com/products/concrete_wood_human_hoodie_asphalt
-10241388544181,Dog Sweater - Penguins,Dog Sweater,22.99,28.99,50.0,7,True,2025-09-26,"2025, 2025Q4TEST, Core Yarn, exclude_google",https://br-sparkpaws.com/products/penguin-dog-sweater
+10241388544181,Dog Sweater - Penguins,Dog Sweater,22.99,28.99,50.0,7,False,2025-09-26,"2025, 2025Q4TEST, Core Yarn, exclude_google",https://br-sparkpaws.com/products/penguin-dog-sweater
 10241318289589,Hearts Knit Dog Sweater,Dog Sweater,22.99,28.99,50.0,7,True,2025-09-26,"2025, 2025Q4TEST, Core Yarn, exclude_google",https://br-sparkpaws.com/products/hearts-dog-sweater-pink-red
 10237463101621,Dog Pajama - Red Hearts,Dog Pajama,20.99,27.99,49.0,8,True,2025-09-23,"2025, 2025Q4TEST, Draylon, exclude_google",https://br-sparkpaws.com/products/dog_pajama_red_hearts
 10237462544565,Dog Pajama - Pink Hearts,Dog Pajama,20.99,27.99,49.0,8,True,2025-09-23,"2025, 2025Q4TEST, Draylon, exclude_google",https://br-sparkpaws.com/products/dog_pajama_pink_hearts
