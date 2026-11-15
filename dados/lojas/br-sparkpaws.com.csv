@@ -225,7 +225,7 @@ id,produto,tipo,preco_min,preco_max,preco_de_max,variantes,disponivel,criado_em,
 10542019182773,Halloween Dog & Human Matching Hoodie Set – Unicorn,,56.0,56.0,102.0,1,True,2026-08-04,,https://br-sparkpaws.com/products/halloween-matching-hoodie-set-unicorn
 10192148857013,Tiger Human Hoodie,Human Halloween Hoodie,38.99,38.99,70.0,5,True,2025-07-25,"2025, Q32025",https://br-sparkpaws.com/products/halloween_human_hoodie_tiger
 10192148529333,Unicorn Human Hoodie,Human Halloween Hoodie,38.99,38.99,70.0,5,True,2025-07-25,"2025, Q32025",https://br-sparkpaws.com/products/halloween_human_hoodie_unicorn
-10192143712437,Tiger Dog Hoodie,Halloween Dog Hoodie,18.99,25.99,52.0,8,True,2025-07-25,"2025, Q32025",https://br-sparkpaws.com/products/halloween_dog_hoodie_tiger
+10192143712437,Tiger Dog Hoodie,Halloween Dog Hoodie,18.99,25.99,52.0,8,False,2025-07-25,"2025, Q32025",https://br-sparkpaws.com/products/halloween_dog_hoodie_tiger
 10192139059381,Unicorn Dog Hoodie,Halloween Dog Hoodie,18.99,25.99,44.0,8,True,2025-07-25,"2025, Q32025",https://br-sparkpaws.com/products/halloween_dog_hoodie_unicorn
 10484837515445,Dog Surgical Suit (2-pack) - Pink Hearts and When Pigs Fly,Dog Surgical Suit,35.49,47.49,89.0,8,True,2026-07-03,"2026, 2026Q1, Draylon, exclude_google",https://br-sparkpaws.com/products/dog-surgical-suit-pink-hearts-and-when-pigs-fly
 10484837482677,Dog Surgical Suit (2-pack) - Pink Hearts and Sunshine,Dog Surgical Suit,35.49,47.49,89.0,8,True,2026-07-03,"2026, 2026Q1, Draylon, exclude_google",https://br-sparkpaws.com/products/dog-surgical-suit-pink-hearts-and-sunshine
