@@ -1,104 +1,109 @@
-# Briefing de tendências — 2026-11-15
+# Briefing de tendências — 2026-11-16
 
-Gerado em 2026-11-15 19:02 (Brasília). Modelo: models/gemini-3.5-flash
+Gerado em 2026-11-16 19:14 (Brasília). Modelo: models/gemini-3.5-flash
 
 ## Análise do estrategista
 
-**MEMORANDO / BRIEFING EXECUTIVO**
+**BRIEFING DE TENDÊNCIAS E OPORTUNIDADES — HELION**
 
 **Para:** Diretor de Marketing  
-**De:** Estrategista de Tendências (Helion)  
-**Assunto:** Briefing de Tendências, Oportunidades e Alertas da Concorrência  
+**De:** Estrategista de Tendências  
 
 ---
 
-### 1. 5 Tendências Mapeadas nos Dados
+### 1) Tendências Identificadas (Baseadas nos dados das lojas)
 
-1. **Aumento de Margem em Suéteres de Malha Divertidos:** A `br-sparkpaws.com` reajustou para cima o preço de dezenas de suéteres de malha/tricô (de $20.99 para $22.99), com destaque para estampas de humor e bordados como *Snoring Machine*, *Nap Enthusiast*, *Hangry Hippo* e *Good Dog Club*.
-2. **Vestuário Coordenado "Humano + Pet" e Linha Natalina:** A `br-sparkpaws.com` lançou conjuntos combinando pijamas para tutores (*Christmas Human Pajama Pants/Top*) e pets (*Dog Christmas Pajamas*). Lojas como `casapetloja.com` (*Vestido Pet Merry Christmas*, *Roupinha Magia de Natal*) e `manuka4patas.com.br` (*Enfeite de Natal Personalizado*) também estão estocando forte a temátca natalina.
-3. **Produtos Ortopédicos e de Mobilidade Sênior de Alto Ticket:** A `velupet.com` entrou forte em kits funcionais de alto valor, como o *Kit Mobilidade Total* (R$ 848.9), *Puff Rampa para Cachorro e Gato* (R$ 531.9) e o *Arnês de Apoio e Elevação* (R$ 357.9).
-4. **Alta Demanda por Itens Calmantes e Anti-Ansiedade:** Produtos voltados ao alívio do estresse estão esgotando rápido. A `pelsbarn.com` esgotou a *Luxurious Calming Blanket* (e lançou as camas *Cloud Velvet Bed* e *Original Calming Bed*), enquanto a `br-sparkpaws.com` esgotou o *Moletom calmante de ansiedade Fluffdreams™*.
-5. **Moda Humana com Estampa Pet / Memes:** A `revivamaispet.com` apostou no público tutor lançando camisetas unissex de humor baseadas em memes (*DogSarcástico®*, *CatMeme®*, *DogMeme®*) a R$ 94.9.
-
----
-
-### 2. 3 Ângulos de Conteúdo para o Instagram
-
-* **Ângulo 1 (Emoção / Identificação): "Qual a personalidade do seu pet?"**
-  * *Conceito:* Vídeos curtos/Reels mostrando a rotina do cachorro e combinando com roupinhas de frases cômicas (ex: "Máquina de Roncar" ou "Entusiasta do Soneca", inspirados nos suéteres da SparkPaws).
-* **Ângulo 2 (Desejo / Família): "Look Combinando para a Noite de Natal"**
-  * *Conceito:* Foco na tendência "Tal Pai/Mãe, Tal Pet". Mostrar tutor e pet usando o mesmo pijama/vestuário natalino abrindo presentes (explorando a apelo visual forte para tráfego pago).
-* **Ângulo 3 (Solução / Cuidados): "Como Ajudar seu Pet Idoso a Subir no Sofá Sem Dor"**
-  * *Conceito:* Conteúdo focado em dor/solução demonstrando rampas/puffs e suportes ortopédicos de elevação para cães seniores, ancorado no apelo emocional de cuidado.
+* **Forte impulso de produtos de Natal (Vestuário + Moda Matching Tutor/Pet):** Adoção em massa da temática natalina com itens de vestuário e acessórios.  
+  * *Exemplos:* `casapetloja.com` ("Vestido Pet Merry Christmas", "Manta Pet Presentinho de Natal"), `manuka4patas.com.br` ("Enfeite de Natal Personalizado com nome do cachorro"), `br-sparkpaws.com` ("Christmas Knit Dog Sweater", pijamas combinando "Christmas Human Pajama Top/Pants") e `revivamaispet.com` ("Catbeu® Camiseta Especial de Natal").
+* **Demanda por Saúde, Mobilidade e Cuidados Pós-Cirúrgicos:** Foco em soluções de amparo físico e recuperação, indicando alta busca por itens funcionais de tíquete mais alto.  
+  * *Exemplos:* Lançamentos na `velupet.com` ("Arnês de Apoio e Elevação", "Kit Mobilidade Total" a R$/US$ 848.9, "Puff Rampa") e reajuste para cima de preços na linha "Dog Surgical Suit" da `br-sparkpaws.com`.
+* **Brinquedos Interativos e Itens Anti-Ansiedade/Sensoriais:** Lançamentos focados em acalmar ou entreter pets por estímulo sensorial.  
+  * *Exemplos:* `doggos.com.br` ("Brinquedo João Bobo Expressivo para Cães", "Brinquedo Cachorrinho de Pelúcia com Som"), `casapetloja.com` ("Ursinho com Batimentos Cardíacos Reninha") e `pelsbarn.com` ("Original Calming Bed").
+* **Moda Pet com Humor e Memes (Moda Casual para Tutores):** Roupas voltadas para os donos expressarem a relação divertida com seus pets.  
+  * *Exemplos:* `revivamaispet.com` com as linhas "DogSarcástico®", "CatMeme®" e "DogMeme®".
 
 ---
 
-### 3. Produtos para Pesquisar Fornecedor no Brasil (Nacional / Dropshipping)
+### 2) 3 Ângulos de Conteúdo para Instagram (Tráfego Pago & Orgânico)
 
-* **Kits de Mobilidade Pet e Puff Rampa:** Itens com margem alta (R$ 300 a R$ 800+) como os lançados pela `velupet.com` (*Arnês de Elevação*, *Puff Rampa*).
-* **Pijamas em Par (Tutor + Cachorro):** Conjuntos de pijama combinados de Natal/Inverno (`br-sparkpaws.com`).
-* **Brinquedos Interativos e Sensoriais:** Itens como *Brinquedo João Bobo Expressivo* e *Chaveiro Guarda-Pelos* (`doggos.com.br`), além do *Ursinho com Batimentos Cardíacos* (`casapetloja.com`).
+1. **Ângulo Emotion/Natal ("Foto de Família no Natal"):**  
+   * *Conceito:* Vídeos no formato *Reels* mostrando pets vestindo roupinhas temáticas de Natal combinando com a manta/decoração da casa ou com o pijama do tutor.  
+   * *Apelo:* Forte gatilho emocional de fim de ano e apelo estético para redes sociais.
+2. **Ângulo Alívio de Ansiedade ("Conforto para o Pet"):**  
+   * *Conceito:* Demonstrativo de antes/depois do comportamento do pet ao interagir com brinquedos sonoros/interativos ou itens com simulação de batimentos cardíacos.  
+   * *Apelo:* Resolução de dor real do tutor (estresse e ansiedade do animal).
+3. **Ângulo Humor e Identificação ("Meu Pet em Forma de Meme"):**  
+   * *Conceito:* Conteúdo dinâmico comparando situações engraçadas do dia a dia de cães/gatos com estampas de camisetas engraçadas.  
+   * *Apelo:* Viralização rápida e alto compartilhamento.
 
 ---
 
-### 4. Alertas (Estoque, Preços e Lançamentos)
+### 3) Produtos para Pesquisar Fornecedor Nacional (Sourcing Brasil)
 
-* **Produtos Esgotados na Concorrência (Últimas 48h):**
-  * `br-sparkpaws.com`: *Moletom calmante Fluffdreams™*, *Quilted Classic Winter Coat*, *Christmas Dog Hoodie (Snow Day Village)* e *Pet Couch Cover (Rustic Bohemian Black)*.
-  * `pelsbarn.com`: *Luxurious Calming Blanket*.
-* **Movimentação de Preços:**
-  * **Subiu:** `br-sparkpaws.com` subiu mais de 20 variações de *Knit Dog Sweaters* de $20.99 para $22.99; `shopcao.com.br` subiu a *Ração Chanin Natural Peixe* (107.9 → 108.9).
-  * **Caiu:** `shopcao.com.br` reduziu a *Ração Alcon Club Curió 150g* (19.9 → 18.9).
-* **Lançamentos Recentes Relevantes:**
-  * `nandog.com.br`: *My BFF Mystery Toy* (R$ 129.0).
-  * `doggos.com.br`: *Chaveiro Patinha Guarda-Pelos* (R$ 67.0) e *Brinquedo João Bobo Expressivo* (R$ 87.0).
-  * `velupet.com`: *Arnês de Apoio e Elevação* (R$ 357.9).
+* **Acessórios e Enfeites Personalizáveis de Natal:** Artigos decorativos e mantas/roupinhas natalinas (referência: `manuka4patas.com.br` e `casapetloja.com`).
+* **Kits de Suporte à Mobilidade e Roupas Pós-Cirúrgicas:** Roupas cirúrgicas anatômicas e arneses de apoio (referência: `velupet.com` e `br-sparkpaws.com`).
+* **Brinquedos Interativos e Pelúcias com Som/Batimento:** Produtos de entretenimento com resposta sonora ou mecânica (referência: `doggos.com.br` e `casapetloja.com`).
+
+---
+
+### 4) Alertas Operacionais (Monitoramento de Concorrentes)
+
+* **Item Esgotado:**  
+  * `br-sparkpaws.com`: *Quilted Classic Winter Coat - Pink* esgotou nas últimas 48h (estoque mudou de True para False).
+* **Preços em Queda (Atenção a margens e promoções):**  
+  * `estilopata.com`: *Luva Removedora de Pelos Pet* teve queda de preço de 129.0 para 100.0.  
+  * `br-sparkpaws.com`: A linha *365 All-Season Dog Shoe 4PC Set* (várias cores) teve redução de 29.99 para 27.99.
+* **Preços em Alta (Validação de demanda sólida):**  
+  * `br-sparkpaws.com`: Aumento geral na linha *Dog Surgical Suit* (unidades de 18.99 para 20.99; kits de 32.49 para 35.49) e no casaco *WarmShield Water-Resistant Jacket* (30.99 para 32.99).
+* **Lançamentos Recentes Relevantes:**  
+  * `doggos.com.br`: Novas adições de brinquedos expressivos/som a R$/US$ 87.0.  
+  * `velupet.com`: Lançamento de kits de alta ticketagem para mobilidade (chegando a R$/US$ 848.9).
 
 ## Números da coleta
 
-Mudanças nas lojas (últimas 48h): 153
-- br-sparkpaws.com: esgotou — Quilted Classic Winter Coat - Magenta (True → False)
-- br-sparkpaws.com: preço mudou — Knit Dog Sweater - Well Loved (20.99 → 22.99)
-- br-sparkpaws.com: preço mudou — Knit Dog Sweater - Hangry Hippo (20.99 → 22.99)
-- br-sparkpaws.com: preço mudou — Knit Dog Sweater - Red Stripes (20.99 → 22.99)
-- br-sparkpaws.com: preço mudou — Knit Dog Sweater - Orange Stripes (20.99 → 22.99)
-- br-sparkpaws.com: preço mudou — Knit Dog Sweater - Good Dog Club (20.99 → 22.99)
-- br-sparkpaws.com: preço mudou — Knit Dog Sweater - Mini Ditsy (20.99 → 22.99)
-- br-sparkpaws.com: preço mudou — Knit Dog Sweater - Blue Stripes (20.99 → 22.99)
-- br-sparkpaws.com: preço mudou — Knit Dog Sweater - Delicious (20.99 → 22.99)
-- br-sparkpaws.com: preço mudou — Knit Dog Sweater Prints (20.99 → 22.99)
-- br-sparkpaws.com: preço mudou — Knit Dog Sweater - Camp Pink (20.99 → 22.99)
-- br-sparkpaws.com: preço mudou — Knit Dog Sweater - Snoring Machine (20.99 → 22.99)
-- br-sparkpaws.com: preço mudou — Knit Dog Sweater - Nap Enthusiast (20.99 → 22.99)
-- br-sparkpaws.com: preço mudou — Knit Dog Sweater - Classic Polka Dot (20.99 → 22.99)
-- br-sparkpaws.com: preço mudou — Knit Dog Sweater - Moonlit Cabin (20.99 → 22.99)
-- br-sparkpaws.com: esgotou — Christmas Dog Hoodie - Snow Day Village (True → False)
-- br-sparkpaws.com: preço mudou — Dog Sweater - Penguins (20.99 → 22.99)
-- br-sparkpaws.com: preço mudou — Hearts Knit Dog Sweater (20.99 → 22.99)
-- br-sparkpaws.com: preço mudou — Flower Knit Dog Sweater (20.99 → 22.99)
-- br-sparkpaws.com: preço mudou — Banana Knit Dog Sweater (20.99 → 22.99)
-- br-sparkpaws.com: preço mudou — Flower Knit Dog Sweater - Blue Green Yellow (20.99 → 22.99)
-- br-sparkpaws.com: preço mudou — Cable Knit Dog Sweaters (20.99 → 22.99)
-- br-sparkpaws.com: preço mudou — Cable Knit Dog Sweater - Brown (20.99 → 22.99)
-- br-sparkpaws.com: preço mudou — Cable Knit Dog Sweater - Pine Green (20.99 → 22.99)
-- br-sparkpaws.com: preço mudou — Cable Knit Dog Sweater - Mint Green (20.99 → 22.99)
-- br-sparkpaws.com: preço mudou — Cable Knit Dog Sweater - Pink (20.99 → 22.99)
-- br-sparkpaws.com: preço mudou — Cable Knit Dog Sweater - Grey (20.99 → 22.99)
-- br-sparkpaws.com: preço mudou — Cable Knit Dog Sweater - Blue (20.99 → 22.99)
-- br-sparkpaws.com: preço mudou — Suéter de malha para cachorro com ursinho de pelúcia quebrado - Preto (20.99 → 22.99)
-- pelsbarn.com: esgotou — Luxurious Calming Blanket for a calm, safe, and relaxed feeling (True → False)
-- shopcao.com.br: preço mudou — Ração Chanin Natural Peixe para Gatos Adultos (107.9 → 108.9)
-- shopcao.com.br: produto removido — Granulado Higiênico de Madeira CarePet Premium Original (17.9 → )
-- viupet.com.br: voltou ao estoque — Graminha caes 60g (False → True)
-- velupet.com: produto novo — Arnês de Apoio e Elevação para Cães – Ajuda para Levantar e Caminhar ( → 357.9)
-- shopcao.com.br: preço mudou — Ração Alcon Club Curió - 150g (19.9 → 18.9)
-- br-sparkpaws.com: esgotou — Pet Couch Cover - Rustic Bohemian Black (True → False)
-- br-sparkpaws.com: esgotou — Moletom calmante de ansiedade Fluffdreams™ - Berrylicious (True → False)
-- nandog.com.br: produto novo — My BFF Mystery Toy ( → 129.0)
+Mudanças nas lojas (últimas 48h): 157
 - doggos.com.br: produto novo — Brinquedo João Bobo Expressivo para Cães ( → 87.0)
 - doggos.com.br: produto novo — Brinquedo Cachorrinho de Pelúcia com Som para Cães ( → 87.0)
+- br-sparkpaws.com: esgotou — Quilted Classic Winter Coat - Pink (True → False)
+- estilopata.com: preço mudou — Luva Removedora de Pelos Pet (129.0 → 100.0)
+- br-sparkpaws.com: preço mudou — Knit Pom Pom Dog Beanie Hat - Santa (12.99 → 13.99)
+- br-sparkpaws.com: preço mudou — Dog Surgical Suit (2-pack) - Pink Hearts and When Pigs Fly (32.49 → 35.49)
+- br-sparkpaws.com: preço mudou — Dog Surgical Suit (2-pack) - Pink Hearts and Sunshine (32.49 → 35.49)
+- br-sparkpaws.com: preço mudou — Dog Surgical Suit (2-pack) - Butterfly and Pink Hearts (32.49 → 35.49)
+- br-sparkpaws.com: preço mudou — Dog Surgical Suit  (2-pack) - Dinosaurs and Sunshine (32.49 → 35.49)
+- br-sparkpaws.com: preço mudou — Dog Surgical Suit (2-pack) - Dinosaurs and Dragons (32.49 → 35.49)
+- br-sparkpaws.com: preço mudou — Dog Surgical Suit (2-pack) - Breakfast Blue and Dinosaurs (32.49 → 35.49)
+- br-sparkpaws.com: preço mudou — Dog Surgical Suit (2-pack) - Breakfast Blue and Donuts (32.49 → 35.49)
+- br-sparkpaws.com: preço mudou — Dog Surgical Suit (2-pack) - Butterfly and Donuts (32.49 → 35.49)
+- br-sparkpaws.com: preço mudou — Dog Surgical Suit (2-pack) - Dinosaurs and Hearts (32.49 → 35.49)
+- br-sparkpaws.com: preço mudou — Dog Surgical Suit  2-pack (32.49 → 35.49)
+- br-sparkpaws.com: preço mudou — 365 All-Season Dog Shoe 4PC Set (29.99 → 27.99)
+- br-sparkpaws.com: preço mudou — 365 All-Season Dog Shoe 4PC Set - Green Brown (29.99 → 27.99)
+- br-sparkpaws.com: preço mudou — 365 All-Season Dog Shoe 4PC Set - Blue (29.99 → 27.99)
+- br-sparkpaws.com: preço mudou — 365 All-Season Dog Shoe 4PC Set - Purple (29.99 → 27.99)
+- br-sparkpaws.com: preço mudou — 365 All-Season Dog Shoe 4PC Set - Teal (29.99 → 27.99)
+- br-sparkpaws.com: preço mudou — 365 All-Season Dog Shoe 4PC Set - Pink (29.99 → 27.99)
+- br-sparkpaws.com: preço mudou — 365 All-Season Dog Shoe 4PC Set - Green (29.99 → 27.99)
+- br-sparkpaws.com: preço mudou — 365 All-Season Dog Shoe 4PC Set - Grey (29.99 → 27.99)
+- br-sparkpaws.com: preço mudou — 365 All-Season Dog Shoe 4PC Set - Black Orange (29.99 → 27.99)
+- br-sparkpaws.com: preço mudou — Dog Surgical Suit (18.99 → 20.99)
+- br-sparkpaws.com: preço mudou — Dog Surgical Suit - Butterfly (18.99 → 20.99)
+- br-sparkpaws.com: preço mudou — Dog Surgical Suit - Pink Hearts (18.99 → 20.99)
+- br-sparkpaws.com: preço mudou — Dog Surgical Suit - Stars (18.99 → 20.99)
+- br-sparkpaws.com: preço mudou — Dog Surgical Suit - Dragons (18.99 → 20.99)
+- br-sparkpaws.com: preço mudou — Dog Surgical Suit - Dinosaurs (18.99 → 20.99)
+- br-sparkpaws.com: preço mudou — Dog Surgical Suit - Donuts (18.99 → 20.99)
+- br-sparkpaws.com: preço mudou — Dog Surgical Suit - When Pigs Fly (18.99 → 20.99)
+- br-sparkpaws.com: preço mudou — Dog Surgical Suit - Sunshine (18.99 → 20.99)
+- br-sparkpaws.com: preço mudou — Dog Surgical Suit - Planets (18.99 → 20.99)
+- br-sparkpaws.com: preço mudou — Dog Surgical Suit - Pup Cup (18.99 → 20.99)
+- br-sparkpaws.com: preço mudou — Dog Surgical Suit - Breakfast Blue (18.99 → 20.99)
+- br-sparkpaws.com: preço mudou — Dog Surgical Suit - Hearts (18.99 → 20.99)
+- br-sparkpaws.com: preço mudou — WarmShield Water-Resistant Jacket - Grey (30.99 → 32.99)
+- br-sparkpaws.com: preço mudou — WarmShield Water-Resistant Jacket - Teal (30.99 → 32.99)
+- br-sparkpaws.com: preço mudou — WarmShield Water-Resistant Jacket - Dusty Pink (30.99 → 32.99)
 
-Produtos lançados nos últimos 30 dias: 88
+Produtos lançados nos últimos 30 dias: 82
 - pelsbarn.com | Original Calming Bed | R$/US$ 84.0 | https://pelsbarn.com/products/original-calming-bed-free-gift
 - pelsbarn.com | Cloud Velvet Bed | R$/US$ 189.0 | https://pelsbarn.com/products/cloud-velvet-bed-free-calming-blanket
 - casapetloja.com | Vestido Pet Merry Christmas | R$/US$ 199.9 | https://casapetloja.com/products/vestido-pet-merry-christmas
@@ -110,8 +115,6 @@ Produtos lançados nos últimos 30 dias: 88
 - casapetloja.com | Coleira Guia & Mochila Pocky | R$/US$ 229.9 | https://casapetloja.com/products/coleira-guia-mochila-pocky
 - casapetloja.com | Sofá Cama Pet Ninni 2 em 1 | R$/US$ 289.9 | https://casapetloja.com/products/sofa-cama-pet-ninni-2-em-1
 - casapetloja.com | Cama Tendinha Pet Princess | R$/US$ 499.9 | https://casapetloja.com/products/cama-tendinha-pet-princess
-- casapetloja.com | Cama Colchão Nuvy Impermeável com Cabeceira | R$/US$ 349.9 | https://casapetloja.com/products/cama-colchao-nuvy-impermeavel-com-cabeceira
-- doggos.com.br | Brinquedo João Bobo Expressivo para Cães | R$/US$ 87.0 | https://doggos.com.br/products/brinquedo-joao-bobo-com-penas-para-caes
 - doggos.com.br | Brinquedo Cachorrinho de Pelúcia com Som para Cães | R$/US$ 87.0 | https://doggos.com.br/products/brinquedo-cachorrinho-de-pelucia-com-som-para-caes
 - doggos.com.br | Chaveiro Patinha Guarda-Pelos de Cães | R$/US$ 67.0 | https://doggos.com.br/products/chaveiro-de-couro-sintetico-para-pelos-de-caes
 - doggos.com.br | Peitoral Asa de Anjo com Guia para Cães | R$/US$ 197.0 | https://doggos.com.br/products/peitoral-asa-de-anjo-com-guia-para-caes
@@ -159,5 +162,7 @@ Produtos lançados nos últimos 30 dias: 88
 - br-sparkpaws.com | Human Pajama Top - Teddy Christmas | R$/US$ 29.99 | https://br-sparkpaws.com/products/christmas-pajama-top-teddy-christmas
 - br-sparkpaws.com | Human Pajama Top - Red Bows | R$/US$ 29.99 | https://br-sparkpaws.com/products/christmas-pajama-top-red-bows
 - br-sparkpaws.com | Human Pajama Pants - Red Bows | R$/US$ 29.99 | https://br-sparkpaws.com/products/christmas-pajama-pants-red-bows
+- br-sparkpaws.com | Human Pajama Pants - Merry Penguins | R$/US$ 29.99 | https://br-sparkpaws.com/products/christmas-pajama-pants-merry-penguins
+- br-sparkpaws.com | Human Pajama Top - Merry Penguins | R$/US$ 29.99 | https://br-sparkpaws.com/products/christmas-pajama-top-merry-penguins
 
-Tipos de produto mais comuns nas lojas: sem tipo (1966), ração seca (373), vitaminas e suplementos (276), moletom e casaco (186), 0 (146), acessórios para animais de estimação (144), ração úmida (141), brinquedo (127), animais e produtos para animais de estimação (118), single (116), roupa (113), petiscos para cães (112), cama (109), antipulgas e carrapatos (104), medicamentos (88)
+Tipos de produto mais comuns nas lojas: sem tipo (1966), ração seca (373), vitaminas e suplementos (276), moletom e casaco (186), 0 (146), acessórios para animais de estimação (143), ração úmida (141), brinquedo (127), single (121), animais e produtos para animais de estimação (118), roupa (113), petiscos para cães (112), cama (109), antipulgas e carrapatos (104), medicamentos (88)

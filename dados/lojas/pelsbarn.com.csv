@@ -16,13 +16,13 @@ id,produto,tipo,preco_min,preco_max,preco_de_max,variantes,disponivel,criado_em,
 15531044667775,Harness 1.0,Single,49.0,84.0,120.0,20,True,2026-02-01,shop-collection,https://pelsbarn.com/products/harness
 8378410467595,Dog paw protection balm (100% natural and vegan),Single,18.0,18.0,36.0,1,True,2023-11-23,,https://pelsbarn.com/products/dog-paw-balm-natural-and-vegan
 15182087487871,Dog Car Seat Extender,Single,109.0,109.0,182.0,1,False,2025-07-10,,https://pelsbarn.com/products/dog-car-seat-extender
-15464818082175,Dog Hair Removal Glove,Upsell,19.0,19.0,27.0,1,True,2025-12-25,shop-collection,https://pelsbarn.com/products/hair-dog-removal
+15464818082175,Dog Hair Removal Glove,Single,19.0,19.0,27.0,1,True,2025-12-25,shop-collection,https://pelsbarn.com/products/hair-dog-removal
 15243082793343,Luxurious Donut Bed,BOGO,159.0,259.0,370.0,8,False,2025-08-19,,https://pelsbarn.com/products/luxurious-donut-bed-bogo
 15419286454655,Licking Mat,Single,29.0,29.0,41.0,2,True,2025-11-25,shop-collection,https://pelsbarn.com/products/licking-mat
 15407672492415,Gift Card,Single,50.0,250.0,,3,True,2025-11-18,shop-collection,https://pelsbarn.com/products/a-special-gift-for-you
 15388214657407,Protecting Car Bed 2.0,Single,70.0,125.0,208.0,6,True,2025-11-07,"dup_8235420320011, ig_exp_20e4e81e, ig_tg_c5bae7e0, OCB, price_test",https://pelsbarn.com/products/pelsbarn-protecting-car-bed-2-1
-15239487160703,Ready for Dream Bed,Single,119.0,189.0,213.0,3,True,2025-08-15,"collection-orthopedic-beds, shop-collection",https://pelsbarn.com/products/ready-for-dream-bed
-15237517345151,Luxurious Orthopedic Bed,Upsell,84.0,149.0,248.0,12,True,2025-08-14,"badge-black-friday-deal, collection-luxe, collection-orthopedic-beds, shop-collection",https://pelsbarn.com/products/luxurious-orthopedic-bed-2
+15239487160703,Ready for Dream Bed,Single,119.0,189.0,270.0,3,True,2025-08-15,"collection-orthopedic-beds, shop-collection",https://pelsbarn.com/products/ready-for-dream-bed
+15237517345151,Luxurious Orthopedic Bed,Single,84.0,149.0,248.0,12,True,2025-08-14,"badge-black-friday-deal, collection-luxe, collection-orthopedic-beds, shop-collection",https://pelsbarn.com/products/luxurious-orthopedic-bed-2
 15321634963839,Memory Foam Blend filling for Extra Comfort,Single,14.0,14.0,28.0,1,True,2025-10-04,,https://pelsbarn.com/products/bolster-memory-foam-filling-dog-bed
 8897657995531,Orthopedic Calming Bed,Single,83.0,161.0,230.0,8,True,2024-11-13,"collection-orthopedic-beds, Fluffy Beds, holiday, OrthoBed, shop-collection",https://pelsbarn.com/products/orthopedic-calming-bed
 15249056170367,Calming Chews Bundle,Bundle,39.0,107.0,147.0,3,True,2025-08-22,Chews,https://pelsbarn.com/products/pelsbarn-calming-chews-bundle
@@ -46,7 +46,7 @@ id,produto,tipo,preco_min,preco_max,preco_de_max,variantes,disponivel,criado_em,
 8259300851979,Soothing Lick Mat (vet recommended),Single,19.0,19.0,24.0,2,False,2023-05-31,,https://pelsbarn.com/products/soothing-lick-mat
 8272544497931,Dog Hair Remover,Single,24.0,24.0,34.0,1,True,2023-06-20,,https://pelsbarn.com/products/pelsbarn-dog-hair-remover
 8270828601611,Dog Mom Cap (One Size Fits All),Single,19.0,19.0,38.0,1,False,2023-06-17,,https://pelsbarn.com/products/dog-mom-dog-dad-hat
-8220183363851,Extra Safety Net Barrier (drive distraction-free),Upsell,22.0,22.0,44.0,1,True,2023-04-16,,https://pelsbarn.com/products/dog-car-net-barrier
+8220183363851,Extra Safety Net Barrier (drive distraction-free),Single,22.0,22.0,44.0,1,True,2023-04-16,,https://pelsbarn.com/products/dog-car-net-barrier
 8182314139915,Original Calming Bed,Single,79.0,109.0,273.0,16,True,2023-03-16,"badge-black-friday-deal, collection-sofa-beds, holiday, OSB, shop-collection",https://pelsbarn.com/products/original-calming-bed
-8182119235851,Dog Safety Seat Belt with Elastic Bungee Buffer,Upsell,14.0,14.0,28.0,1,True,2023-03-15,,https://pelsbarn.com/products/seat-belt-for-dogs-with-elastic-bungee-buffer
-8032141574411,Calming Relief Blanket,Upsell,29.0,29.0,60.0,3,True,2022-11-28,,https://pelsbarn.com/products/calming-blanket
+8182119235851,Dog Safety Seat Belt with Elastic Bungee Buffer,Single,14.0,14.0,28.0,1,True,2023-03-15,,https://pelsbarn.com/products/seat-belt-for-dogs-with-elastic-bungee-buffer
+8032141574411,Calming Relief Blanket,Single,29.0,29.0,60.0,3,True,2022-11-28,,https://pelsbarn.com/products/calming-blanket
