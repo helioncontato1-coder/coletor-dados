@@ -507,7 +507,7 @@ id,produto,tipo,preco_min,preco_max,preco_de_max,variantes,disponivel,criado_em,
 10264733417653,Pet Couch Cover - Leaves Beige,Couch Cover,49.99,99.99,166.0,6,True,2025-10-21,"2025, 2025Q4TEST, exclude_google",https://br-sparkpaws.com/products/pet_couch_cover_leaves_beige
 10264634818741,Pet Couch Cover - Leaves Green,Couch Cover,49.99,99.99,166.0,6,True,2025-10-21,"2025, 2025Q4TEST, exclude_google",https://br-sparkpaws.com/products/pet_couch_cover_leaves_green
 10264602280117,Pet Couch Cover - Modern Mosaic Beige,Couch Cover,49.99,99.99,166.0,6,True,2025-10-21,"2025, 2025Q4TEST, exclude_google",https://br-sparkpaws.com/products/pet_couch_cover_modern_mosaic_beige
-10264573149365,Pet Couch Cover - Modern Mosaic Grey,Couch Cover,49.99,99.99,166.0,6,False,2025-10-21,"2025, 2025Q4TEST, exclude_google",https://br-sparkpaws.com/products/pet_couch_cover_modern_mosaic_grey
+10264573149365,Pet Couch Cover - Modern Mosaic Grey,Couch Cover,49.99,99.99,166.0,6,True,2025-10-21,"2025, 2025Q4TEST, exclude_google",https://br-sparkpaws.com/products/pet_couch_cover_modern_mosaic_grey
 10264570003637,Pet Couch Cover - Modern Mosaic Black,Couch Cover,49.99,99.99,166.0,6,True,2025-10-21,"2025, 2025Q4TEST, exclude_google",https://br-sparkpaws.com/products/pet_couch_cover_modern_mosaic_black
 10264569708725,Pet Couch Cover - Pine Trees Green,Couch Cover,49.99,99.99,166.0,6,True,2025-10-21,"2025, 2025Q4TEST, exclude_google",https://br-sparkpaws.com/products/pet_couch_cover_pine_trees_green
 10264512266421,Pet Couch Cover - Pine Trees Black,Couch Cover,49.99,99.99,166.0,6,True,2025-10-21,"2025, 2025Q4TEST, exclude_google",https://br-sparkpaws.com/products/pet_couch_cover_pine_trees_black
@@ -518,16 +518,16 @@ id,produto,tipo,preco_min,preco_max,preco_de_max,variantes,disponivel,criado_em,
 10264315232437,Pet Couch Cover - Lily of The Valley Beige,Couch Cover,49.99,99.99,166.0,6,True,2025-10-21,"2025, 2025Q4TEST, exclude_google",https://br-sparkpaws.com/products/pet_couch_cover_lily_of_the_valley_beige
 10264251629749,Pet Couch Cover - Lily of The Valley Grey,Couch Cover,49.99,99.99,166.0,6,True,2025-10-21,"2025, 2025Q4TEST, exclude_google",https://br-sparkpaws.com/products/pet_couch_cover_lily_of_the_valley_grey
 10264241012917,Pet Couch Cover - Lily of The Valley Black,Couch Cover,49.99,99.99,166.0,6,True,2025-10-21,"2025, 2025Q4TEST, exclude_google",https://br-sparkpaws.com/products/pet_couch_cover_lily_of_the_valley_black
-10264240619701,Pet Couch Cover - Rustic Bohemian Black,Couch Cover,49.99,99.99,166.0,6,False,2025-10-21,"2025, 2025Q4TEST, exclude_google",https://br-sparkpaws.com/products/pet_couch_cover_rustic_bohemian_black
+10264240619701,Pet Couch Cover - Rustic Bohemian Black,Couch Cover,49.99,99.99,166.0,6,True,2025-10-21,"2025, 2025Q4TEST, exclude_google",https://br-sparkpaws.com/products/pet_couch_cover_rustic_bohemian_black
 10264239669429,Pet Couch Cover - Rustic Bohemian Green,Couch Cover,49.99,99.99,166.0,6,True,2025-10-21,"2025, 2025Q4TEST, exclude_google",https://br-sparkpaws.com/products/pet_couch_cover_rustic_bohemian_green
 10264183079093,Pet Couch Cover - Rustic Bohemian Grey,Couch Cover,49.99,99.99,166.0,6,True,2025-10-21,"2025, 2025Q4TEST, exclude_google",https://br-sparkpaws.com/products/pet_couch_cover_rustic_bohemian_grey
-10264101126325,Pet Couch Cover - Rustic Bohemian Brown,Couch Cover,49.99,99.99,166.0,6,False,2025-10-21,"2025, 2025Q4TEST, exclude_google",https://br-sparkpaws.com/products/pet_couch_cover_rustic_bohemian_brown
+10264101126325,Pet Couch Cover - Rustic Bohemian Brown,Couch Cover,49.99,99.99,166.0,6,True,2025-10-21,"2025, 2025Q4TEST, exclude_google",https://br-sparkpaws.com/products/pet_couch_cover_rustic_bohemian_brown
 7919491383477,Pet Couch Cover - Inca Grey,Couch Cover,49.99,99.99,166.0,6,True,2024-06-19,"2024, exclude_google, oos",https://br-sparkpaws.com/products/lines-couch-cover-grey
-7919491186869,Pet Couch Cover - Inca Beige,Couch Cover,49.99,99.99,166.0,6,False,2024-06-19,"2024, exclude_google, oos",https://br-sparkpaws.com/products/lines-couch-cover-brown
+7919491186869,Pet Couch Cover - Inca Beige,Couch Cover,49.99,99.99,166.0,6,True,2024-06-19,"2024, exclude_google, oos",https://br-sparkpaws.com/products/lines-couch-cover-brown
 7919469691061,Pet Couch Cover - Willow Black,Couch Cover,49.99,99.99,166.0,6,True,2024-06-19,"2024, exclude_google, oos",https://br-sparkpaws.com/products/willow-leaf-couch-cover
-7919453077685,Pet Couch Cover - Boho Beige,Couch Cover,49.99,99.99,166.0,6,False,2024-06-19,"2024, exclude_google, oos",https://br-sparkpaws.com/products/bohemian-couch-cover-brown
-7919452258485,Pet Couch Cover - Boho Grey,Couch Cover,49.99,99.99,166.0,6,False,2024-06-19,"2024, exclude_google, oos",https://br-sparkpaws.com/products/bohemian-couch-cover-grey
-7919451406517,Pet Couch Cover - Boho Black,Couch Cover,49.99,99.99,166.0,6,False,2024-06-19,"2024, exclude_google, oos",https://br-sparkpaws.com/products/bohemian-couch-cover-black
+7919453077685,Pet Couch Cover - Boho Beige,Couch Cover,49.99,99.99,166.0,6,True,2024-06-19,"2024, exclude_google, oos",https://br-sparkpaws.com/products/bohemian-couch-cover-brown
+7919452258485,Pet Couch Cover - Boho Grey,Couch Cover,49.99,99.99,166.0,6,True,2024-06-19,"2024, exclude_google, oos",https://br-sparkpaws.com/products/bohemian-couch-cover-grey
+7919451406517,Pet Couch Cover - Boho Black,Couch Cover,49.99,99.99,166.0,6,True,2024-06-19,"2024, exclude_google, oos",https://br-sparkpaws.com/products/bohemian-couch-cover-black
 7999869518005,Pet Couch Covers,Couch Cover,49.99,99.99,166.0,84,True,2024-08-16,"2024, Multi, multi-listing, oos",https://br-sparkpaws.com/products/pet-proof-couch-covers
 10271022252213,Calming Fluffy Couch Cover Dog Bed - Beige,Dog Sofa Bed,54.99,94.99,158.0,5,True,2025-10-29,"2025, 2025Q4TEST, exclude_google",https://br-sparkpaws.com/products/calming_fluffy_couch_cover_dog_bed_beige
 10271021793461,Calming Fluffy Couch Cover Dog Bed - Grey,Dog Sofa Bed,54.99,94.99,158.0,5,True,2025-10-29,"2025, 2025Q4TEST, exclude_google",https://br-sparkpaws.com/products/calming_fluffy_couch_cover_dog_bed_grey
