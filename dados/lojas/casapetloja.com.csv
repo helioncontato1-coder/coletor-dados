@@ -1,4 +1,5 @@
 id,produto,tipo,preco_min,preco_max,preco_de_max,variantes,disponivel,criado_em,tags,link
+15513008800061,Vestido Pet Christmas Pink Lace,,179.9,179.9,269.9,4,True,2026-11-13,,https://casapetloja.com/products/vestido-pet-christmas-pink-lace
 15507157123389,Vestido Pet Merry Christmas,,199.9,199.9,289.9,6,True,2026-11-11,,https://casapetloja.com/products/vestido-pet-merry-christmas
 15417608274237,Kit Capa e Lacinho Pet Charme de Natal,,199.9,199.9,279.9,6,True,2026-10-08,"lacinho, laço, xadrez",https://casapetloja.com/products/kit-capa-e-lacinho-pet-charme-de-natal
 15489125155133,Ursinho com Batimentos Cardíacos Reninha & Animals,,269.9,289.9,359.9,14,True,2026-11-05,,https://casapetloja.com/products/ursinho-com-batimentos-cardiacos-reninha
@@ -852,7 +853,7 @@ id,produto,tipo,preco_min,preco_max,preco_de_max,variantes,disponivel,criado_em,
 6754453356595,Tricot Pet Batatinha,,199.9,199.9,269.9,5,True,2022-06-15,,https://casapetloja.com/products/tricot-pet-batatinha
 6692843913267,Vestido Polo Dara,,229.9,229.9,299.9,18,True,2022-03-22,,https://casapetloja.com/products/vestido-polo-dara
 6753944633395,Tigela Mágica Anti-respingo,,299.9,299.9,379.9,7,True,2022-06-14,"antirespingo, tigela magica",https://casapetloja.com/products/tigela-flutuante-anti-respingo
-6753243267123,Macacão Pet Cheered,,199.9,199.9,299.9,5,True,2022-06-13,,https://casapetloja.com/products/macacao-pet-cheered
+6753243267123,Macacão Pet Cheered,,199.9,199.9,299.9,6,True,2022-06-13,,https://casapetloja.com/products/macacao-pet-cheered
 6752287653939,Tricot Pet Date,,269.9,269.9,349.9,5,True,2022-06-10,"amor, coracao, love",https://casapetloja.com/products/tricot-pet-dathe
 6750406475827,Moletom Hello Bear,,149.9,149.9,229.9,10,True,2022-06-07,,https://casapetloja.com/products/moletom-hello-bear
 6743141613619,Moletom Pet Ragnar - pequeno até grande porte,,149.9,199.9,259.9,81,True,2022-06-02,"cachorro grande, casaco grande, grande, grande porte, moletom grande, pet grande, porte grande, roupa grande",https://casapetloja.com/products/moletom-pet-ragnar-pequeno-ate-grande-porte
@@ -1125,6 +1126,6 @@ id,produto,tipo,preco_min,preco_max,preco_de_max,variantes,disponivel,criado_em,
 4353637515315,Fonte de Água Automática Twin,Bebedouros,399.9,499.9,589.9,2,True,2019-11-18,"filtro, florzinha",https://casapetloja.com/products/fonte-de-agua-automatica-twin
 4352875724851,Guia Retrátil Lance,Guias e Coleiras pet,199.9,319.0,369.9,16,True,2019-11-18,,https://casapetloja.com/products/guia-retratil-lance
 4352236814387,Jaqueta Fashion,Roupas pet,189.9,189.9,219.9,10,True,2019-11-17,,https://casapetloja.com/products/jaqueta-fashion
-4348103688243,Macacão Pet Puppy,Roupa Pet,149.9,149.9,189.9,15,True,2019-11-14,,https://casapetloja.com/products/macacao-soft-puppy
+4348103688243,Macacão Pet Puppy,Roupa Pet,159.9,159.9,189.9,15,True,2019-11-14,,https://casapetloja.com/products/macacao-soft-puppy
 4347900231731,Cama Pet Cartoon,Cama Pet,389.9,619.9,679.9,16,True,2019-11-14,,https://casapetloja.com/products/cama-pet-cartoon
 4347688845363,Caminha Caverna,Cama Pet,299.9,399.9,489.9,18,True,2019-11-14,pantufa,https://casapetloja.com/products/caminha-caverna
