@@ -1,6 +1,6 @@
 id,produto,tipo,preco_min,preco_max,preco_de_max,variantes,disponivel,criado_em,tags,link
 16025475645823,Original Calming Bed,Bundle,84.0,149.0,213.0,16,False,2026-10-18,,https://pelsbarn.com/products/original-calming-bed-free-gift
-16012035555711,Luxurious Sofa Bed,BOGO,99.0,169.0,282.0,12,True,2026-10-13,"bogo, holiday, LSB",https://pelsbarn.com/products/luxurious-sofa-bed-bogo-black-friday
+16012035555711,Luxurious Sofa Bed,BOGO,99.0,159.0,265.0,12,True,2026-10-13,"bogo, holiday, LSB",https://pelsbarn.com/products/luxurious-sofa-bed-bogo-black-friday
 16011997380991,Luxurious Full Backseat Protector,Bundle,169.0,169.0,338.0,3,True,2026-10-13,"collection-car-beds, collection-luxe, holiday, LCB",https://pelsbarn.com/products/luxurious-full-backseat-protector-black-friday
 16026950140287,Cloud Velvet Bed,Bundle,189.0,299.0,427.0,12,True,2026-10-19,"badge-free-calming-blanket, badge-free-cloud-pillows, collection-orthopedic-beds, shop-collection",https://pelsbarn.com/products/cloud-velvet-bed-free-calming-blanket
 15877653397887,Luxurious Sofa Bed,Single,104.0,169.0,422.0,12,True,2026-09-04,"badge-black-friday-deal, collection-luxe, collection-sofa-beds, LSB, shop-collection",https://pelsbarn.com/products/luxurious-sofa-bed
@@ -11,8 +11,8 @@ id,produto,tipo,preco_min,preco_max,preco_de_max,variantes,disponivel,criado_em,
 15420366258559,Luxurious Pillow,Single,39.0,39.0,65.0,4,False,2025-11-26,,https://pelsbarn.com/products/luxurious-pillow
 15587605381503,Luxurious Full Backseat Protector + Free Calming Blanket,Bundle,319.0,319.0,447.0,3,True,2026-03-06,LCB,https://pelsbarn.com/products/luxurious-full-backseat-protector-free-calming-blanket-ip
 15553188102527,Luxurious Cozy Car Bed,BOGO,114.0,179.0,298.0,9,True,2026-02-14,"badge-black-friday-deal, bogo, collection-car-beds, collection-luxe, holiday, LCB, shop-collection",https://pelsbarn.com/products/luxurious-cozy-car-bed-bogo
-15552361791871,Luxurious Sofa Bed for Cats,BOGO,119.0,119.0,170.0,4,True,2026-02-13,LSB,https://pelsbarn.com/products/luxurious-sofa-bed-bogo-cats
-15552360087935,Luxurious Sofa Bed - Golden Age,BOGO,119.0,199.0,299.0,12,True,2026-02-13,LSB,https://pelsbarn.com/products/luxurious-sofa-bed-bogo-golden-age
+15552361791871,Luxurious Sofa Bed for Cats,BOGO,119.0,129.0,185.0,4,True,2026-02-13,LSB,https://pelsbarn.com/products/luxurious-sofa-bed-bogo-cats
+15552360087935,Luxurious Sofa Bed - Golden Age,BOGO,99.0,159.0,228.0,12,True,2026-02-13,LSB,https://pelsbarn.com/products/luxurious-sofa-bed-bogo-golden-age
 15531044667775,Harness 1.0,Single,49.0,84.0,120.0,20,True,2026-02-01,shop-collection,https://pelsbarn.com/products/harness
 8378410467595,Dog paw protection balm (100% natural and vegan),Single,18.0,18.0,36.0,1,True,2023-11-23,,https://pelsbarn.com/products/dog-paw-balm-natural-and-vegan
 15182087487871,Dog Car Seat Extender,Single,109.0,109.0,182.0,1,False,2025-07-10,,https://pelsbarn.com/products/dog-car-seat-extender
