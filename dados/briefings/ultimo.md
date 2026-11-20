@@ -1,79 +1,62 @@
-# Briefing de tendências — 2026-11-19
+# Briefing de tendências — 2026-11-20
 
-Gerado em 2026-11-19 19:16 (Brasília). Modelo: models/gemini-3.5-flash
+Gerado em 2026-11-20 19:16 (Brasília). Modelo: models/gemini-3.5-flash
 
 ## Análise do estrategista
 
-**BRIEFING EXECUTIVO DE TENDÊNCIAS E INTELIGÊNCIA DE MERCADO**  
+**BRIEFING DE TENDÊNCIAS E OPORTUNIDADES — HELION**  
 **Para:** Diretor de Marketing  
-**De:** Estrategista de Tendências (Helion)  
+**De:** Estrategista de Tendências  
 
 ---
 
-### 1. Tendências Identificadas nos Dados
+### 1) Tendências Identificadas nos Dados
 
-1. **Forte Onda de Produtos Temáticos de Natal:**  
-   Diversas lojas lançaram coleções focadas em festas de fim de ano. A **casapetloja.com** lançou itens como o *Vestido Pet Christmas Pink Lace* (R$ 179,90) e a *Roupinha Natalina Pet Pupy* (R$ 199,90). A **br-sparkpaws.com** lançou a linha *Christmas Knit Dog Sweater* (US$ 17.99 - US$ 18.99) e pijamas natalinos pareados para pets e humanos (*Christmas Human Pajama Pants*). A **manuka4patas.com.br** lançou o *Enfeite de Natal Personalizado* (R$ 49,00) e a **revivamaispet.com** a camiseta *Catbeu® Especial de Natal* (R$ 94,90).
-2. **Aumento de Margem e Foco em Mobilidade/Cuidados Especiais:**  
-   A **velupet.com** reajustou o preço para cima em dezenas de itens ortopédicos e de suporte (ex: *Puff Rampa* subiu de R$ 531,90 para R$ 561,90; *Suporte de Jarrete com Mola* subiu de R$ 322,90 para R$ 340,90; *Cadeira de Rodas* subiu de R$ 932,90 para R$ 984,90) e lançou novos combos, como o *Kit Mobilidade Total* (R$ 848,90).
-3. **Utensílios Práticos de Passeio e Viagem:**  
-   Lançamentos recentes focados na rotina fora de casa: a **velupet.com** adicionou a *Garrafa de Água Portátil de Inox* (R$ 137,00), o *Comedouro Duplo Dobrável* (R$ 147,00) e o *Cinto de Segurança Pet para Carro* (R$ 107,00). Na **estilopata.com**, a *Capa Rígida para Banco de Carro Pet* teve aumento de preço (R$ 589,90 para R$ 599,90).
-4. **Produtos de Apelo Afetivo e Conectividade Emocional:**  
-   A **doggos.com.br** lançou itens como o *Chaveiro Patinha Guarda-Pelos* (R$ 67,00) e o *Peitoral Asa de Anjo com Guia* (R$ 197,00), enquanto a **casapetloja.com** lançou o *Ursinho com Batimentos Cardíacos Reninha & Animals* (R$ 269,90).
-
----
-
-### 2. Ângulos de Conteúdo para Instagram (Tráfego Pago/Orgânico)
-
-* **Ângulo 1 (Emoção / Natal em Família):**  
-  *Tema:* "O primeiro Natal do seu pet vestido a caráter".  
-  *Formato:* Vídeo de transformação/provador mostrando o pet com roupas natalinas ou usando o conceito "tal pai/mãe, tal filho" (pijamas e moletons combinados), alavancando a compra por impulso emocional para as festas.
-* **Ângulo 2 (Alívio de Dor / Cuidado com Pets Idosos ou Sensíveis):**  
-  *Tema:* "Como ajudar seu cão/gato a não sentir dores nas articulações no dia a dia".  
-  *Formato:* Vídeo demonstrativo (antes e depois) mostrando rampas/degraus e suportes de elevação, focando na resolução do problema de mobilidade de pets sênior.
-* **Ângulo 3 (Praticidade / "Arrume-se Comigo para Passear"):**  
-  *Tema:* "Itens indispensáveis para passear com seu pet sem passar perrengue".  
-  *Formato:* Vídeo dinâmico mostrando a montagem do kit de passeio no carro (garrafa de inox acoplada, comedouro dobrável e cinto de segurança ajustável).
+1. **Linha Ortopédica, Geriatria e Kits de Mobilidade Pet**  
+   * **Dados:** A loja `velupet.com` registrou reajustes generalizados de alta e empacotou produtos em novos kits de alto valor, como o *Kit Mobilidade Total* (R$ 848,90), *Kit Mobilidade Ativa* (R$ 504,90) e *Kit Mobilidade Essencial* (R$ 290,90), além de itens específicos como a *Escada Nuvem* e o *Puff Rampa*.
+2. **Vestuário Festivo de Natal e Roupas Combinadas (Pet + Tutor)**  
+   * **Dados:** Forte onda de lançamentos voltados para o Natal. A `casapetloja.com` lançou peças como *Roupinha Natalina Pet Pupy* (R$ 199,90) e *Vestido Pet Christmas Pink Lace* (R$ 179,90). A `br-sparkpaws.com` apostou no conceito combinado (Matching) com o *Dog Christmas Pajamas* (US$ 17.99) e *Christmas Human Pajama Pants/Top* (US$ 26.99 a US$ 29.99).
+3. **Moda Pet em Tricot e Agasalhos (Moletom/Casaco)**  
+   * **Dados:** A categoria "moletom e casaco" é a 4ª mais representativa nas lojas (186 itens). A `br-sparkpaws.com` lançou uma vasta linha de tricots, incluindo modelos como *Knit Dog Sweater - Well Loved* (US$ 22.99) e *Knit Dog Sweater - Good Dog Club* (US$ 22.99).
+4. **Brinquedos Interativos e Automáticos de Baixo/Médio Ticket**  
+   * **Dados:** Lançamentos recentes focados em estímulo instintivo: *Brinquedo Interativo para Gatos com Movimento Automático* (R$ 79,00 na `petsafi.com`) e *Brinquedo João Bobo Colorido para Cães* (R$ 77,00 na `doggos.com.br`).
 
 ---
 
-### 3. Produtos para Pesquisar Fornecedor Nacional (Sourcing Brasil)
+### 2) Ângulos de Conteúdo para Instagram
 
-* **Acessórios de Passeio e Carro:** *Garrafa de água portátil de inox com tigela acoplada* e *Cinto de segurança pet para carro* (produtos recém-lançados na Velú Pet com bom valor percebido e fácil apelo visual).
-* **Produtos Emocionais / Guardados de Memória:** *Chaveiro porta-pelos de pet* e *Peitoral com design diferenciado (estilo Asa de Anjo)* (lançamentos na Doggos com baixo custo de produção/envio e alta taxa de conversão emocional).
-* **Vestuário Temático de Fim de Ano:** *Vestidos e moletons macios com temática natalina* (produtos em alta em lojas como Casa Pet Loja e Spark Paws).
+* **Ângulo 1 (Emoção & Natal): "Combinação Perfeita no Natal"**  
+  * *Foco:* Mostrar a família / tutor vestindo pijamas ou roupas combinando com o pet na noite de Natal, explorando o apelo visual e afetivo dos lançamentos observados na `br-sparkpaws.com` e `casapetloja.com`.
+* **Ângulo 2 (Cuidado & Dor do Tutor): "Seu pet idoso está com dificuldade para subir no sofá ou andar?"**  
+  * *Foco:* Vídeo demonstrativo focado na solução de dores ortopédicas/mobilidade usando escadas, rampas e suportes (tendência forte de ticket alto na `velupet.com`).
+* **Ângulo 3 (Entretenimento/Alívio de Tédio): "O brinquedo que gasta a energia do seu pet sozinho"**  
+  * *Foco:* Reels demonstrando o funcionamento de brinquedos automáticos/joão bobo (como os lançamentos da `petsafi.com` e `doggos.com.br`), destacando a praticidade para tutores que trabalham fora.
 
 ---
 
-### 4. Alertas de Mercado (Últimas 48h)
+### 3) Produtos para Pesquisar Fornecedor no Brasil
 
-* **Preço Caindo:**  
-  * **casapetloja.com**: *Suporte Estação de Secagem Multiuso Pet Drymi* reduziu de R$ 399,90 para R$ 349,90.
-* **Produtos Esgotados:**  
-  * **br-sparkpaws.com**: *Christmas Dog Hoodie - Ribbon Bow* zerou o estoque.  
-  * **viupet.com.br**: *Roda De Exercícios Para Hamster - 14,5 Cm* zerou o estoque.
-* **Produto Removido:**  
-  * **petcroc.com**: *Colete Pet Golde* (R$ 159,90) foi removido da loja.
-* **Movimentação Relevante de Preços/Lançamentos:**  
-  * **velupet.com**: Reajustou para cima os preços de mais de 20 produtos ortopédicos/mobilidade simultaneamente (ex: *Cinta de Suporte*, *Degrau Caixa de Areia*, *Tapete Gelado*, *Arnês Anticolisão*).
-  * **shopcao.com.br**: Aumentou os preços de itens de consumo contínuo, como *Fraldas Descartáveis Super Secão* (R$ 55,90 para R$ 61,90) e *Shampoo Ibasa Dermocalmante* (R$ 119,90 para R$ 149,90).
+* **Chaveiro Patinha Guarda-Pelos de Cães:** Item afetivo/emocional de baixo custo lançado pela `doggos.com.br` por R$ 67,00 (excelente potencial de compra por impulso).
+* **Brinquedo Interativo Automático para Gatos / João Bobo para Cães:** Na faixa de R$ 77,00 a R$ 79,00 (`petsafi.com` e `doggos.com.br`).
+* **Enfeites de Natal Personalizados com Nome do Pet:** Lançado pela `manuka4patas.com.br` por R$ 49,00 (ótimo para ticket de entrada e personalização).
+* **Itens de Viagem e Passeio:** *Garrafa de Água Portátil de Inox com Tigela Acoplada* (R$ 137,00) e *Comedouro Duplo Dobrável* (R$ 147,00), lançados na `velupet.com`.
+
+---
+
+### 4) Alertas da Concorrência
+
+* **Preços Subindo (Aumento de Margem/Reajuste na Concorrência):** A `velupet.com` subiu o preço de dezenas de itens nas últimas 48h. Exemplos:
+  * *Puff Rampa:* De R$ 531,90 para R$ 561,90.
+  * *Cadeira de Rodas:* De R$ 932,90 para R$ 984,90.
+  * *Alimentador Inteligente SmartPet 2L:* De R$ 668,90 para R$ 705,90.
+  * *Tapete Gelado:* De R$ 119,90 para R$ 126,90.
+  *(Nota: Não foram identificadas quedas de preço nos dados fornecidos).*
+* **Lançamentos Recentes:** Forte movimentação de produtos temáticos de Natal nas lojas `casapetloja.com`, `br-sparkpaws.com`, `manuka4patas.com.br` e `revivamaispet.com`, além da inserção recente do *Brinquedo João Bobo Colorido para Cães* na `doggos.com.br`.
+* **Estoque:** Não há registros de itens esgotados nas atualizações fornecidas.
 
 ## Números da coleta
 
-Mudanças nas lojas (últimas 48h): 386
-- casapetloja.com: preço mudou — Suporte Estação de Secagem Multiuso Pet Drymi (399.9 → 349.9)
-- viupet.com.br: esgotou — Roda De Exercícios Para Hamster - 14,5 Cm (True → False)
-- estilopata.com: preço mudou — Capa Rígida para Banco de Carro Pet- Impermeável (589.9 → 599.9)
-- petcroc.com: produto removido — Colete Pet Golde (159.9 → )
-- velupet.com: produto novo — Comedouro Duplo Dobrável para Pets – Água e Ração, 2 Potes de 500 ml ( → 147.0)
-- velupet.com: produto novo — Garrafa de Água Portátil de Inox para Pets 285 ml – Com Tigela Acoplada ( → 137.0)
-- velupet.com: produto novo — Cinto de Segurança Pet para Carro – Ajustável para Cães e Gatos ( → 107.0)
-- shopcao.com.br: preço mudou — Fraldas Descartáveis Super Secão para Cães Machos com 12 Unidades - Tamanho M (55.9 → 61.9)
-- shopcao.com.br: preço mudou — Shampoo Ibasa Dermocalmante para Cães e Gatos - 200ml (119.9 → 149.9)
-- casapetloja.com: produto novo — Vestido Pet Christmas Pink Lace ( → 179.9)
-- casapetloja.com: preço mudou — Macacão Pet Puppy (149.9 → 159.9)
-- shopcao.com.br: preço mudou — Ração Seca N&D Tropical Selection Suíno, Cereais e Frutas Tropicais para Cães Adultos de Raças Médias e Grandes 10kg + 2kg Grátis! (349.9 → 359.9)
-- br-sparkpaws.com: esgotou — Christmas Dog Hoodie - Ribbon Bow (True → False)
+Mudanças nas lojas (últimas 48h): 387
 - doggos.com.br: produto novo — Brinquedo João Bobo Colorido para Cães ( → 77.0)
 - velupet.com: preço mudou — Suporte de Jarrete com Mola: Apoio para Cães — Velú Pet (322.9 → 340.9)
 - velupet.com: preço mudou — Puff Rampa para Cachorro e Gato Subir no Sofá — Velú Pet (531.9 → 561.9)
@@ -101,8 +84,21 @@ Mudanças nas lojas (últimas 48h): 386
 - velupet.com: preço mudou — Cinto de Apoio Pet – Mobilidade e Conforto Para Cães com Dificuldades nas Patas Traseiras (218.9 → 231.9)
 - velupet.com: preço mudou — Cadeira de Rodas para Pernas Traseiras para Pets (932.9 → 984.9)
 - velupet.com: preço mudou — Suporte Auxiliar para Cachorros com Dificuldade de Andar (523.9 → 553.9)
+- velupet.com: preço mudou — Alimentador Inteligente SmartPet 2L (668.9 → 705.9)
+- velupet.com: preço mudou — Bebedouro Fonte Automático 3L para Pets (212.9 → 224.9)
+- velupet.com: preço mudou — Mochila de Luxo para Transporte de Pets – Viagem Confortável (253.9 → 267.9)
+- velupet.com: preço mudou — Guia Mãos Livres para Cães | Corrida e Caminhada com Mãos Livres (181.9 → 191.9)
+- velupet.com: preço mudou — Frango Interativo que Põe Ovos – Diversão e Estímulo para o Seu Pet (381.9 → 402.9)
+- velupet.com: preço mudou — Brinquedo Interativo Automático para Gatos – Diversão, Saúde e Caça Instintiva (242.9 → 256.9)
+- velupet.com: preço mudou — Arnês de Elevação para Cães Idosos e com Problemas de Mobilidade – Suporte Traseiro Confortável (341.9 → 360.9)
+- velupet.com: preço mudou — Guia de Passeio Dupla Multifuncional para Cães (231.9 → 244.9)
+- velupet.com: preço mudou — Joelheira Ortopédica para Cães – Suporte e Recuperação Articular (191.9 → 201.9)
+- velupet.com: preço mudou — Cama Ortopédica de Pelúcia para Cães – Conforto no Descanso (319.9 → 337.9)
+- velupet.com: preço mudou — Colete Ortopédico para Cães com IVDD – Suporte e Conforto (331.9 → 349.9)
+- velupet.com: preço mudou — Joelheira Ortopédica para Cães Com Peitoral – Suporte para Joelho e Recuperação (521.9 → 550.9)
+- velupet.com: preço mudou — Escova de Remoção de Pelos 4 em 1 Reutilizável (71.9 → 75.9)
 
-Produtos lançados nos últimos 30 dias: 84
+Produtos lançados nos últimos 30 dias: 77
 - casapetloja.com | Roupinha Natalina Pet Pupy | R$/US$ 199.9 | https://casapetloja.com/products/roupinha-natalina-pet-pupy
 - casapetloja.com | Vestido Pet Christmas Pink Lace | R$/US$ 179.9 | https://casapetloja.com/products/vestido-pet-christmas-pink-lace
 - casapetloja.com | Vestido Pet Merry Christmas | R$/US$ 199.9 | https://casapetloja.com/products/vestido-pet-merry-christmas
@@ -112,8 +108,7 @@ Produtos lançados nos últimos 30 dias: 84
 - casapetloja.com | Roupinha Pet Magia de Natal | R$/US$ 189.9 | https://casapetloja.com/products/roupinha-pet-magia-de-natal
 - casapetloja.com | Manta Pet Presentinho de Natal | R$/US$ 149.9 | https://casapetloja.com/products/manta-pet-presentinho-de-natal
 - casapetloja.com | Coleira Guia & Mochila Pocky | R$/US$ 229.9 | https://casapetloja.com/products/coleira-guia-mochila-pocky
-- casapetloja.com | Sofá Cama Pet Ninni 2 em 1 | R$/US$ 289.9 | https://casapetloja.com/products/sofa-cama-pet-ninni-2-em-1
-- casapetloja.com | Cama Tendinha Pet Princess | R$/US$ 499.9 | https://casapetloja.com/products/cama-tendinha-pet-princess
+- petsafi.com | Brinquedo Interativo para Gatos com Movimento Automático e 2 Iscas com Penas | R$/US$ 79.0 | https://petsafi.com/products/brinquedo-interativo-para-gatos-com-movimento-automatico-e-2-iscas-com-penas
 - doggos.com.br | Brinquedo João Bobo Colorido para Cães | R$/US$ 77.0 | https://doggos.com.br/products/brinquedo-joao-bobo-com-penas-para-caes
 - doggos.com.br | Brinquedo Cachorrinho de Pelúcia com Som para Cães | R$/US$ 87.0 | https://doggos.com.br/products/brinquedo-cachorrinho-de-pelucia-com-som-para-caes
 - doggos.com.br | Chaveiro Patinha Guarda-Pelos de Cães | R$/US$ 67.0 | https://doggos.com.br/products/chaveiro-de-couro-sintetico-para-pelos-de-caes
@@ -127,7 +122,6 @@ Produtos lançados nos últimos 30 dias: 84
 - velupet.com | Kit Mobilidade Ativa — Joelheira + Protetor de Patas + Arnês de Elevação | R$/US$ 504.9 | https://velupet.com/products/kit-mobilidade-ativa
 - velupet.com | Kit Mobilidade Essencial — Joelheira Ajustável + Protetor de Patas Antiderrapante | R$/US$ 290.9 | https://velupet.com/products/kit-mobilidade-essencial
 - velupet.com | Suporte de Jarrete com Mola: Apoio para Cães — Velú Pet | R$/US$ 340.9 | https://velupet.com/products/suporte-jarrete-cachorro
-- velupet.com | Puff Rampa para Cachorro e Gato Subir no Sofá — Velú Pet | R$/US$ 561.9 | https://velupet.com/products/puff-rampa-pet
 - revivamaispet.com | DogSarcástico® – Camiseta Unisexx Salsicha Engraçado | R$/US$ 94.9 | https://revivamaispet.com/products/dogsarcastico-®-camiseta-unisexx-salsicha-engracado
 - revivamaispet.com | Catbeu® – Camiseta Unisexx Especial de Natal Gato Laranja | R$/US$ 94.9 | https://revivamaispet.com/products/catbeu®-camiseta-unisexx-especial-de-natal-gato-laranja
 - revivamaispet.com | Dogbeu® – Camiseta Unisexx Especial de Natal Fiapo de Manga | R$/US$ 94.9 | https://revivamaispet.com/products/dingobeu®-camiseta-unisexx-memes-de-gatos-estilo-figurinha-copia
@@ -163,5 +157,7 @@ Produtos lançados nos últimos 30 dias: 84
 - br-sparkpaws.com | Human Pajama Top - Teddy Christmas | R$/US$ 29.99 | https://br-sparkpaws.com/products/christmas-pajama-top-teddy-christmas
 - br-sparkpaws.com | Human Pajama Top - Red Bows | R$/US$ 26.99 | https://br-sparkpaws.com/products/christmas-pajama-top-red-bows
 - br-sparkpaws.com | Human Pajama Pants - Red Bows | R$/US$ 26.99 | https://br-sparkpaws.com/products/christmas-pajama-pants-red-bows
+- br-sparkpaws.com | Human Pajama Pants - Merry Penguins | R$/US$ 29.99 | https://br-sparkpaws.com/products/christmas-pajama-pants-merry-penguins
+- br-sparkpaws.com | Human Pajama Top - Merry Penguins | R$/US$ 29.99 | https://br-sparkpaws.com/products/christmas-pajama-top-merry-penguins
 
-Tipos de produto mais comuns nas lojas: sem tipo (1963), ração seca (373), vitaminas e suplementos (275), moletom e casaco (186), 0 (146), acessórios para animais de estimação (144), ração úmida (141), brinquedo (133), single (121), animais e produtos para animais de estimação (118), roupa (113), petiscos para cães (112), cama (110), antipulgas e carrapatos (104), medicamentos (88)
+Tipos de produto mais comuns nas lojas: sem tipo (1964), ração seca (373), vitaminas e suplementos (275), moletom e casaco (186), 0 (146), acessórios para animais de estimação (144), ração úmida (141), brinquedo (133), single (121), animais e produtos para animais de estimação (118), roupa (113), petiscos para cães (112), cama (110), antipulgas e carrapatos (104), medicamentos (88)

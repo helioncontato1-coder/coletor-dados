@@ -1,7 +1,7 @@
 id,produto,tipo,preco_min,preco_max,preco_de_max,variantes,disponivel,criado_em,tags,link
+15569575608703,Cloud Velvet Bed,Bundle,179.0,289.0,413.0,12,True,2026-02-23,"badge-free-cloud-pillows, shop-collection",https://pelsbarn.com/products/cloud-velvet-bed
 16025475645823,Original Calming Bed,Bundle,84.0,149.0,213.0,16,False,2026-10-18,,https://pelsbarn.com/products/original-calming-bed-free-gift
 16011997380991,Luxurious Full Backseat Protector,Bundle,169.0,169.0,338.0,3,True,2026-10-13,"collection-car-beds, collection-luxe, holiday, LCB",https://pelsbarn.com/products/luxurious-full-backseat-protector-black-friday
-16026950140287,Cloud Velvet Bed,Bundle,189.0,299.0,427.0,12,True,2026-10-19,"badge-free-calming-blanket, badge-free-cloud-pillows, collection-orthopedic-beds, shop-collection",https://pelsbarn.com/products/cloud-velvet-bed-free-calming-blanket
 15877653397887,Luxurious Sofa Bed,Single,99.0,159.0,398.0,12,True,2026-09-04,"badge-black-friday-deal, collection-luxe, collection-sofa-beds, LSB, shop-collection",https://pelsbarn.com/products/luxurious-sofa-bed
 15519038046591,Teddy Car Bed,Single,69.0,129.0,219.0,9,True,2026-01-26,"collection-car-beds, shop-collection",https://pelsbarn.com/products/teddy-car-bed
 15695864955263,Luxurious Sofa Bed,Bundle,134.0,199.0,498.0,12,True,2026-05-28,bundle,https://pelsbarn.com/products/luxurious-sofa-bed-bundle
@@ -33,7 +33,7 @@ id,produto,tipo,preco_min,preco_max,preco_de_max,variantes,disponivel,criado_em,
 14947826368895,Natural Flea & Tick Prevention Collar,Single,31.0,31.0,46.0,1,True,2025-02-19,,https://pelsbarn.com/products/natural-flea-tick-prevention-collar
 14887571685759,Calming Chews,Single,39.0,129.0,184.0,3,True,2024-12-15,shop-collection,https://pelsbarn.com/products/new-pelsbarn-calming-chews
 14865043194239,Dogs Live Longer - Digital Bundle,Bundle,40.0,40.0,,1,True,2024-11-27,,https://pelsbarn.com/products/dogs-live-longer-digital-bundle
-14858799251839,"Luxurious Calming Blanket for a calm, safe, and relaxed feeling",Single,45.0,45.0,76.0,3,False,2024-11-23,"Lux Blanket, Lux Collection",https://pelsbarn.com/products/luxury-calming-blanket-to-stay-warm-and-cozy
+14858799251839,"Luxurious Calming Blanket for a calm, safe, and relaxed feeling",Single,45.0,45.0,76.0,3,True,2024-11-23,"Lux Blanket, Lux Collection",https://pelsbarn.com/products/luxury-calming-blanket-to-stay-warm-and-cozy
 8895593480459,Foldable water and food bowl in 1 (brown),Single,7.0,7.0,12.0,1,True,2024-11-11,,https://pelsbarn.com/products/foldable-water-and-food-bowl-in-1-brown
 8745033072907,Travel Beach Bag,Single,34.0,34.0,48.0,1,True,2024-07-25,,https://pelsbarn.com/products/a-doggy-bag-for-humans-pelsbarn
 8235420320011,Protecting Car Bed 3.0,Single,89.0,189.0,270.0,6,True,2023-05-03,"collection-car-beds, holiday, OCB, shop-collection",https://pelsbarn.com/products/protecting-car-bed
