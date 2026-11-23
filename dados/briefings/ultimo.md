@@ -1,76 +1,58 @@
-# Briefing de tendências — 2026-11-22
+# Briefing de tendências — 2026-11-23
 
-Gerado em 2026-11-22 19:08 (Brasília). Modelo: models/gemini-3.5-flash
+Gerado em 2026-11-23 19:18 (Brasília). Modelo: models/gemini-3.5-flash
 
 ## Análise do estrategista
 
-**Briefing de Tendências e Oportunidades – Helion**  
-**Para:** Diretor de Marketing  
-**De:** Estrategista de Tendências  
+Aqui está o briefing executivo com base estrita nos dados de inteligência competitiva das últimas 48 horas e 30 dias:
 
 ---
 
-### 1. Tendências Identificadas (Baseadas nos Concorrentes)
+### **BRIEFING DE TENDÊNCIAS E AÇÃO – LOJA HELION**
 
-1. **Explosão do Nicho de Natal (Vestuário e Acessórios):** Alta procura e rápido esgotamento de itens natalinos. A **br-sparkpaws.com** esgotou itens como *Dog Christmas Pajama - Teddy Christmas* e *Christmas Dog Hoodie - Snow Day Village*. Paralelamente, a **casapetloja.com** lançou uma linha pesada com esse tema (*Roupinha Natalina Pet Pupy*, *Manta Pet Presentinho de Natal*, *Vestido Pet Merry Christmas*), a **revivamaispet.com** lançou a *Camiseta Especial de Natal Gato Laranja* e a **manuka4patas.com.br** apostou no *Enfeite de Natal Personalizado*.
-2. **Gadgets de Higiene com Tecnologia (Luz LED):** Foco em facilitar cuidados diários em casa. A **estilopata.com** lançou o *Cortador de Unhas Pet com LED e Lixa* (R$ 89.9) e a **casapetloja.com** remarcou o *Aparador e Lixador 2 em 1 Pet Pelos Display LED Suprime*.
-3. **Equipamentos de Mobilidade e Saúde Pet (Kits de Alto Ticket):** A **velupet.com** lançou uma linha completa focada em cães com limitações de mobilidade, incluindo *Kit Mobilidade Total* (R$ 848.9), *Arnês de Apoio e Elevação* (R$ 357.9) e *Suporte de Jarrete*.
-4. **Entretenimento Autônomo / Brinquedos Interativos:** Produtos que mantêm o pet ocupado sem intervenção do dono. A **petsafi.com** lançou o *Brinquedo Interativo para Gatos com Movimento Automático e 2 Iscas com Penas* (R$ 79.0) e a **doggos.com.br** lançou o *Brinquedo João Bobo Colorido para Cães* (R$ 77.0).
-
----
-
-### 2. Ângulos de Conteúdo para Instagram (Foco em Compra por Emoção)
-
-* **Ângulo 1 (Natal e Pertencimento Família/Pet):**  
-  *Tema:* "O Look Oficial do Seu Pet no Natal da Família". Mostrar o pet usando roupinhas natalinas/pijamas combinando, explorando a emoção das festas de fim de ano (aproveitando o pico de lançamentos de lojas como **casapetloja.com** e **br-sparkpaws.com**).
-* **Ângulo 2 (Dor/Segurança na Higiene em Casa):**  
-  *Tema:* "Nunca mais corte a veia da unha do seu pet por engano". Demonstrar a utilidade da iluminação LED no cortador de unhas para evitar machucar o animal (inspirado no lançamento da **estilopata.com**).
-* **Ângulo 3 (Anti-tédio Autônomo para Gatos/Cães):**  
-  *Tema:* "Como manter seu pet entretido enquanto você trabalha". Mostrar o brinquedo automático de penas acionando o instinto do gato sozinho (inspirado no lançamento da **petsafi.com**).
+#### **1. 4 Tendências Identificadas nos Dados**
+* **Coleções Temáticas de Natal em Alta Giro:** Forte movimento de lançamentos e alto esgotamento de vestuário natalino. Lojas como *br-sparkpaws.com*, *casapetloja.com* e *manuka4patas.com.br* lançaram pijamas, vestidos e enfeites. Na *br-sparkpaws.com*, itens como `Christmas Human Hoodie - Red Santa` e `Christmas Dog Hoodie` esgotaram nas últimas 48h.
+* **Higiene e Estética Pet com Tecnologia LED:** Foco em aparelhos funcionais para cuidados em casa. Lançamento do `Cortador de Unhas Pet com LED e Lixa` (R$ 119,0 na *estilopata.com*) e redução de preço do `Aparador e Lixador 2 em 1 Pet Pelos Display LED` (de R$ 289.9 para R$ 269.9 na *casapetloja.com*).
+* **Produtos de Mobilidade e Cuidado Sênior:** A *velupet.com* lançou uma linha estruturada de suporte e reabilitação, incluindo o `Kit Mobilidade Total` (R$ 848.9), `Arnês de Apoio e Elevação` (R$ 357.9) e `Suporte de Jarrete com Mola` (R$ 340.9).
+* **Produtos Emocionais de Memória e Afeto:** Surgimento de itens com forte apelo afetivo/sentimental, como o `Chaveiro Patinha Guarda-Pelos de Cães` (R$ 67.0 na *doggos.com.br*) e o `Enfeite de Natal Personalizado com nome do cachorro` (R$ 49.0 na *manuka4patas.com.br*).
 
 ---
 
-### 3. Produtos para Pesquisar Fornecedor no Brasil
-
-* **Cortador/Lixador de Unhas Pet com LED:** Produto de apelo visual claro em vídeos (demonstrado por **estilopata.com** a R$ 89.9 e **casapetloja.com**).
-* **Brinquedo Interativo Automático para Gatos (com Penas/Movimento):** Item de forte apelo para tutores de gatos que passam o dia fora (lançado por **petsafi.com** a R$ 79.0).
-* **Moda Natalina Pet (Pijamas, Vestidos e Mantas):** Alta liquidez para o final do ano (lançamentos concentrados em **casapetloja.com** e **br-sparkpaws.com**).
-* **Arnês de Apoio / Coleiras de Elevação:** Nicho de dor profunda para tutores de cães idosos ou em recuperação (linha forte na **velupet.com**).
+#### **2. 3 Ângulos de Conteúdo para o Instagram**
+1. **"Natal da Família Completa" (Foco em Emoção/Vestuário):** Aproveitar a alta aprovação de vestuário de Natal para criar Reels mostrando a rotina de vestir o pet combinando com a família ou preparando a casa para as festas. *(Inspirado nos lançamentos de Pijamas e Roupinhas da br-sparkpaws.com e casapetloja.com)*.
+2. **"Tosa/Unha sem Dor e sem Medo" (Foco em Resolução de Dor):** Vídeos de demonstração (antes/depois) focados na iluminação LED para aparar unhas em casa com segurança, sem cortar o "sabugo" da unha do pet. *(Inspirado nos produtos da estilopata.com e casapetloja.com)*.
+3. **"Carregue seu Pet para Sempre com Você" (Foco em Compra por Emoção):** Conteúdo emotivo mostrando a utilidade de guardar uma recordação física do pet em um chaveiro acessível. *(Inspirado no Chaveiro Guarda-Pelos da doggos.com.br)*.
 
 ---
 
-### 4. Alertas (Estoque, Preços e Lançamentos)
+#### **3. Produtos para Pesquisar Fornecedor Nacional (Dropshipping/Estoque Nacional)**
+* **Cortador/Lixador de Unhas Pet com Iluminação LED** (Ocorrência em *estilopata.com* e *casapetloja.com*).
+* **Chaveiro Guarda-Pelos Pet em Couro Sintético** (Ocorrência na *doggos.com.br*).
+* **Garrafa de Água Portátil de Inox para Pets com Tigela Acoplada** (Ocorrência na *velupet.com*).
+* **Brinquedo Interativo / Bola Saltitante com LED** (Ocorrência na *doggos.com.br* e *petsafi.com*).
 
-* **Estoque Esgotando Rápidamente:**  
-  * **br-sparkpaws.com:** Esgotou diversos itens da linha *Fuchsia Camo* (Conjunto de Coleira Tática, Martingale Collar e Seatbelt Leash) e itens festivos (*Dog Christmas Pajama* e *Christmas Knit Dog Sweater*).  
-  * **pelsbarn.com:** Esgotou a *Luxurious Calming Blanket*.
-* **Aumento de Preço:**  
-  * **br-sparkpaws.com:** Aumentou o preço de várias variações da *Capa de chuva Breatheshield™* de **27.99 para 29.99**.  
-  * **shopcao.com.br:** Aumentou a *Ração Nature Fórmula Pro Cães Filhotes* de **34.9 para 36.9**.
-* **Queda de Preço:**  
-  * **casapetloja.com:** Reduziu o preço do *Aparador e Lixador 2 em 1 Pet Pelos Display LED Suprime* de **289.9 para 269.9**.  
-  * **topetudo.com:** Pequeno ajuste no *Tapete Higiênico Topad® 80x60cm* de **109.9 para 109.0**.
-* **Lançamentos Recentes Notáveis:**  
-  * **casapetloja.com:** *Ursinho com Batimentos Cardíacos Reninha & Animals* (R$ 269.9).  
-  * **doggos.com.br:** *Chaveiro Patinha Guarda-Pelos de Cães* (R$ 67.0) e *Peitoral Asa de Anjo com Guia* (R$ 197.0).
+---
+
+#### **4. Alertas de Mercado (Últimas 48h)**
+
+* **Queda de Preço:**
+  * *casapetloja.com:* `Aparador e Lixador 2 em 1 Pet Pelos Display LED Suprime` reduziu de R$ 289.9 para R$ 269.9.
+  * *topetudo.com:* `Tapete Higiênico Topad® 80x60cm em 6 Camadas` reduziu de R$ 109.9 para R$ 109.0.
+
+* **Aumento de Preço:**
+  * *br-sparkpaws.com:* `Capa de chuva para cachorro Breatheshield™` subiu de 27.99 para 29.99 em múltiplas variações de cores.
+  * *shopcao.com.br:* `Phisioderm Spot On Virbac` subiu de R$ 226.9 para R$ 339.9.
+
+* **Itens Esgotados / Alta Rotatividade:**
+  * *br-sparkpaws.com:* Esgotaram itens recém-lançados ou repostos: `Christmas Knit Dog Sweater - Ribbon Bow`, `Christmas Human Hoodie - Red Santa`, `Christmas Dog Hoodie - Green Nutcracker Ballet` e `ThermoSonic Winter Jacket - Magenta`.
+  * *pelsbarn.com:* `Luxurious Calming Blanket` esgotou no site oficial.
+
+* **Destaques de Lançamento Recente:**
+  * *casapetloja.com:* Lançou o `Ursinho com Batimentos Cardíacos Reninha & Animals` por R$ 269.9.
 
 ## Números da coleta
 
-Mudanças nas lojas (últimas 48h): 56
-- br-sparkpaws.com: voltou ao estoque — Christmas Dog Hoodie - Snow Day Village (False → True)
-- br-sparkpaws.com: esgotou — Conjunto de Coleira Tática para Cachorros - Camuflagem Fúcsia (True → False)
-- br-sparkpaws.com: esgotou — Martingale Collar and Multipurpose Leash Set - Fuchsia Camo (True → False)
-- br-sparkpaws.com: esgotou — Multipurpose Seatbelt Handsfree Leash & Poop Bag Holder Set - Fuchsia Camo (True → False)
-- estilopata.com: produto novo — Cortador de Unhas Pet com LED e Lixa ( → 89.9)
-- estilopata.com: produto removido — Moletom de Inverno Pet Estilo NBA (99.9 → )
-- petsafi.com: produto novo — Brinquedo Interativo para Gatos com Movimento Automático e 2 Iscas com Penas ( → 79.0)
-- br-sparkpaws.com: esgotou — Dog Christmas Pajama - Teddy Christmas (True → False)
-- br-sparkpaws.com: esgotou — Christmas Dog Hoodie - Snow Day Village (True → False)
-- br-sparkpaws.com: esgotou — Capa de chuva para cães Breatheshield™ - (True → False)
-- pelsbarn.com: produto novo — Cloud Velvet Bed ( → 179.0)
-- pelsbarn.com: voltou ao estoque — Luxurious Calming Blanket for a calm, safe, and relaxed feeling (False → True)
-- pelsbarn.com: produto removido — Cloud Velvet Bed (189.0 → )
-- br-sparkpaws.com: esgotou — Christmas Knit Dog Sweater - Retro Christmas (True → False)
+Mudanças nas lojas (últimas 48h): 61
 - pelsbarn.com: produto novo — Luxurious Sofa Bed ( → 99.0)
 - pelsbarn.com: esgotou — Luxurious Calming Blanket for a calm, safe, and relaxed feeling (True → False)
 - pelsbarn.com: produto removido — Luxurious Sofa Bed (99.0 → )
@@ -97,6 +79,20 @@ Mudanças nas lojas (últimas 48h): 56
 - br-sparkpaws.com: preço mudou — Capa de chuva para cães Breatheshield™ - Branco limão marinho (27.99 → 29.99)
 - shopcao.com.br: esgotou — Ração Úmida GranPlus Gourmet Sachê Frango para Cães Adultos - 100g (True → False)
 - shopcao.com.br: preço mudou — Ração Nature Fórmula Pro Cães Filhotes Raças Pequenas e Médias (34.9 → 36.9)
+- br-sparkpaws.com: esgotou — Christmas Knit Dog Sweater - Ribbon Bow (True → False)
+- br-sparkpaws.com: esgotou — ThermoSonic Winter Jacket - Magenta (True → False)
+- shopcao.com.br: preço mudou — Phisioderm Spot On Virbac com 6 Pipetas 4ml (226.9 → 339.9)
+- shopcao.com.br: produto removido — Sistema de Terapia Homeopet para Cães e Gatos Intestin (97.9 → )
+- br-sparkpaws.com: esgotou — SPARK Suéter para Cães de Fleece Macio com Zíper - (True → False)
+- br-sparkpaws.com: esgotou — Knit Dog Sweater - Moonlit Cabin (True → False)
+- br-sparkpaws.com: esgotou — Christmas Human Hoodie - Red Santa (True → False)
+- br-sparkpaws.com: esgotou — Conjunto de Coleira Tática para Cachorros - Cone de Neve (2"/5cm) (True → False)
+- br-sparkpaws.com: esgotou — Christmas Human Hoodie - Black Howdy Holidays (True → False)
+- br-sparkpaws.com: esgotou — Christmas Dog Hoodie - Green Nutcracker Ballet (True → False)
+- br-sparkpaws.com: esgotou — SPARK Suéter para Cães de Fleece Macio com Zíper - (True → False)
+- br-sparkpaws.com: voltou ao estoque — Quilted Classic Winter Coat - Red (False → True)
+- br-sparkpaws.com: voltou ao estoque — Quilted Classic Winter Coat - Magenta (False → True)
+- br-sparkpaws.com: esgotou — Knit Dog Sweater - Camp Pink (True → False)
 
 Produtos lançados nos últimos 30 dias: 41
 - casapetloja.com | Roupinha Natalina Pet Pupy | R$/US$ 199.9 | https://casapetloja.com/products/roupinha-natalina-pet-pupy
@@ -109,6 +105,7 @@ Produtos lançados nos últimos 30 dias: 41
 - casapetloja.com | Manta Pet Presentinho de Natal | R$/US$ 149.9 | https://casapetloja.com/products/manta-pet-presentinho-de-natal
 - casapetloja.com | Coleira Guia & Mochila Pocky | R$/US$ 229.9 | https://casapetloja.com/products/coleira-guia-mochila-pocky
 - petsafi.com | Brinquedo Interativo para Gatos com Movimento Automático e 2 Iscas com Penas | R$/US$ 79.0 | https://petsafi.com/products/brinquedo-interativo-para-gatos-com-movimento-automatico-e-2-iscas-com-penas
+- doggos.com.br | Brinquedo Bola Saltitante com LED para Cães | R$/US$ 87.0 | https://doggos.com.br/products/brinquedo-bola-saltitante-com-led-para-caes
 - doggos.com.br | Brinquedo João Bobo Colorido para Cães | R$/US$ 77.0 | https://doggos.com.br/products/brinquedo-joao-bobo-com-penas-para-caes
 - doggos.com.br | Brinquedo Cachorrinho de Pelúcia com Som para Cães | R$/US$ 87.0 | https://doggos.com.br/products/brinquedo-cachorrinho-de-pelucia-com-som-para-caes
 - doggos.com.br | Chaveiro Patinha Guarda-Pelos de Cães | R$/US$ 67.0 | https://doggos.com.br/products/chaveiro-de-couro-sintetico-para-pelos-de-caes
@@ -123,7 +120,6 @@ Produtos lançados nos últimos 30 dias: 41
 - velupet.com | Kit Mobilidade Essencial — Joelheira Ajustável + Protetor de Patas Antiderrapante | R$/US$ 290.9 | https://velupet.com/products/kit-mobilidade-essencial
 - velupet.com | Suporte de Jarrete com Mola: Apoio para Cães — Velú Pet | R$/US$ 340.9 | https://velupet.com/products/suporte-jarrete-cachorro
 - revivamaispet.com | DogSarcástico® – Camiseta Unisexx Salsicha Engraçado | R$/US$ 94.9 | https://revivamaispet.com/products/dogsarcastico-®-camiseta-unisexx-salsicha-engracado
-- revivamaispet.com | Catbeu® – Camiseta Unisexx Especial de Natal Gato Laranja | R$/US$ 94.9 | https://revivamaispet.com/products/catbeu®-camiseta-unisexx-especial-de-natal-gato-laranja
 - manuka4patas.com.br | Enfeite de Natal | Personalizado com nome do cachorro | R$/US$ 49.0 | https://manuka4patas.com.br/products/enfeite-de-natal-personalizado-com-nome-do-cachorro
 - manuka4patas.com.br | Cartão Presente Manuka | R$/US$ 50.0 | https://manuka4patas.com.br/products/cartao-presente-manuka
 - br-sparkpaws.com | Knit Dog Sweater - Red Stripes | R$/US$ 22.99 | https://br-sparkpaws.com/products/knit-dog-sweater-red-stripes
@@ -138,7 +134,7 @@ Produtos lançados nos últimos 30 dias: 41
 - br-sparkpaws.com | Dog Christmas Pajamas | R$/US$ 17.99 | https://br-sparkpaws.com/products/dog-christmas-pajama-multi
 - br-sparkpaws.com | Christmas Human Pajama Pants | R$/US$ 26.99 | https://br-sparkpaws.com/products/christmas-human-pajama-pants-multi
 - br-sparkpaws.com | Christmas Human Pajama Top | R$/US$ 26.99 | https://br-sparkpaws.com/products/christmas-human-pajama-top-multi
-- estilopata.com | Cortador de Unhas Pet com LED e Lixa | R$/US$ 89.9 | https://estilopata.com/products/cortador-de-unhas-pet
+- estilopata.com | Cortador de Unhas Pet com LED e Lixa | R$/US$ 119.0 | https://estilopata.com/products/cortador-de-unhas-pet
 - nandog.com.br | My BFF Mystery Toy | R$/US$ 129.0 | https://nandog.com.br/products/my-bff-mystery-toy
 
-Tipos de produto mais comuns nas lojas: sem tipo (1964), ração seca (373), vitaminas e suplementos (275), moletom e casaco (186), 0 (146), acessórios para animais de estimação (144), ração úmida (141), brinquedo (133), single (120), animais e produtos para animais de estimação (118), roupa (113), petiscos para cães (112), cama (110), antipulgas e carrapatos (104), medicamentos (87)
+Tipos de produto mais comuns nas lojas: sem tipo (1964), ração seca (373), vitaminas e suplementos (275), moletom e casaco (186), 0 (146), acessórios para animais de estimação (145), ração úmida (141), brinquedo (133), single (120), animais e produtos para animais de estimação (118), roupa (113), petiscos para cães (112), cama (110), antipulgas e carrapatos (104), medicamentos (87)
