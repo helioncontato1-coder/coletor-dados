@@ -121,7 +121,7 @@ id,produto,tipo,preco_min,preco_max,preco_de_max,variantes,disponivel,criado_em,
 10241282998453,Christmas Human Hoodie - Gingerbread,Christmas Human Hoodie,40.99,40.99,70.0,5,True,2025-09-26,"2025, 2025Q4TEST, exclude_google, VelourSoft",https://br-sparkpaws.com/products/gingerbread_snowman_trees_human_hoodie
 10241276870837,Christmas Human Hoodie - Holiday Cheer,Christmas Human Hoodie,40.99,40.99,70.0,5,True,2025-09-26,"2025, 2025Q4TEST, exclude_google, VelourSoft",https://br-sparkpaws.com/products/christmas_icons_human_hoodie
 10241250525365,Christmas Human Hoodie - Candy Trees,Christmas Human Hoodie,36.99,36.99,70.0,5,True,2025-09-26,"2025, 2025Q4TEST, exclude_google, VelourSoft",https://br-sparkpaws.com/products/festive_pine_trees_human_hoodie
-10613664350389,Quilted Classic Winter Coat - Green,Quilted Winter Jacket,39.99,45.99,69.0,7,False,2026-09-25,"2026, __label:new, exclude_google",https://br-sparkpaws.com/products/quilted-classic-winter-coat-green
+10613664350389,Quilted Classic Winter Coat - Green,Quilted Winter Jacket,39.99,45.99,69.0,7,True,2026-09-25,"2026, __label:new, exclude_google",https://br-sparkpaws.com/products/quilted-classic-winter-coat-green
 10613664317621,Quilted Classic Winter Coat - Grey,Quilted Winter Jacket,39.99,45.99,69.0,7,True,2026-09-25,"2026, __label:new, exclude_google",https://br-sparkpaws.com/products/quilted-classic-winter-coat-grey
 10613664284853,Quilted Classic Winter Coat - Beige,Quilted Winter Jacket,39.99,45.99,69.0,7,True,2026-09-25,"2026, __label:new, exclude_google",https://br-sparkpaws.com/products/quilted-classic-winter-coat-beige
 10613664252085,Quilted Classic Winter Coat - Brown,Quilted Winter Jacket,39.99,45.99,69.0,7,False,2026-09-25,"2026, __label:new, exclude_google",https://br-sparkpaws.com/products/quilted-classic-winter-coat-brown
@@ -260,7 +260,7 @@ id,produto,tipo,preco_min,preco_max,preco_de_max,variantes,disponivel,criado_em,
 10455931814069,Capa de chuva para cães Breatheshield™ -,Dog Raincoat,29.99,35.99,64.0,7,True,2026-06-03,"2026, exclude_google",https://br-sparkpaws.com/products/breatheshield-dog-raincoat-camo-grey
 10455931257013,Capa de chuva para cães Breatheshield™ -,Dog Raincoat,29.99,35.99,64.0,7,True,2026-06-03,"2026, exclude_google",https://br-sparkpaws.com/products/breatheshield-dog-raincoat-camo-lime
 10455930601653,Capa de chuva para cães Breatheshield™ -,Dog Raincoat,29.99,35.99,64.0,7,True,2026-06-03,"2026, exclude_google",https://br-sparkpaws.com/products/breatheshield-dog-raincoat-camo-teal
-10455930241205,Capa de chuva para cães Breatheshield™ -,Dog Raincoat,29.99,35.99,64.0,7,False,2026-06-03,"2026, exclude_google",https://br-sparkpaws.com/products/breatheshield-dog-raincoat-camo-green
+10455930241205,Capa de chuva para cães Breatheshield™ -,Dog Raincoat,29.99,35.99,64.0,7,True,2026-06-03,"2026, exclude_google",https://br-sparkpaws.com/products/breatheshield-dog-raincoat-camo-green
 10455929716917,Capa de chuva para cães Breatheshield™ -,Dog Raincoat,29.99,35.99,64.0,7,True,2026-06-03,"2026, exclude_google",https://br-sparkpaws.com/products/breatheshield-dog-raincoat-camo-pink
 10455928602805,Capa de chuva para cães Breatheshield™ -,Dog Raincoat,29.99,35.99,64.0,7,True,2026-06-03,"2026, exclude_google",https://br-sparkpaws.com/products/breatheshield-dog-raincoat-camo-purple
 10447417835701,Sunblock Dog T-Shirt 2-pack,Dog T-Shirt,22.49,30.49,50.0,88,True,2026-05-25,"2026, buy-more-save-more, faire, SS24-Robe and Shirt",https://br-sparkpaws.com/products/sunblock-dog-t-shirt-2-pack
